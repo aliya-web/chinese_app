@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Basic_2Fragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:overScrollMode="never"
+        android:scrollbars="vertical">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/text_abp1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:layout_marginStart="15dp"
+                android:layout_marginEnd="15dp"
+                android:text="@string/apb2"
+                android:textStyle="bold"
+                android:textSize="16dp"/>
+            <HorizontalScrollView
+                android:layout_below="@+id/text_abp1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+            <GridLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:padding="5dp"
+                android:layout_marginStart="4dp"
+                android:layout_marginEnd="4dp"
+                android:columnCount="6"
+                android:rowCount="12">
+
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/apb_a"
+                    android:layout_margin="2dp"
+                    android:layout_width="60dp"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/button_selector"
+                    android:textSize="14dp"
+                    android:layout_row="0"
+                    android:layout_column="0"
+                    android:text="a" />
+
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/apb_ai"
+                    android:layout_margin="2dp"
+                    android:layout_width="60dp"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/button_selector"
+                    android:textSize="14dp"
+                    android:layout_row="1"
+                    android:layout_column="0"
+                    android:text="ai" />
+
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/apb_ao"
+                    android:layout_margin="2dp"
+                    android:layout_width="60dp"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/button_selector"
+                    android:textSize="14dp"
+                    android:layout_row="2"
+                    android:layout_column="0"
+                    android:text="ao" />
+
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/apb_an"
+                    android:layout_margin="2dp"
+                    android:layout_width="60dp"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/button_selector"
+                    android:textSize="14dp"
+                    android:layout_row="3"
+                    android:layout_column="0"
+                    android:text="an" />
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/apb_ang"
+                    android:layout_margin="2dp"
+                    android:layout_width="60dp"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/button_selector"
+                    android:textSize="14dp"
+                    android:layout_row="4"
+                    android:layout_column="0"
+                    android:text="ang" />
+
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/apb_o"
+                    android:layout_margin="2dp"
+                    android:layout_width="60dp"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/button_selector"
+                    android:textSize="14dp"
+                    android:layout_row="0"
+                    android:layout_column="1"
+                    android:text="o" />
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/apb_ou"
+                    android:layout_margin="2dp"
+                    android:layout_width="60dp"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/button_selector"
+                    android:textSize="14dp"
+                    android:layout_row="1"
+                    android:layout_column="1"
+                    android:text="ou" />
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/apb_ong"
+                    android:layout_margin="2dp"
+                    android:layout_width="60dp"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/button_selector"
+                    android:textSize="14dp"
+                    android:layout_row="2"
+                    android:layout_column="1"
+                    android:text="ong" />
+
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/apb_e"
+                    android:layout_margin="2dp"
+                    android:layout_width="60dp"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/button_selector"
+                    android:textSize="14dp"
+                    android:layout_row="0"
+                    android:layout_column="2"
+                    android:text="e" />
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/apb_ei"
+                    android:layout_margin="2dp"
+                    android:layout_width="60dp"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/button_selector"
+                    android:textSize="14dp"
+                    android:layout_row="1"
+                    android:layout_column="2"
+                    android:text="ei" />
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/apb_en"
+                    android:layout_margin="2dp"
+                    android:layout_width="60dp"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/button_selector"
+                    android:textSize="14dp"
+                    android:layout_row="2"
+                    android:layout_column="2"
+                    android:text="en" />
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/apb_eng"
+                    android:layout_margin="2dp"
+                    android:layout_width="60dp"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/button_selector"
+                    android:textSize="14dp"
+                    android:layout_row="3"
+                    android:layout_column="2"
+                    android:text="eng" />
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/apb_er"
+                    android:layout_margin="2dp"
+                    android:layout_width="60dp"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/button_selector"
+                    android:textSize="14dp"
+                    android:layout_row="4"
+                    android:layout_column="2"
+                    android:text="er" />
+
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/apb_i"
+                    android:layout_margin="2dp"
+                    android:layout_width="60dp"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/button_selector"
+                    android:textSize="14dp"
+                    android:layout_row="0"
+                    android:layout_column="3"
+                    android:text="i" />
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/apb_ia"
+                    android:layout_margin="2dp"
+                    android:layout_width="60dp"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/button_selector"
+                    android:textSize="14dp"
+                    android:layout_row="1"
+                    android:layout_column="3"
+                    android:text="ia" />
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/apb_iao"
+                    android:layout_margin="2dp"
+                    android:layout_width="60dp"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/button_selector"
+                    android:textSize="14dp"
+                    android:layout_row="2"
+                    android:layout_column="3"
+                    android:text="iao" />
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/apb_ian"
+                    android:layout_margin="2dp"
+                    android:layout_width="60dp"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/button_selector"
+                    android:textSize="14dp"
+                    android:layout_row="3"
+                    android:layout_column="3"
+                    android:text="ian" />
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/apb_iang"
+                    android:layout_margin="2dp"
+                    android:layout_width="60dp"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/button_selector"
+                    android:textSize="14dp"
+                    android:layout_row="4"
+                    android:layout_column="3"
+                    android:text="iang" />
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/apb_ie"
+                    android:layout_margin="2dp"
+                    android:layout_width="60dp"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/button_selector"
+                    android:textSize="14dp"
+                    android:layout_row="5"
+                    android:layout_column="3"
+                    android:text="ie" />
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/apb_iu"
+                    android:layout_margin="2dp"
+                    android:layout_width="60dp"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/button_selector"
+                    android:textSize="14dp"
+                    android:layout_row="6"
+                    android:layout_column="3"
+                    android:text="iu" />
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/apb_in"
+                    android:layout_margin="2dp"
+                    android:layout_width="60dp"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/button_selector"
+                    android:textSize="14dp"
+                    android:layout_row="7"
+                    android:layout_column="3"
+                    android:text="in" />
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/apb_ing"
+                    android:layout_margin="2dp"
+                    android:layout_width="60dp"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/button_selector"
+                    android:textSize="14dp"
+                    android:layout_row="8"
+                    android:layout_column="3"
+                    android:text="ing" />
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/apb_iong"
+                    android:layout_margin="2dp"
+                    android:layout_width="60dp"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/button_selector"
+                    android:textSize="14dp"
+                    android:layout_row="9"
+                    android:layout_column="3"
+                    android:text="iong" />
+
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/apb_u"
+                    android:layout_margin="2dp"
+                    android:layout_width="60dp"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/button_selector"
+                    android:textSize="14dp"
+                    android:layout_row="0"
+                    android:layout_column="4"
+                    android:text="u" />
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/apb_ua"
+                    android:layout_margin="2dp"
+                    android:layout_width="60dp"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/button_selector"
+                    android:textSize="14dp"
+                    android:layout_row="1"
+                    android:layout_column="4"
+                    android:text="ua" />
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/apb_uai"
+                    android:layout_margin="2dp"
+                    android:layout_width="60dp"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/button_selector"
+                    android:textSize="14dp"
+                    android:layout_row="2"
+                    android:layout_column="4"
+                    android:text="uai" />
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/apb_uan"
+                    android:layout_margin="2dp"
+                    android:layout_width="60dp"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/button_selector"
+                    android:textSize="14dp"
+                    android:layout_row="3"
+                    android:layout_column="4"
+                    android:text="uan" />
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/apb_uang"
+                    android:layout_margin="2dp"
+                    android:layout_width="60dp"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/button_selector"
+                    android:textSize="14dp"
+                    android:layout_row="4"
+                    android:layout_column="4"
+                    android:text="uang" />
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/apb_uo"
+                    android:layout_margin="2dp"
+                    android:layout_width="60dp"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/button_selector"
+                    android:textSize="14dp"
+                    android:layout_row="5"
+                    android:layout_column="4"
+                    android:text="uo" />
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/apb_ui"
+                    android:layout_margin="2dp"
+                    android:layout_width="60dp"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/button_selector"
+                    android:textSize="14dp"
+                    android:layout_row="6"
+                    android:layout_column="4"
+                    android:text="ui" />
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/apb_un"
+                    android:layout_margin="2dp"
+                    android:layout_width="60dp"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/button_selector"
+                    android:textSize="14dp"
+                    android:layout_row="7"
+                    android:layout_column="4"
+                    android:text="un" />
+
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/apb_uu"
+                    android:layout_margin="2dp"
+                    android:layout_width="60dp"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/button_selector"
+                    android:textSize="14dp"
+                    android:layout_row="0"
+                    android:layout_column="5"
+                    android:text="ü" />
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/apb_uue"
+                    android:layout_margin="2dp"
+                    android:layout_width="60dp"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/button_selector"
+                    android:textSize="14dp"
+                    android:layout_row="1"
+                    android:layout_column="5"
+                    android:text="üe" />
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/apb_uuan"
+                    android:layout_margin="2dp"
+                    android:layout_width="60dp"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/button_selector"
+                    android:textSize="14dp"
+                    android:layout_row="2"
+                    android:layout_column="5"
+                    android:text="üan" />
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/apb_uun"
+                    android:layout_margin="2dp"
+                    android:layout_width="60dp"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/button_selector"
+                    android:textSize="14dp"
+                    android:layout_row="3"
+                    android:layout_column="5"
+                    android:text="ün" />
+
+            </GridLayout>
+            </HorizontalScrollView>
+        </RelativeLayout>
+    </ScrollView>
+
+</FrameLayout>

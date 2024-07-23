@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".pinyin">
+    <include
+        android:id="@+id/toolbar"
+        layout="@layout/mytoolbar"/>
+
+    <com.google.android.material.tabs.TabLayout
+        android:id="@+id/tablayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:tabIndicatorColor="@color/lavender"
+        app:tabSelectedTextColor="@color/lavender">
+
+        <com.google.android.material.tabs.TabItem
+            android:id="@+id/basic1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ແນະນຳ" />
+
+        <com.google.android.material.tabs.TabItem
+            android:id="@+id/basic2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ພະຍັນຊະນະ" />
+        <com.google.android.material.tabs.TabItem
+            android:id="@+id/basic3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ສະຫຼະ" />
+        <com.google.android.material.tabs.TabItem
+            android:id="@+id/basic4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ວັນນະຍຸດ" />
+
+    </com.google.android.material.tabs.TabLayout>
+
+    <FrameLayout
+        android:id="@+id/framelayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+</LinearLayout>

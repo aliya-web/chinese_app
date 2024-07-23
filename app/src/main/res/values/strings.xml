@@ -1,0 +1,3927 @@
+<resources>
+    <string name="app_name">Chinese_HSK</string>
+
+    <!--    hsk1 -->
+    <string-array name="hsk1_cabhanzi">
+        <item>爱</item>
+        <item>八</item>
+        <item>爸爸</item>
+        <item>杯子</item>
+        <item>北京</item>
+        <item>本</item>
+        <item>不客气</item>
+        <item>不</item>
+        <item>菜</item>
+        <item>茶</item>
+        <item>吃</item>
+        <item>出租车</item>
+        <item>打电话(给)</item>
+        <item>大</item>
+        <item>的</item>
+        <item>点</item>
+        <item>电脑</item>
+        <item>电视</item>
+        <item>电影</item>
+        <item>东西</item>
+        <item>都</item>
+        <item>读</item>
+        <item>对不起</item>
+        <item>多</item>
+        <item>多少</item>
+        <item>儿子</item>
+        <item>二</item>
+        <item>饭馆</item>
+        <item>飞机</item>
+        <item>分钟</item>
+        <item>高兴</item>
+        <item>个</item>
+        <item>工作</item>
+        <item>狗</item>
+        <item>汉语</item>
+        <item>好</item>
+        <item>喝</item>
+        <item>和</item>
+        <item>很</item>
+        <item>后面</item>
+        <item>回</item>
+        <item>会</item>
+        <item>火车站</item>
+        <item>几</item>
+        <item>家</item>
+        <item>叫</item>
+        <item>今天</item>
+        <item>九</item>
+        <item>开</item>
+        <item>看</item>
+        <item>看见</item>
+        <item>块</item>
+        <item>来</item>
+        <item>老师</item>
+        <item>了</item>
+        <item>冷</item>
+        <item>里</item>
+        <item>零</item>
+        <item>六</item>
+        <item>妈妈</item>
+        <item>吗</item>
+        <item>买</item>
+        <item>猫</item>
+        <item>没</item>
+        <item>没关系</item>
+        <item>米饭</item>
+        <item>明天</item>
+        <item>名字</item>
+        <item>那， 那儿</item>
+        <item>哪， 哪儿</item>
+        <item>呢</item>
+        <item>能</item>
+        <item>你</item>
+        <item>年</item>
+        <item>女儿</item>
+        <item>朋友</item>
+        <item>漂亮</item>
+        <item>苹果</item>
+        <item>七</item>
+        <item>钱</item>
+        <item>前面</item>
+        <item>请</item>
+        <item>去</item>
+        <item>热</item>
+        <item>人</item>
+        <item>认识</item>
+        <item>日</item>
+        <item>三</item>
+        <item>商店</item>
+        <item>上</item>
+        <item>上午</item>
+        <item>少</item>
+        <item>谁</item>
+        <item>什么</item>
+        <item>十</item>
+        <item>时候</item>
+        <item>是</item>
+        <item>书</item>
+        <item>水</item>
+        <item>水果</item>
+        <item>睡觉</item>
+        <item>说话</item>
+        <item>四</item>
+        <item>岁</item>
+        <item>他</item>
+        <item>她</item>
+        <item>太</item>
+        <item>天气</item>
+        <item>听</item>
+        <item>同学</item>
+        <item>喂</item>
+        <item>我</item>
+        <item>我们</item>
+        <item>五</item>
+        <item>喜欢</item>
+        <item>下</item>
+        <item>下午</item>
+        <item>下雨</item>
+        <item>先生</item>
+        <item>现在</item>
+        <item>想</item>
+        <item>小</item>
+        <item>小姐</item>
+        <item>些</item>
+        <item>写</item>
+        <item>谢谢</item>
+        <item>星期</item>
+        <item>学生</item>
+        <item>学校</item>
+        <item>一</item>
+        <item>衣服</item>
+        <item>医生</item>
+        <item>医院</item>
+        <item>椅子</item>
+        <item>有</item>
+        <item>月</item>
+        <item>在</item>
+        <item>再见</item>
+        <item>怎么</item>
+        <item>怎么样</item>
+        <item>这， 这儿</item>
+        <item>中国</item>
+        <item>中午</item>
+        <item>住</item>
+        <item>桌子</item>
+        <item>字</item>
+        <item>昨天</item>
+        <item>坐</item>
+        <item>做</item>
+    </string-array>
+    <string-array name="hsk1_cabfanyi">
+        <item>ມັກ, ຮັກ</item>
+        <item>ແປດ (ເລກ8)</item>
+        <item>ພໍ່</item>
+        <item>ຈອກ</item>
+        <item>ປັກກິ່ງ (ນະຄອນຫຼວງຂອງຈີນ)</item>
+        <item>ລັກສະນະນາມໃຫ້ປື້ມ (ຫົວ, ເຫຼັ້ມ)</item>
+        <item>ບໍ່ເປັນຫຍັງ, ບໍ່ຕ້ອງເກັງໃຈ</item>
+        <item>ບໍ່</item>
+        <item>ຜັກ, ອາຫານ</item>
+        <item>ຊາ (ນ້ຳຊາ)</item>
+        <item>ກິນ</item>
+        <item>ລົດແທັກຊີ</item>
+        <item>ໂທຫາ</item>
+        <item>ໃຫຍ່</item>
+        <item>ຂອງ, ທີ່</item>
+        <item>ໂມງ, ຈຸດ, ສັ່ງ</item>
+        <item>ຄອມພິວເຕີ</item>
+        <item>ໂທລະທັດ</item>
+        <item>ໜັງ, ຮູບເງົາ</item>
+        <item>ສິ່ງຂອງ, ເຄື່ອງ</item>
+        <item>ໝົດ, ລ້ວນແຕ່</item>
+        <item>ອ່ານ</item>
+        <item>ຂໍໂທດ</item>
+        <item>ຫຼາຍ</item>
+        <item>ເທົ່າໃດ</item>
+        <item>ລູກຊາຍ</item>
+        <item>ສອງ (ເລກ2)</item>
+        <item>ຮ້ານອາຫານ</item>
+        <item>ຍົນ</item>
+        <item>ນາທີ</item>
+        <item>ດີໃຈ</item>
+        <item>ອັນ, ລັກສະນະນາມ</item>
+        <item>ເຮັດວຽກ</item>
+        <item>ໜາ</item>
+        <item>ພາສາຈິນ</item>
+        <item>ດີ</item>
+        <item>ດື່ມ</item>
+        <item>ກັບ, ແລະ</item>
+        <item>ຫຼາຍ</item>
+        <item>ດ້ານຫລັງ</item>
+        <item>ກັບ, ຄືນ, ຕອບ</item>
+        <item>ໄດ້, ສາມາດ, ເປັນ, ຊີ, ຈະ</item>
+        <item>ສະຖານີລົດໄຟ</item>
+        <item>ຈັກ, ສອງສາມ</item>
+        <item>ເຮືອນ, ບ້ານ, ຄອບຄົວ</item>
+        <item>ເອິ້ນ, ຮ້ອງ, ຊື່</item>
+        <item>ມື້ນີ້</item>
+        <item>ເກົ້າ (ເລກ9)</item>
+        <item>ເປິດ, ຂັບ(ລົດ)</item>
+        <item>ເບິ່ງ, ເຫັນ</item>
+        <item>ໄດ້ເຫັນ, ໄດ້ພົບ</item>
+        <item>ກ້ອນ, ຢວນ(ໃຊ້ແທນສະກຸນເງີນຈີນ)</item>
+        <item>ມາ</item>
+        <item>ຄູ, ອາຈານ</item>
+        <item>ແລ້ວ</item>
+        <item>ໜາວ</item>
+        <item>ໃນ</item>
+        <item>ສູນ (ເລກ0)</item>
+        <item>ຫົກ (ເລກ6)</item>
+        <item>ແມ່</item>
+        <item>ບໍ, ໃຊ້ເປັນຄຳຖາມ</item>
+        <item>ຊື້</item>
+        <item>ແມວ</item>
+        <item>ບໍ່, ບໍ່ມີ</item>
+        <item>ບໍ່ເປັນຫຍັງ</item>
+        <item>ເຂົ້າຈ້າວ</item>
+        <item>ມື້ອື່ນ</item>
+        <item>ຊື່</item>
+        <item>ນັ້ນ， ຢູ່ນັ້ນ</item>
+        <item>ໃດ， ຢູ່ໃສ</item>
+        <item>ເດ, ລາ</item>
+        <item>ໄດ້, ສາມາດ</item>
+        <item>ເຈົ້າ</item>
+        <item>ປີ</item>
+        <item>ລູກສາວ</item>
+        <item>ໝູ່ເພື່ອນ</item>
+        <item>ສວຍງາມ</item>
+        <item>ໝາກແອບເປິ້ນ</item>
+        <item>ເຈັດ (ເລກ7)</item>
+        <item>ເງີນ</item>
+        <item>ທາງໜ້າ</item>
+        <item>ຂໍ, ເຊີນ, ກາລຸນາ</item>
+        <item>ໄປ</item>
+        <item>ຮ້ອນ</item>
+        <item>ຄົນ, ມະນຸດ</item>
+        <item>ຮູ້ຈັກ</item>
+        <item>ມື້, ຕາເວັນ, ວັນທີ</item>
+        <item>ສາມ (ເລກ3)</item>
+        <item>ຮ້ານຄ້າ</item>
+        <item>ທາງເທິງ</item>
+        <item>ຕອນເຊົ້າ</item>
+        <item>ໜ້ອຍ</item>
+        <item>ໃຜ, ຜູ້ໃດ</item>
+        <item>ຫຍັງ</item>
+        <item>ສິບ (ເລກ10)</item>
+        <item>ຕອນ, ເວລາ</item>
+        <item>ແມ່ນ</item>
+        <item>ປື້ມ</item>
+        <item>ນ້ຳ</item>
+        <item>ໝາກໄມ້</item>
+        <item>ນອນ</item>
+        <item>ເວົ້າ, ລົມ</item>
+        <item>ສີ່ (ເລກ4)</item>
+        <item>ອາຍຸ</item>
+        <item>ລາວ (ຜູ້ຊາຍ)</item>
+        <item>ລາວ (ຜູ້ຍິງ)</item>
+        <item>ໂພດ, ຫຼາຍ</item>
+        <item>ສະພາບອາກາດ</item>
+        <item>ຟັງ</item>
+        <item>ເພື່ອນຮ່ວມຮຽນ</item>
+        <item>ອາໂລ</item>
+        <item>ຂ້ອຍ</item>
+        <item>ພວກເຮົາ</item>
+        <item>ຫ້າ (ເລກ5)</item>
+        <item>ມັກ</item>
+        <item>ດ້ານລຸ້ມ</item>
+        <item>ຕອນສວຍ, ຕອນແລງ</item>
+        <item>ຝົນຕົກ</item>
+        <item>ທ່ານຊາຍ, ສາມີ(ຜົວ)</item>
+        <item>ດຽວນີ້</item>
+        <item>ຄິດ, ຢາກ, ຄິດຮອດ</item>
+        <item>ນ້ອຍ</item>
+        <item>ນາງ</item>
+        <item>ໜ້ອຍໜື່ງ, ເຫຼົ່າ</item>
+        <item>ຂຽນ</item>
+        <item>ຂອບໃຈ</item>
+        <item>ອາທິດ</item>
+        <item>ນັກຮຽນ</item>
+        <item>ໂຮງຮຽນ</item>
+        <item>ໜື່ງ (ເລກ1)</item>
+        <item>ເສື້ອຜ້າ</item>
+        <item>ທ່ານໝໍ</item>
+        <item>ໂຮງໝໍ</item>
+        <item>ຕັ່ງ</item>
+        <item>ມີ</item>
+        <item>ເດືອນ</item>
+        <item>ຢູ່, ກຳລັງ</item>
+        <item>ລາກ່ອນ, ພົບກັນໃໝ່</item>
+        <item>ແນວໃດ</item>
+        <item>ເປັນແນວໃດ</item>
+        <item>ນີ້， ຢູ່ນີ້</item>
+        <item>ປະເທດຈິນ</item>
+        <item>ຕອນທ່ຽງ</item>
+        <item>ພັກ, ອາໄສ</item>
+        <item>ໂຕະ</item>
+        <item>ຕົວໜັງສື</item>
+        <item>ມື້ວານ</item>
+        <item>ນັ່ງ</item>
+        <item>ເຮັດ, ກະທຳ</item>
+    </string-array>
+
+    <string-array name="hsk1_juzi">
+        <item>你好。</item>
+        <item>你好吗？</item>
+        <item>我很好，你呢？</item>
+        <item>你叫什么名字?</item>
+        <item>我叫 (xiaomi)。</item>
+        <item>谢谢。</item>
+        <item>不客气。</item>
+        <item>对不起。</item>
+        <item>没关系。</item>
+        <item>你今年几岁了？</item>
+        <item>我今年十八岁了。</item>
+        <item>吃饭了吗？</item>
+        <item>妈妈、我爱你。</item>
+        <item>我爱吃中国菜。</item>
+        <item>我有八本书。</item>
+        <item>我爸爸是医生。</item>
+        <item>这个杯子很漂亮。</item>
+        <item>北京的天气很好。</item>
+        <item>他不想去学校。</item>
+        <item>我很喜欢吃白菜。</item>
+        <item>老挝菜很好吃。</item>
+        <item>爸爸喜欢喝中国茶。</item>
+        <item>哥哥坐出租车去工作。</item>
+        <item>妈妈打电话给我。</item>
+        <item>苹果很大。</item>
+        <item>现在几点了？</item>
+        <item>我上午七点吃饭。</item>
+        <item>他的杯子很大。</item>
+        <item>妈妈买电脑。</item>
+        <item>我喜欢看电视。</item>
+        <item>电影很好看。</item>
+        <item>我和爸爸妈妈一起看电影。</item>
+        <item>他买的东西很多。</item>
+        <item>这些东西都是她的。</item>
+        <item>我妈妈很喜欢读书。</item>
+        <item>你儿子的电脑买多少钱？</item>
+        <item>这个饭馆的菜很好吃。</item>
+        <item>这个电脑是二手的。</item>
+        <item>坐飞机去北京要四个小时和二十分钟。</item>
+        <item>她很高兴。</item>
+        <item>你工作怎么样？</item>
+        <item>她有一只狗一只猫。</item>
+        <item>哥哥的汉语很好。</item>
+        <item>姐姐正在喝水。</item>
+        <item>她在你后面呢。</item>
+        <item>你什么时候能回家。</item>
+        <item>我会说汉语。</item>
+        <item>爸爸在火车站工作。</item>
+        <item>妈妈坐出租车回家。</item>
+        <item>爸爸今天很高兴</item>
+        <item>他有九十块钱。</item>
+        <item>他开车来这里。</item>
+        <item>我很喜欢看书。</item>
+        <item>你看见老师了吗？</item>
+        <item>我有几块钱。</item>
+        <item>老师来了吗？</item>
+        <item>这里天气很冷。</item>
+        <item>你有零钱吗?</item>
+        <item>你读零到十给我听。</item>
+        <item>明天我们吃米饭好吗？</item>
+        <item>你能不能下午跟我去医院？</item>
+        <item>女儿在吃苹果。</item>
+        <item>请给我七个苹果。</item>
+        <item>前面有出租车。</item>
+        <item>你和他什么时候认识的？</item>
+        <item>我们都是老挝人。</item>
+        <item>今天十四日。</item>
+        <item>我三点去商店。</item>
+        <item>商店有很多东西。</item>
+        <item>上面有很多人。</item>
+        <item>上午天气很好。</item>
+        <item>我九点睡觉。</item>
+        <item>水太少了。</item>
+        <item>谁的水果？</item>
+        <item>李小姐在说话。</item>
+        <item>下午下雨很大。</item>
+        <item>他是我先生。</item>
+        <item>我现在在想你。</item>
+        <item>喂！ 你是谁？</item>
+        <item>小丽是我的同学。</item>
+        <item>我有十五个同学。</item>
+        <item>你写汉字太小了。</item>
+        <item>我中午吃中国菜。</item>
+        <item>椅子在桌子下面。</item>
+        <item>我住在这儿一个月了。</item>
+        <item>你怎么坐在这儿?</item>
+        <item>我做的菜怎么样？</item>
+        <item>医生在医院工作。</item>
+        <item>昨天你去医院怎么样？</item>
+
+    </string-array>
+    <string-array name="hsk1_jufan">
+        <item>ສະບາຍດີ.</item>
+        <item>ເຈົ້າສະບາຍດີບໍ？</item>
+        <item>ຂ້ອຍສະບາຍດີ，ເຈົ້າແດ່？</item>
+        <item>ເຈົ້າຊື່ຫຍັງ?</item>
+        <item>ຂ້ອຍຊື່ວ່າ (xiaomi).</item>
+        <item>ຂອບໃຈ.</item>
+        <item>ບໍ່ຕ້ອງເກັ່ງໃຈ.</item>
+        <item>ຂໍໂທດ.</item>
+        <item>ບໍ່ເປັນຫຍັງ.</item>
+        <item>ປີນີ້ເຈົ້າອາຍຸຈັກປີແລ້ວ？</item>
+        <item>ປີນີ້ຂ້ອຍອາຍຸ18ປີແລ້ວ.</item>
+        <item>ກິນເຂົ້າແລ້ວບໍ？</item>
+        <item>ແມ່, ຂ້ອຍຮັກເຈົ້າ.</item>
+        <item>ຂ້ອຍມັກກິນອາຫານຈີນ.</item>
+        <item>ຂ້ອຍມີປື້ມ8ຫົວ.</item>
+        <item>ພໍ່ຂອງຂ້ອຍແມ່ນທ່ານໝໍ.</item>
+        <item>ຈອກໃບນີ້ງາມຫຼາຍ.</item>
+        <item>ສະພາບອາກາດຢູ່ປັກກິ່ງດີຫຼາຍ.</item>
+        <item>ລາວບໍ່ຢາກໄປໂຮງຮຽນ.</item>
+        <item>ຂ້ອຍມັກກິນພັກກາດຂາວຫຼາຍ.</item>
+        <item>ອາຫານລາວແຊບຫຼາຍ.</item>
+        <item>ພໍ່ມັກດື່ມຊາຈີນ.</item>
+        <item>ອ້າຍນັ່ງລົດແທັກຊີໄປເຮັດວຽກ.</item>
+        <item>ແມ່ໂທຫາຂ້ອຍ.</item>
+        <item>ໝາກແອບເປິ້ນໃຫຍ່ຫຼາຍ.</item>
+        <item>ຕອນນີ້ຈັກໂມງແລ້ວ？</item>
+        <item>ຂ້ອຍກິນເຂົ້າ7ໂມງເຊົ້າ.</item>
+        <item>ຈອກຂອງລາວໃຫຍ່ຫຼາຍ.</item>
+        <item>ແມ່ຊື້ຄອມພິວເຕີ.</item>
+        <item>ຂ້ອຍມັກເບິ່ງໂທລະທັດ.</item>
+        <item>ໜັງມ່ວນຫຼາຍ.</item>
+        <item>ຂ້ອຍແລະພໍ່ແມ່ໄປເບິ່ງໜັງນຳກັນ.</item>
+        <item>ສິ່ງຂອງທີ່ລາວຊື່ຫຼາຍແຮງ.</item>
+        <item>ສິ່ງຂອງເຫຼົ່ານີ້ລ້ວນແຕ່ແມ່ນຂອງລາວໝົດ.</item>
+        <item>ແມ່ຂອງຂ້ອຍມັກອ່ານປື້ມຫຼາຍ.</item>
+        <item>ຄອມພິວເຕີຂອງລູກຊາຍເຈົ້າຊື້ເທົ່າໃດ？</item>
+        <item>ອາຫານຂອງຮ້ານອາຫານນີ້ແຊບຫຼາຍ.</item>
+        <item>ຄອມພິວເຕີໜ່ວຍນີ້ແມ່ນຂອງມືສອງ.</item>
+        <item>ນັ່ງຍົນໄປປັກກິ່ງຕ້ອງໃຊ້ເວລາ4ຊົວໂມງ20ນາທີ.</item>
+        <item>ລາວດີໃຈຫຼາຍ。</item>
+        <item>ເຈົ້າເຮັດວຽກເປັນແນວໃດ？</item>
+        <item>ລາວມີໝາ1ໂຕແມວ1ໂຕ.</item>
+        <item>ພາສາຈີນຂອງອ້າຍດີຫຼາຍ.</item>
+        <item>ເອື້ອຍກຳລັງດື່ມນ້ຳ.</item>
+        <item>ລາວຢູ່ທາງຫຼັງເຈົ້າເດ.</item>
+        <item>ເຈົ້າໄດ້ກັບບ້ານຕອນໃດ.</item>
+        <item>ຂ້ອຍເວົ້າພາສາຈີນໄດ້.</item>
+        <item>ພໍ່ເຮັດວຽກຢູ່ສະຖານີລົດໄຟ.</item>
+        <item>ແມ່ນັ່ງແທັກຊີກັບບ້ານ.</item>
+        <item>ມື້ນີ້ພໍ່ມີຄວາມສຸກຫຼາຍ.</item>
+        <item>ລາວມີເງີນ90ຢວນ.</item>
+        <item>ລາວຂັບລົດມານີ້.</item>
+        <item>ຂ້ອຍມັກອ່ານປື້ມຫຼາຍ.</item>
+        <item>ເຈົ້າໄດ້ພົບອາຈານແລ້ວບໍ？</item>
+        <item>ຂ້ອຍມີເງີນ2-3ຢວນ.</item>
+        <item>ອາຈານມາແລ້ວບໍ？</item>
+        <item>ອາກາດຢູ່ນີ້ໜາວຫຼາຍ.</item>
+        <item>ເຈົ້າມີເງີນຍ່ອຍບໍ່?</item>
+        <item>ເຈົ້າອ່ານ0ຫາ10ໃຫ້ຂ້ອຍຟັງ.</item>
+        <item>ມື້ອື່ນພວກເຮົາກິນເຂົ້າຈ້າວບໍ？</item>
+        <item>ເຈົ້າສາມາດໄປໂຮງໝໍນຳຂ້ອຍໄດ້ບໍ？</item>
+        <item>ລູກສາວກຳລັງກິນໝາກແອບເປິ້ນ.</item>
+        <item>ຂໍເອົາໝາກແອບເປິ້ນໃຫ້ຂ້ອຍ7ໜ່ວຍ.</item>
+        <item>ທາງໜ້າມີລົດແທັກຊີ.</item>
+        <item>ເຈົ້າກັບລາວຮູ້ຈັກກັນຕອນໃດ？</item>
+        <item>ພວກເຮົາແມ່ນຄົນລາວໝົດ.</item>
+        <item>ມື້ນ໊ີວັນທີ່14.</item>
+        <item>ຂ້ອຍໄປຮ້ານຄ້າຕອນ3ໂມງ.</item>
+        <item>ຮ້ານຄ້າມີເຄື່ອງຫຼາຍ.</item>
+        <item>ດ້ານເທິງມີຄົນຫຼາຍ.</item>
+        <item>ອາກາດຕອນເຊົ້າດີຫຼາຍ.</item>
+        <item>ຂ້ອຍນອນ9ໂມງ.</item>
+        <item>ນ້ຳໜ້ອຍໂພດ.</item>
+        <item>ໝາກໄມ້ຂອງໃຜ？</item>
+        <item>ນາງລີກຳລັງເວົ້າ.</item>
+        <item>ຕອນແລງຜົນຕົກແຮງ.</item>
+        <item>ລາວແມ່ນສາມີຂ້ອຍ.</item>
+        <item>ຕອນນີ້ຂ້ອຍກຳລັງຄິດຮອດເຈົ້າ.</item>
+        <item>ອາໂລ！ ເຈົ້າແມ່ນໃຜ？</item>
+        <item>xiaoli ແມ່ນເພື່ອນຮ່ວມຮຽນຂອງຂ້ອຍ.</item>
+        <item>ຂ້ອຍມີເພື່ອຮ່ວມຮຽນ15ຄົນ.</item>
+        <item>ຕົວຂຽນຕົວໜັງສືຈີນນ້ອຍໂພດແລ້ວ.</item>
+        <item>ຕອນສວຍຂ້ອຍກິນອາຫານຈີນ.</item>
+        <item>ຕັ່ງຢູ່ກ້ອງໂຕະ.</item>
+        <item>ຂ້ອຍພັກຢູ່ນີ້ໄດ້ໜື່ງເດືອນແລ້ວ.</item>
+        <item>ເປັນຫຍັງເຈົ້າຈື່ງນັ່ງຢູ່ນີ້?</item>
+        <item>ອາຫານທີ່ຂ້ອຍເຮັດເປັນແນວໃດ？</item>
+        <item>ທ່ານໝໍເຮັດວຽກຢູ່ໂຮງໝໍ.</item>
+        <item>ມື່້ວານນີ້ເຈົ້າໄປໂຮງໝໍເປັນຈັງໃດ？</item>
+    </string-array>
+    <!--    hsk2 -->
+    <string-array name="hsk2_cabhanzi">
+        <item>吧</item>
+        <item>白</item>
+        <item>百</item>
+        <item>帮助</item>
+        <item>报纸</item>
+        <item>比</item>
+        <item>别</item>
+        <item>长</item>
+        <item>唱歌</item>
+        <item>出</item>
+        <item>穿</item>
+        <item>船</item>
+        <item>次</item>
+        <item>从</item>
+        <item>错</item>
+        <item>打篮球</item>
+        <item>大家</item>
+        <item>但是</item>
+        <item>到</item>
+        <item>得</item>
+        <item>等</item>
+        <item>弟弟</item>
+        <item>第一</item>
+        <item>懂</item>
+        <item>对</item>
+        <item>房间</item>
+        <item>非常</item>
+        <item>服务员</item>
+        <item>高</item>
+        <item>告诉</item>
+        <item>哥哥</item>
+        <item>给</item>
+        <item>公共汽车</item>
+        <item>公斤</item>
+        <item>公司</item>
+        <item>贵</item>
+        <item>还</item>
+        <item>孩子</item>
+        <item>好吃</item>
+        <item>号</item>
+        <item>黑</item>
+        <item>红</item>
+        <item>欢迎</item>
+        <item>回答</item>
+        <item>机场</item>
+        <item>鸡蛋</item>
+        <item>件</item>
+        <item>教室</item>
+        <item>姐姐</item>
+        <item>介绍</item>
+        <item>进</item>
+        <item>近</item>
+        <item>就</item>
+        <item>觉得</item>
+        <item>咖啡</item>
+        <item>开始</item>
+        <item>考试</item>
+        <item>可能</item>
+        <item>可以</item>
+        <item>课</item>
+        <item>快</item>
+        <item>快乐</item>
+        <item>累</item>
+        <item>离</item>
+        <item>两</item>
+        <item>路</item>
+        <item>旅游</item>
+        <item>卖</item>
+        <item>慢</item>
+        <item>忙</item>
+        <item>每</item>
+        <item>妹妹</item>
+        <item>门</item>
+        <item>男人</item>
+        <item>您</item>
+        <item>牛奶</item>
+        <item>女人</item>
+        <item>旁边</item>
+        <item>跑步</item>
+        <item>便宜</item>
+        <item>票</item>
+        <item>妻子</item>
+        <item>起床</item>
+        <item>千</item>
+        <item>晴</item>
+        <item>去年</item>
+        <item>让</item>
+        <item>上班</item>
+        <item>身体</item>
+        <item>生病</item>
+        <item>生日</item>
+        <item>时间</item>
+        <item>事情</item>
+        <item>手表</item>
+        <item>手机</item>
+        <item>送</item>
+        <item>所以</item>
+        <item>它</item>
+        <item>踢足球</item>
+        <item>题</item>
+        <item>跳舞</item>
+        <item>外</item>
+        <item>完</item>
+        <item>玩儿</item>
+        <item>晚上</item>
+        <item>为什么</item>
+        <item>问</item>
+        <item>问题</item>
+        <item>西瓜</item>
+        <item>希望</item>
+        <item>洗</item>
+        <item>向</item>
+        <item>小时</item>
+        <item>笑</item>
+        <item>新</item>
+        <item>姓</item>
+        <item>休息</item>
+        <item>雪</item>
+        <item>颜色</item>
+        <item>眼睛</item>
+        <item>羊肉</item>
+        <item>药</item>
+        <item>要</item>
+        <item>也</item>
+        <item>已经</item>
+        <item>一起</item>
+        <item>意思</item>
+        <item>阴</item>
+        <item>因为</item>
+        <item>游泳</item>
+        <item>右边</item>
+        <item>鱼</item>
+        <item>元</item>
+        <item>远</item>
+        <item>运动</item>
+        <item>再</item>
+        <item>早上</item>
+        <item>张</item>
+        <item>丈夫</item>
+        <item>找</item>
+        <item>着</item>
+        <item>真</item>
+        <item>正在</item>
+        <item>知道</item>
+        <item>准备</item>
+        <item>自行车</item>
+        <item>走</item>
+        <item>最</item>
+        <item>左边</item>
+    </string-array>
+    <string-array name="hsk2_cabfanyi">
+        <item>ເປັນຄຳເສິມຊ່ວຍ (ເນາະ, ເທາະ, ເດີ)</item>
+        <item>ຂາວ (ສີຂາວ)</item>
+        <item>ຮ້ອຍ (100)</item>
+        <item>ຊ່ວຍເຫຼືອ</item>
+        <item>ໜັງສືພິມ</item>
+        <item>ກວ່າ, ປຽບທຽບ</item>
+        <item>ຢ່າ, ອື່ນໆ</item>
+        <item>ຍາວ, ເຕີບໂຕ</item>
+        <item>ຮ້ອງເພງ</item>
+        <item>ອອກ</item>
+        <item>ນຸ່ງ, ໃສ່</item>
+        <item>ເຮືອ</item>
+        <item>ເທື່ອ</item>
+        <item>ຕັ້ງແຕ່, ຈາກ</item>
+        <item>ຜິດ</item>
+        <item>ຫຼິ້ນບານບ່ວງ</item>
+        <item>ທຸກຄົນ</item>
+        <item>ແຕ່ວ່າ</item>
+        <item>ຮອດ</item>
+        <item>ໄດ້ (ໄດ້ຮັບ)</item>
+        <item>ຖ້າ, ແລະອື່ນໆ</item>
+        <item>ນ້ອງຊາຍ</item>
+        <item>ທີ່ໜື່ງ, ທຳອິດ</item>
+        <item>ຮູ້, ເຂົ້າໃຈ</item>
+        <item>ຕໍ່່, ຖືກຕ້ອງ</item>
+        <item>ຫ້ອງ (ຫ້ອງນອນ)</item>
+        <item>ຫຼາຍ</item>
+        <item>ພະນັກງານ(ເສີບ)</item>
+        <item>ສູງ</item>
+        <item>ບອກ</item>
+        <item>ອ້າຍ</item>
+        <item>ໃຫ້</item>
+        <item>ລົດເມ</item>
+        <item>ກິໂລ</item>
+        <item>ບໍລິສັດ</item>
+        <item>ແພງ</item>
+        <item>ຍັງ</item>
+        <item>ລູກ, ເດັກນ້ອຍ</item>
+        <item>ແຊບ</item>
+        <item>ເບີ, ເລກ, ວັນທີ</item>
+        <item>ດຳ (ສີດຳ)</item>
+        <item>ແດງ (ສີແດງ)</item>
+        <item>ຍິນດີຕ້ອນຮັບ</item>
+        <item>ຕອບ</item>
+        <item>ເດິນຍົນ, ສະໜາມບິນ</item>
+        <item>ໄຂ່ໄກ່</item>
+        <item>ລັກສະນະນາມ (ຜືນ, ເລື່ອງ)</item>
+        <item>ຫ້ອງຮຽນ</item>
+        <item>ເອື້ອຍ</item>
+        <item>ແນະນຳ</item>
+        <item>ເຂົ້າ</item>
+        <item>ໃກ້</item>
+        <item>ກໍ່</item>
+        <item>ຄິດວ່າ, ຮູ້ສືກວ່າ</item>
+        <item>ກະເຟ</item>
+        <item>ເລິ່ມຕົ້ນ</item>
+        <item>ສອບເສັງ</item>
+        <item>ນ່າຈະ, ອາດຈະ, ເປັນໄປໄດ້</item>
+        <item>ໄດ້, ສາມາດ</item>
+        <item>ບົດຮຽນ, ວີຊາຮຽນ</item>
+        <item>ໄວ</item>
+        <item>ມີຄວາມສຸກ</item>
+        <item>ເມື່ອຍ</item>
+        <item>ຫ່າງ</item>
+        <item>ສອງ</item>
+        <item>ທາງ</item>
+        <item>ທ່ອງທ່ຽວ</item>
+        <item>ຂາຍ</item>
+        <item>ຊ້າ</item>
+        <item>ຄາວຽກ</item>
+        <item>ແຕ່ລະ, ທຸກໆ</item>
+        <item>ນ້ອງສາວ</item>
+        <item>ປະຕຸ</item>
+        <item>ຜູ້ຊາຍ</item>
+        <item>ທ່ານ (ເຈົ້າ)</item>
+        <item>ນົມ (ງົວ)</item>
+        <item>ຜູ້ຍິງ</item>
+        <item>ທາງຂ້າງ</item>
+        <item>ແລ່ນ</item>
+        <item>ລາຄາຖືກ</item>
+        <item>ປິ້</item>
+        <item>ພັນລາຍາ(ເມຍ)</item>
+        <item>ຕື່ນນອນ</item>
+        <item>ພັນ (1000)</item>
+        <item>ມີແດດ, ຟ້າແຈ້ງ</item>
+        <item>ປີກາຍ</item>
+        <item>ໃຫ້</item>
+        <item>ເຮັດວຽກ</item>
+        <item>ຮ່າງກາຍ, ສຸຂະພາບ</item>
+        <item>ເຈັບປ່ວຍ</item>
+        <item>ວັນເກິດ</item>
+        <item>ເວລາ</item>
+        <item>ເລື່ອງ, ວຽກ, ບັນຫາ</item>
+        <item>ໂມງ(ແຂນ)</item>
+        <item>ໂທລະສັບ</item>
+        <item>ສົ່ງ, ມອບ</item>
+        <item>ດັ່ງນັ້ນ, ສະນັ້ນ</item>
+        <item>ມັນ (ສັດ)</item>
+        <item>ແຕະບານ</item>
+        <item>ຂໍ້</item>
+        <item>ຟ້ອນ, ເຕັ້ນ</item>
+        <item>ນອກ, ດ້ານນອກ</item>
+        <item>ໜົດ, ແລ້ວ</item>
+        <item>ຫຼິ້ນ</item>
+        <item>ຕອນຄ່ຳ</item>
+        <item>ເປັນຫຍັງ</item>
+        <item>ຖາມ</item>
+        <item>ຄຳຖາມ, ບັນຫາ</item>
+        <item>ໝາກແຕງໂມ</item>
+        <item>ຫວັງວ່າ</item>
+        <item>ລ້າງ</item>
+        <item>ສູ່, ມ່່ງຫນ້າ</item>
+        <item>ຊົ່ວໂມງ</item>
+        <item>ຫົວ, ຍິ້ມ</item>
+        <item>ໃໝ່</item>
+        <item>ນາມສະກຸນ</item>
+        <item>ພັກຜ່ອນ</item>
+        <item>ຫິມະ</item>
+        <item>ສີ</item>
+        <item>ຕາ</item>
+        <item>ຊິ້ນແບ້</item>
+        <item>ຢາ</item>
+        <item>ຕ້ອງການ, ຢາກ, ຕ້ອງ</item>
+        <item>ກໍ່</item>
+        <item>ແລ້ວໆ</item>
+        <item>ນຳກັນ</item>
+        <item>ຄວາມໝາຍ</item>
+        <item>ຟ້າມືດ, ຟ້າບົດ</item>
+        <item>ເພາະວ່າ</item>
+        <item>ລອຍນ້ຳ</item>
+        <item>ເບື້ອງຂວາ</item>
+        <item>ປາ</item>
+        <item>ເງີນຢວນ</item>
+        <item>ໄກ</item>
+        <item>ອອກກຳລັງກາຍ</item>
+        <item>ອີກ</item>
+        <item>ຕອນເຊົ້າ</item>
+        <item>ລັກສະນະນາມ (ໜ່ວຍ, ໃບ)</item>
+        <item>ສາມີ (ຜົວ)</item>
+        <item>ຊອກຫາ, ທອນ(ເງີນ)</item>
+        <item>ກຳລັງ(ເຮັດ)....ຢູ່</item>
+        <item>ແທ້</item>
+        <item>ກຳລັງ</item>
+        <item>ຮູ້</item>
+        <item>ກະກຽມ</item>
+        <item>ລົດຖິບ</item>
+        <item>ຍ່າງ, ໄປ</item>
+        <item>ທີ່ສຸດ</item>
+        <item>ເບິືອງຊ້າຍ</item>
+    </string-array>
+
+    <string-array name="hsk2_juzi">
+        <item>你今年多大了？</item>
+        <item>我今年20岁。</item>
+        <item>爸爸喜欢看报纸。</item>
+        <item>哥哥比我大三岁。</item>
+        <item>姐姐的头发很长。</item>
+        <item>别一个人出门。</item>
+        <item>你喜欢唱歌吗？</item>
+        <item>这是我第一次坐船。</item>
+        <item>妹妹喜欢穿红色的衣服</item>
+        <item>服务员服务非常好。</item>
+        <item>我坐公共汽车去花园。</item>
+        <item>明天是她的生日。</item>
+        <item>弟弟喜欢打篮球。</item>
+        <item>从我家到学校要坐公共汽车二十分钟。</item>
+        <item>我给大家介绍一下自己。</item>
+        <item>男人跑步比女人快。</item>
+        <item>我觉得很快乐。</item>
+        <item>欢迎大家来我家。</item>
+        <item>我家里医院很近。</item>
+        <item>老师上课了。</item>
+        <item>考试九点开始。</item>
+        <item>车很贵。</item>
+        <item>蛋糕很好吃。</item>
+        <item>今天是十月七号。</item>
+        <item>您可以帮助我吗？</item>
+        <item>妈妈开门了，你可以进去了。</item>
+        <item>他去机场买机票。</item>
+        <item>我等朋友三十分钟了。</item>
+        <item>晴天天气很不错。</item>
+        <item>因为今天是我生日，所以爸爸送我礼物。</item>
+        <item>我喜欢下雪不喜欢下雨。</item>
+        <item>考试时间很长。</item>
+        <item>妻子很早起床。</item>
+        <item>姐姐上班八个小时。</item>
+        <item>现在晚上九点。</item>
+        <item>这个手表很贵。</item>
+        <item>孩子生病了。</item>
+        <item>猫的眼睛很漂亮。</item>
+        <item>这些题很难。</item>
+        <item>他们正在踢足球。</item>
+        <item>妹妹很会跳舞。</item>
+        <item>我不可以回答你问的问题。</item>
+        <item>这张桌子是丈夫买的。</item>
+        <item>门开着呢。</item>
+        <item>我真的不知道这件事情。</item>
+        <item>左边那家饭馆的鱼很好吃。</item>
+        <item>儿子出去玩儿了。</item>
+        <item>游泳对身体很好。</item>
+        <item>我去年去中国旅游一次。</item>
+        <item>那个电影很有意思。</item>
+        <item>他准备去考试。</item>
+        <item>我每天骑自行车去学校。</item>
+        <item>你想和谁去旅游？</item>
+        <item>机场离这儿很远。</item>
+        <item>一百元可以买什么呢？</item>
+        <item>爸爸不让我去玩儿我就不去。</item>
+        <item>他常常对我笑。</item>
+        <item>我也喜欢这个颜色。</item>
+        <item>你喜欢什么运动？</item>
+        <item>我喜欢跑步。</item>
+        <item>坐在我旁边是我男朋友。</item>
+        <item>天阴了，要下雨了</item>
+        <item>西瓜一公斤十块。</item>
+        <item>我很累了。</item>
+        <item>我们两个人都是学生。</item>
+        <item>路上有很多车。</item>
+        <item>公司的工作很忙。</item>
+        <item>女儿喜欢吃鸡蛋和喝牛奶。</item>
+        <item>这次考试他可能考不过。</item>
+        <item>儿子玩得很快了。</item>
+        <item>考完试我很快乐。</item>
+
+        <item>爸爸有八个白杯子。</item>
+        <item>等一下。</item>
+        <item>你别去游泳了。</item>
+        <item>那里的天气非常热。</item>
+        <item>我最喜欢喝咖啡。</item>
+        <item>他们一起去机场了。</item>
+        <item>我们正在看电视。</item>
+        <item>他已经到学校了。</item>
+        <item>她下星期就回来了。</item>
+        <item>我也有一块这样的手表。</item>
+        <item>她还没起床。</item>
+        <item>你的字写得真漂亮。</item>
+        <item>因为下雨，所以他没去踢足球。</item>
+        <item>虽然下雨，但是他去踢足球。</item>
+        <item>他80岁了，但是身体很好。</item>
+        <item>她从中国回来了。</item>
+        <item>他对我很好。</item>
+        <item>我比她高。</item>
+        <item>向左走。</item>
+        <item>学校离我家很近。</item>
+        <item>现在你可以走了。</item>
+        <item>我要学游泳。</item>
+        <item>明天可能下雨。</item>
+        <item>书是哥哥的。</item>
+        <item>那个杯子是我的。</item>
+        <item>这件衣服是最便宜的。</item>
+        <item>我买了一些吃的。</item>
+        <item>那边打电话的是我丈夫。</item>
+        <item>你做的对。</item>
+        <item>现在快10点了吧？ </item>
+        <item>我买了一本书。 </item>
+        <item>我学过汉语。 </item>
+        <item>你去问问他。 </item>
+        <item>你是中国人吧？ </item>
+        <item>他为什么没来？ </item>
+        <item>从这儿到那儿多远？ </item>
+        <item>真好吃。 </item>
+        <item>今天比昨天冷。</item>
+        <item>他们正在打篮球。 </item>
+        <item>他买了一斤苹果。 </item>
+        <item>我看过这个电影。 </item>
+        <item>外面下着雨。 </item>
+    </string-array>
+    <string-array name="hsk2_jufan">
+        <item>ປີນີ້ເຈົ້າອາຍຸຈັກປີແລ້ວ？</item>
+        <item>ປີນີ້ຂ້ອຍອາຍຸ20ປີ.</item>
+        <item>ພໍ່ມັກອ່ານໜັງສືພິມ.</item>
+        <item>ອ້າຍອາຍຸຫຼາຍກວ່າຂ້ອຍ3ປີ.</item>
+        <item>ຜົມຂອງເອື້ອຍຍາວຫຼາຍ.</item>
+        <item>ຢ່າອອກໄປນອກຄົນດຽວ.</item>
+        <item>ເຈົ້າມັກຮ້ອງເພງບໍ？</item>
+        <item>ນີ້ແມ່ນຂ້ອຍນັ່ງເຮືອເທື່ອທຳອິດ.</item>
+        <item>ນ້ອງສາວມັກໃສ່ເສື້ອສີແດງ.</item>
+        <item>ການບໍລິການຂອງພະນັກງານເສີບດີຫຼາຍ.</item>
+        <item>ຂ້ອຍນັ່ງລົດເມໄປສວນດອກໄມ້.</item>
+        <item>ມື້ອື່ນແມ່ນວັນເກີດຂອງລາວ.</item>
+        <item>ນ້ອງຊາຍມັກຫຼິ້ນບານບ່ວງ.</item>
+        <item>ຈາກເຮືອນຂ້ອຍຮອດໂຮງຮຽນຕ້ອງນັ່ງລົດເມ20ນາທີ.</item>
+        <item>ຂ້ອຍຂໍແນະນຳຕົວເອງໃຫ້ທຸກຄົນ.</item>
+        <item>ຜູ້ຊາຍແລ່ນໄວກວ່າຜູ້ຍິງ.</item>
+        <item>ຂ້ອຍຮູ້ສືກວ່າມີຄວາມສຸກຫຼາຍ.</item>
+        <item>ຍິນດີຕ້ອນຮັບທຸກຄົນມາເຮືອນຂ້ອຍ.</item>
+        <item>ເຮືອນຂ້ອຍໃກ້ໂຮງໝໍຫຼາຍ.</item>
+        <item>ອາຈານເຂົ້າສອນແລ້ວ.</item>
+        <item>ການສອບເສັງເລິ່ມຕອນ9ໂມງ.</item>
+        <item>ລົດແພງຫຼາຍ.</item>
+        <item>ເຄັກແຊບຫຼາຍ.</item>
+        <item>ມື້ນີ້ແມ່ນວັນທີ່7ເດືອນ10。</item>
+        <item>ທ່ານສາມາດຊ່ວຍຂ້ອຍໄດ້ບໍ？</item>
+        <item>ແມ່ເປິດປະຕູແລ້ວ，ເຈົ້າສາມາດເຂົ້າໄປໄດ້ແລ້ວ.</item>
+        <item>ລາວໄປຊື້ປີ້ຍົນຢູ່ສະໜາມບິນ.</item>
+        <item>ຂ້ອຍຖ້າໝູ່30ນາທີແລ້ວ.</item>
+        <item>ຟ້າແຈ້ງອາກາດີິຫຼາຍ.</item>
+        <item>ເພາະວ່າມື້ນີ້ແມ່ນວັນເກີດຂ້ອຍ，ສະນັ້ນພໍ່ສົ່ງຂອງຂວັນໃຫ້ຂ້ອຍ.</item>
+        <item>ຂ້ອຍມັກໃຫ້ຫິມະຕົກບໍ່ມັກຝົນຕົກ.</item>
+        <item>ເວລາໃນການສອບເສັງດົນຫຼາຍ.</item>
+        <item>ເມຍຕື່ນນອນເຊົ້າ.</item>
+        <item>ເອື້ອຍເຮັດວຽກ8ຊົ່ວໂມງ.</item>
+        <item>ຕອນນີ້ແມ່ນ9ໂມງຕອນຄ່ຳ.</item>
+        <item>ໂມງໜ່ວຍນີ້ແພງຫຼາຍ.</item>
+        <item>ລູກບໍ່ສະບາຍແລ້ວ.</item>
+        <item>ຕາຂອງແມວງາມຫຼາຍ.</item>
+        <item>ຂໍ້ເຫຼົ່ານີ້ຍາກຫຼາຍ.</item>
+        <item>ພວກເຂົາກຳລັງເຕະບານ.</item>
+        <item>ນ້ອງສາວຟ້ອນເກັ່ງຫຼາຍ.</item>
+        <item>ຂ້ອຍຕອບຄຳຖາມທີ່ເຈົ້າຖາມບໍ່ໄດ້.</item>
+        <item>ໂຕະໜ່ວຍນີ້ແມ່ນຜົວຂ້ອຍຊື້.</item>
+        <item>ປະຕູຍັງເປີດຢູ່.</item>
+        <item>ຂ້ອຍບໍ່ຮູ້ເລື່ອງນີ້ແທ້ໆ.</item>
+        <item>ປາຂອງຮ້ານອາຫານຢູ່ທາງຊ້າຍນັ້ນແຊບຫຼາຍ.</item>
+        <item>ລູກຊາຍອອກໄປຫຼິ້ນແລ້ວ.</item>
+        <item>ລອຍນ້ຳດີຕໍ່ສຸຂະພາບ.</item>
+        <item>ປິກາຍນີ້ຂ້ອຍໄປທ່ຽວຢູ່ປະເທດຈີນເທື່ອ1.</item>
+        <item>ໜັງເລື່ອງນັ້ນມ່ວນຫຼາຍ.</item>
+        <item>ລາວກຽມໄປເສັງ.</item>
+        <item>ຂ້ອຍຂິ່ລົດຖິບໄປໂຮງຮຽນທຸກມື້.</item>
+        <item>ເຈົ້າຢາກໄປທ່ຽວກັບໃຜ？</item>
+        <item>ສະໜາມບິນໄກຈາກນີ້ຫຼາຍ.</item>
+        <item>100ຢວນຊື້ຫຍັງໄດ້ແດ່？</item>
+        <item>ພໍ່ບໍ່ໃຫ້ຂ້ອຍໄປຫຼິ້ນຂ້ອຍກໍ່ບໍ່ໄປ.</item>
+        <item>ລາວມັກຍິ້ມໃຫ້ຂ້ອຍຕະຫຼອດ.</item>
+        <item>ຂ້ອຍກໍມັກສີນິ້.</item>
+        <item>ເຈົ້າມັກກິລາຫຍັງ？</item>
+        <item>ຂ້ອຍມັກແລ່ນ.</item>
+        <item>ນັ່ງທາງຂ້າງຂ້ອຍແມ່ນແຟນຂ້ອຍ.</item>
+        <item>ຟ້າມືດແລ້ວ，ຝົນຊີຕົກແລ້ວ.</item>
+        <item>ໝາກແຕງໂມ1ໂລ10ຢວນ.</item>
+        <item>ຂ້ອຍເມື່ອຍຫຼາຍ.</item>
+        <item>ພວກເຮົາທາງສອງເປັນນັກຮຽນ.</item>
+        <item>ເທິງທາງມີລົດຫຼາຍ.</item>
+        <item>ວຽກຢູ່ບໍລິສັດຫຍຸ້ງແຮງ.</item>
+        <item>ລູກສາວມັກກິນໄຂ່ໄກ່ກັບດື່່ມນົມ.</item>
+        <item>ສອບເສັ່ງເທື່ອນີ້ລາວນ່າຈະເສັງບໍ່ຜ່ານ.</item>
+        <item>ລູກຊາຍຫຼິ້ນໄດ້ມີຄວາມສຸກຫຼາຍ.</item>
+        <item>ສອບເສັ່ງແລ້ວຂ້ອຍດີໃຈຫຼາຍ.</item>
+        <item>ພໍ່ມີຈອກຂາວ8ອັນ.</item>
+        <item>ຖ້າບືດໜື່ງ.</item>
+        <item>ເຈົ້າບໍ່ຕ້ອງໄປລອຍນ້ຳແລ້ວ.</item>
+        <item>ອາກາດຢູ່ນີ້ຮ້ອນຫຼາຍ.</item>
+        <item>ຂ້ອຍມັກດື່ມກາເຟທີ່ສຸດ.</item>
+        <item>ພວກເຂົາໄປສະໜາມບິນນຳກັນແລ້ວ.</item>
+        <item>ພວກເຮົາກຳລັງເບິ່ງໂທລະທັດ.</item>
+        <item>ລາວຮອດໂຮງຮຽນແລ້ວ.</item>
+        <item>ອາທິດໜ້າລາວກໍ່ກັບມາແລ້ວ.</item>
+        <item>ຂ້ອຍກໍ່ມີໂມງແບບນີ້1ໜ່ວຍ.</item>
+        <item>ລາວຍັງບໍ່ຕື່ນນອນ.</item>
+        <item>ເຈົ້າຂຽນໜັງສືງາມແທ້.</item>
+        <item>ເພາະວ່າຝົນຕົກ，ດັ່ງນັ້ນລາວບໍ່ໄດ້ໄປເຕະບານ.</item>
+        <item>ເຖິ່ງແມ່ນວ່າຝົກກຳລັງຕົກ，ແຕ່ລາວກໍໄປເຕະບານ.</item>
+        <item>ລາວອາຍຸ80ປີແລ້ວ，ແຕ່ສຸຂະພາບລາວດີຫຼາຍ.</item>
+        <item>ລາວກັບຈາກປະເທດຈີນແລ້ວ.</item>
+        <item>ລາວດີຕໍ່ຂ້ອຍຫຼາຍ.</item>
+        <item>ລາວສູງກວ່າຂ້ອຍ.</item>
+        <item>ໄປທາງຊ້າຍ.</item>
+        <item>ໂຮງຮຽນໃກ້ເຮືອນຂ້ອຍຫຼາຍ.</item>
+        <item>ຕອນນີ້ເຈົ້າສາມາດໄປໄດ້ແລ້ວ.</item>
+        <item>ຂ້ອຍຢາກຮຽນລອຍນ້ຳ.</item>
+        <item>ມື້ອື່ນຝົນນ່າຈະຕົກ.</item>
+        <item>ປື້ມແມ່ນຂອງອ້າຍ.</item>
+        <item>ຈອກອັນນັ້ນແມ່ນຂອງຂ້ອຍ.</item>
+        <item>ເສື້ອຜືນນີ້ແມ່ນລາຄາຖືກທີ່ສຸດແລ້ວ.</item>
+        <item>ຂ້ອຍຊື້ແນວກິນຈຳນວນໜື່ງແລ້ວ.</item>
+        <item>ຄົນກຳລັງລົມໂທລະສັບຢູ່ນັ້ນແມ່ນຜົວຂ້ອຍ.</item>
+        <item>ເຈົ້າເຮັດຖືກແລ້ວ.</item>
+        <item>ຕອນນີ້ຊີຮອດ10ໂມງແລ້ວບໍ？</item>
+        <item>ຂ້ອຍຊື້ປື້ມຫົວ1ແລ້ວ.</item>
+        <item>ຂ້ອຍເຄີຍຮຽນພາສາຈີນ.</item>
+        <item>ເຈົ້າໄປຖາມລາວແມະ.</item>
+        <item>ເຈົ້າແມ່ນຄົນຈີນບໍ？</item>
+        <item>ເປັນຫຍັງລາວບໍ່ມາ？</item>
+        <item>ຈາກນີ້ຮອດນັ້ນໄກບໍ？</item>
+        <item>ແຊບແທ້.</item>
+        <item>ມື້ນີ້ໜາວກວ່າມື້ວານ.</item>
+        <item>ພວກເຂົາກຳລັງຫຼິ້ນບານບ່ວງ. </item>
+        <item>ລາວຊື້ໝາກແອບເປິ່ນເຄີ່ງໂລ. </item>
+        <item>ຂ້ອຍເຄີຍເບິ່ງໜັງເລື່ອງນີ້. </item>
+        <item>ຢູ່ນອກຝົນກຳລັງຕົກ. </item>
+    </string-array>
+    <!--    hsk3 -->
+    <string-array name="hsk3_cabhanzi">
+        <item>阿姨</item>
+        <item>啊</item>
+        <item>矮</item>
+        <item>爱好</item>
+        <item>安静</item>
+        <item>把</item>
+        <item>班</item>
+        <item>搬</item>
+        <item>半</item>
+        <item>办法</item>
+        <item>办公室</item>
+        <item>帮忙</item>
+        <item>包 / 包子</item>
+        <item>饱</item>
+        <item>北方</item>
+        <item>被 / 被子</item>
+        <item>鼻子</item>
+        <item>比较</item>
+        <item>比赛</item>
+        <item>必须</item>
+        <item>变化</item>
+        <item>表示</item>
+        <item>表演</item>
+        <item>别人</item>
+        <item>宾馆</item>
+        <item>冰箱</item>
+        <item>才</item>
+        <item>菜单</item>
+        <item>参加</item>
+        <item>草</item>
+        <item>层</item>
+        <item>差</item>
+        <item>超市</item>
+        <item>衬衫</item>
+        <item>成绩</item>
+        <item>城市</item>
+        <item>迟到</item>
+        <item>出现</item>
+        <item>厨房</item>
+        <item>除了</item>
+        <item>春</item>
+        <item>词语</item>
+        <item>聪明</item>
+        <item>打扫</item>
+        <item>打算</item>
+        <item>带</item>
+        <item>担心</item>
+        <item>蛋糕</item>
+        <item>当然</item>
+        <item>地</item>
+        <item>灯</item>
+        <item>低</item>
+        <item>地方</item>
+        <item>地铁</item>
+        <item>地图</item>
+        <item>电梯</item>
+        <item>电子邮件</item>
+        <item>东</item>
+        <item>冬</item>
+        <item>动物</item>
+        <item>短</item>
+        <item>段</item>
+        <item>锻炼</item>
+        <item>多么</item>
+        <item>饿</item>
+        <item>而且</item>
+        <item>耳朵</item>
+        <item>发烧</item>
+        <item>发现</item>
+        <item>方便</item>
+        <item>放</item>
+        <item>放心</item>
+        <item>分</item>
+        <item>附近</item>
+        <item>复习</item>
+        <item>干净</item>
+        <item>敢</item>
+        <item>感冒</item>
+        <item>刚才</item>
+        <item>跟</item>
+        <item>根据</item>
+        <item>更</item>
+        <item>公园</item>
+        <item>故事</item>
+        <item>刮风</item>
+        <item>关</item>
+        <item>关系</item>
+        <item>关心</item>
+        <item>关于</item>
+        <item>国家</item>
+        <item>果汁</item>
+        <item>过去</item>
+        <item>还是</item>
+        <item>害怕</item>
+        <item>河</item>
+        <item>黑板</item>
+        <item>护照</item>
+        <item>花</item>
+        <item>花园</item>
+        <item>画</item>
+        <item>坏</item>
+        <item>还</item>
+        <item>环境</item>
+        <item>换</item>
+        <item>黄</item>
+        <item>黄河</item>
+        <item>会议</item>
+        <item>或者</item>
+        <item>几乎</item>
+        <item>机会</item>
+        <item>极</item>
+        <item>记得</item>
+        <item>季节</item>
+        <item>检查</item>
+        <item>简单</item>
+        <item>健康</item>
+        <item>见面</item>
+        <item>讲</item>
+        <item>教</item>
+        <item>角</item>
+        <item>脚</item>
+        <item>接</item>
+        <item>街道</item>
+        <item>结婚</item>
+        <item>结束</item>
+        <item>节目</item>
+        <item>节日</item>
+        <item>解决</item>
+        <item>借</item>
+        <item>警察</item>
+        <item>经过</item>
+        <item>经历</item>
+        <item>久</item>
+        <item>旧</item>
+        <item>举行</item>
+        <item>句子</item>
+        <item>决定</item>
+        <item>渴</item>
+        <item>可爱</item>
+        <item>刻</item>
+        <item>客人</item>
+        <item>空调</item>
+        <item>口</item>
+        <item>哭</item>
+        <item>裤子</item>
+        <item>筷子</item>
+        <item>老</item>
+        <item>离开</item>
+        <item>礼物</item>
+        <item>历史</item>
+        <item>脸</item>
+        <item>练习</item>
+        <item>辆</item>
+        <item>了解</item>
+        <item>邻居</item>
+        <item>楼</item>
+        <item>绿</item>
+        <item>马</item>
+        <item>马上</item>
+        <item>满意</item>
+        <item>帽子</item>
+        <item>米</item>
+        <item>面包</item>
+        <item>面条</item>
+        <item>明白</item>
+        <item>拿</item>
+        <item>奶奶</item>
+        <item>南方</item>
+        <item>难</item>
+        <item>难过</item>
+        <item>年级</item>
+        <item>年轻</item>
+        <item>鸟</item>
+        <item>努力</item>
+        <item>爬山</item>
+        <item>盘子</item>
+        <item>胖</item>
+        <item>啤酒</item>
+        <item>葡萄</item>
+        <item>普通话</item>
+        <item>其实</item>
+        <item>其他</item>
+        <item>骑</item>
+        <item>奇怪</item>
+        <item>铅笔</item>
+        <item>清楚</item>
+        <item>秋</item>
+        <item>裙子</item>
+        <item>然后</item>
+        <item>热情</item>
+        <item>认为</item>
+        <item>认真</item>
+        <item>容易</item>
+        <item>如果</item>
+        <item>伞</item>
+        <item>上网</item>
+        <item>生气</item>
+        <item>声音</item>
+        <item>使</item>
+        <item>世界</item>
+        <item>瘦</item>
+        <item>舒服</item>
+        <item>叔叔</item>
+        <item>树</item>
+        <item>数学</item>
+        <item>刷牙</item>
+        <item>双</item>
+        <item>水平</item>
+        <item>司机</item>
+        <item>虽然</item>
+        <item>太阳</item>
+        <item>特别</item>
+        <item>疼</item>
+        <item>提高</item>
+        <item>体育</item>
+        <item>甜</item>
+        <item>条</item>
+        <item>同事</item>
+        <item>同意</item>
+        <item>头发</item>
+        <item>突然</item>
+        <item>图书馆</item>
+        <item>腿</item>
+        <item>完成</item>
+        <item>碗</item>
+        <item>万</item>
+        <item>忘记</item>
+        <item>为， 为了</item>
+        <item>位</item>
+        <item>文化</item>
+        <item>西</item>
+        <item>习惯</item>
+        <item>洗手间</item>
+        <item>洗澡</item>
+        <item>夏</item>
+        <item>先</item>
+        <item>香蕉</item>
+        <item>相同</item>
+        <item>相信</item>
+        <item>像</item>
+        <item>小心</item>
+        <item>校长</item>
+        <item>鞋</item>
+        <item>新闻</item>
+        <item>新鲜</item>
+        <item>信</item>
+        <item>行李箱</item>
+        <item>兴趣</item>
+        <item>熊猫</item>
+        <item>需要</item>
+        <item>选择</item>
+        <item>眼镜</item>
+        <item>要求</item>
+        <item>爷爷</item>
+        <item>一定</item>
+        <item>一共</item>
+        <item>一会儿</item>
+        <item>一样</item>
+        <item>以后</item>
+        <item>以前</item>
+        <item>以为</item>
+        <item>一般</item>
+        <item>一边</item>
+        <item>一直</item>
+        <item>音乐</item>
+        <item>银行</item>
+        <item>应该</item>
+        <item>影响</item>
+        <item>用</item>
+        <item>游戏</item>
+        <item>有名</item>
+        <item>又</item>
+        <item>遇到</item>
+        <item>愿意</item>
+        <item>月亮</item>
+        <item>越</item>
+        <item>云</item>
+        <item>站</item>
+        <item>着急</item>
+        <item>照顾</item>
+        <item>照片</item>
+        <item>照相机</item>
+        <item>只</item>
+        <item>中间</item>
+        <item>终于</item>
+        <item>种</item>
+        <item>重要</item>
+        <item>周末</item>
+        <item>主要</item>
+        <item>祝</item>
+        <item>注意</item>
+        <item>字典</item>
+        <item>自己</item>
+        <item>总是</item>
+        <item>最近</item>
+        <item>作业</item>
+        <item>作用</item>
+    </string-array>
+    <string-array name="hsk3_cabfanyi">
+        <item>ປ້າ, ນ້າສາວ</item>
+        <item>ຄຳເສິມຊ່ວຍ (ອາ ah)</item>
+        <item>ເຕ້ຍ, ຕຳ</item>
+        <item>ສິ່ງທີ່ມັກ</item>
+        <item>ມິດງຽບ</item>
+        <item>ເອົາ, ອັນ, ກ້ານ(ລັກສະນະນາມໃຫ້ຄັນຮົ່ມ)</item>
+        <item>ຫ້ອງ(ຮຽນ)</item>
+        <item>ຍ້າຍ</item>
+        <item>ເຄິ່ງ</item>
+        <item>ວິທີ</item>
+        <item>ຫ້ອງການ</item>
+        <item>ຊ່ວຍເຫຼືອ</item>
+        <item>ກະເປົາ, ຫໍ່ / ສາລາເປົາ</item>
+        <item>ອິ່ມ(ເຂົ້າ)</item>
+        <item>ພາກເໜືອ</item>
+        <item>ຖືກ(ກະທຳ) / ຜ້າຮົ່ມ</item>
+        <item>ດັງ</item>
+        <item>ຄ້ອນຄ້າງ, ກວ່າ</item>
+        <item>ການແຂ່ງຂັນ</item>
+        <item>ຈຳເປັນຕ້ອງ</item>
+        <item>ປ່ຽນແປງ</item>
+        <item>ສະແດງວ່າ</item>
+        <item>ການສະແດງ</item>
+        <item>ຄົນອື່ນ</item>
+        <item>ໂຮງແຮມ</item>
+        <item>ຕູ້ເຢັນ</item>
+        <item>ຈື່ງ</item>
+        <item>ເມນູອາຫານ, ລາຍການອາຫານ</item>
+        <item>ເຂົ້າຮ່ວມ</item>
+        <item>ຫຍ້າ</item>
+        <item>ຊັ້ນ</item>
+        <item>ອ່ອນ, ຍັງ, ເກືອບ</item>
+        <item>ຮ້ານສັບພະສິນຄ້າ (ຊູເປີມາເກັດ)</item>
+        <item>ເສື້ອສຸພາບ (ເສື້ອເຊີດ)</item>
+        <item>ຜົນການສອບເສັງ, ຜົນຄະແນນ</item>
+        <item>ຕົວເມືອງ</item>
+        <item>ມາຊ້າ</item>
+        <item>ເກິດຂື້ນ, ປະກົດຂື້ນ</item>
+        <item>ເຮືອນຄົວ</item>
+        <item>ນອກຈາກນີ້</item>
+        <item>ລະດູໃບໄມ້ປົ່ງ</item>
+        <item>ຄຳສັບ</item>
+        <item>ສະຫຼາດ</item>
+        <item>ອານາໄມ, ທຳຄວາມສະອາດ</item>
+        <item>ແຜນການ, ວາງແຜນ</item>
+        <item>ເອົາ, ພາ</item>
+        <item>ເປັນຫ່ວງ</item>
+        <item>ເຄັກ</item>
+        <item>ແນ່ນອນ</item>
+        <item>ດິນ, ເປັນຄຳເຊື່ອມຄຳ</item>
+        <item>ດອກໄປ</item>
+        <item>ຕ່ຳ</item>
+        <item>ສະຖານທີ່, ບ່ອນ</item>
+        <item>ລົດໄຟໃດ້ດິນ</item>
+        <item>ແຜນທີ່</item>
+        <item>ລິບ</item>
+        <item>ອິເມວ</item>
+        <item>ທິດຕາເວັນອອກ</item>
+        <item>ລະດູໜາວ</item>
+        <item>ສັດ</item>
+        <item>ສັ້ນ</item>
+        <item>ຕອນ, ວັກ, ໄລຍະ</item>
+        <item>ອອກກຳລັງກາຍ, ເຝິກຫັດ</item>
+        <item>ຫຼາຍ, ຈັງແມ່ນ</item>
+        <item>ຫິວ (ເຂົ້າ)</item>
+        <item>ແລະ</item>
+        <item>ຫູ</item>
+        <item>ເປັນໄຂ້</item>
+        <item>ຄົ້ນພົບ, ໄດ້ຮູ້</item>
+        <item>ສະດວກສະບາຍ</item>
+        <item>ວາງ</item>
+        <item>ໄວ້ໃຈ</item>
+        <item>ນາທີ, ຄະແນນ, ແບ່ງ</item>
+        <item>ແຖວໆນີ້, ໃກ້ນິ້</item>
+        <item>ທວນຄືນ</item>
+        <item>ສະອາດ</item>
+        <item>ກ້າຫານ</item>
+        <item>ເປັນຫວັດ</item>
+        <item>ຫາກໍ່</item>
+        <item>ກັບ, ຕາມ</item>
+        <item>ອິງຕາມ</item>
+        <item>ກວ່າ</item>
+        <item>ສວນສາທາລານະ</item>
+        <item>ເລື່ອງ, ນີທານ</item>
+        <item>ລົມພັດ</item>
+        <item>ປິດ</item>
+        <item>ຄວາມສຳພັນ, ພົວພັນ</item>
+        <item>ໃສໃຈ, ເປັນຫວ່ງ</item>
+        <item>ກ່ຽວກັບ</item>
+        <item>ປະເທດ</item>
+        <item>ນ້ຳໝາກໄມ້</item>
+        <item>ຜ່ານໄປ</item>
+        <item>ຫຼືວ່າ, ຍັງແມ່ນ</item>
+        <item>ຢ້ານກົວ</item>
+        <item>ແມ່ນ້ຳ</item>
+        <item>ກະດານດຳ</item>
+        <item>ໜັງສືຜ່ານແດນ(ພາສປອດ)</item>
+        <item>ດອກໄມ້, ໃຊ້ຈ່າຍ</item>
+        <item>ສວນດອກໄມ້</item>
+        <item>ແຕ້ມ</item>
+        <item>ບໍ່ດີ, ເປເພ</item>
+        <item>ສົ່ງຄືນ</item>
+        <item>ສິ່ງແວດລ້ອມ</item>
+        <item>ປ່ຽນ(ເຄື່ອງ)</item>
+        <item>ເຫຼືອງ(ສີເຫຼືອງ)</item>
+        <item>ແມ່ນ້ຳຫວງເຫີ</item>
+        <item>ກອງປະຊຸມ</item>
+        <item>ຫຼືວ່າ</item>
+        <item>ເກືອບ</item>
+        <item>ໂອກາດ</item>
+        <item>ທີ່ສຸດ, ຫຼາຍ</item>
+        <item>ຈື່່ຈຳ</item>
+        <item>ລະດູ</item>
+        <item>ກວດ</item>
+        <item>ງ່າຍ</item>
+        <item>ສຸຂະພາບດີ</item>
+        <item>ພົບກັນ</item>
+        <item>ເວົ້າ, ອະທິບາຍ</item>
+        <item>ສອນ</item>
+        <item>ເຄົ້າ(ສັດ), ສະຕັງ(ເງີນ)</item>
+        <item>ຂາ, ຕິນ</item>
+        <item>ຮັບ</item>
+        <item>ຖະໜົນຫົນທາງ</item>
+        <item>ແຕ່ງງານ</item>
+        <item>ຈົບ, ສຳເລັດ, ແລ້ວ</item>
+        <item>ລາຍການ</item>
+        <item>ງານບຸນ</item>
+        <item>ແກ້ໄຂ</item>
+        <item>ຢືມ</item>
+        <item>ຕຳຫຼວດ</item>
+        <item>ຜ່ານ, ກາຍ</item>
+        <item>ປະສົບການ</item>
+        <item>ດົນນານ</item>
+        <item>ເກົ່າ</item>
+        <item>ຈັດຂື້ນ</item>
+        <item>ປະໂຫຍກ</item>
+        <item>ຕັດສິນໃຈ</item>
+        <item>ຫິວ (ນ້ຳ)</item>
+        <item>ນ່າຮັກ</item>
+        <item>15 ນາທີ</item>
+        <item>ແຂກ, ລຸກຄ້າ</item>
+        <item>ເອ, ເຄື່ອງປັບອາກາດ</item>
+        <item>ປາກ</item>
+        <item>ໄຫ້</item>
+        <item>ໂສ້ງ</item>
+        <item>ໄມ້ທູ</item>
+        <item>ເຖົ້າ, ແກ່, ອາຍູຫຼາຍ</item>
+        <item>ອອກຈາກ</item>
+        <item>ຂອງຂວັນ</item>
+        <item>ປະຫວັດສາດ</item>
+        <item>ໜ້າ</item>
+        <item>ເຝິກຫັດ, ບົດເຝິກຫັດ</item>
+        <item>ລັກສະນະນາມໃຫ້ລົດ(ຄັນ)</item>
+        <item>ເຂົ້າໃຈ</item>
+        <item>ເພື່ອນບ້ານ</item>
+        <item>ຕືກ, ຊັ້ນ</item>
+        <item>ຂຽວ (ສີຂຽວ)</item>
+        <item>ມ້າ</item>
+        <item>ທັນທີ</item>
+        <item>ພໍໃຈ</item>
+        <item>ມວກ</item>
+        <item>ແມັດ, ເຂົ້າສານ</item>
+        <item>ເຂົ້າຈີ່</item>
+        <item>ມີ່, ມາມ່າ, ເຝີ</item>
+        <item>ເຂົ້າໃຈ, ຮູ້</item>
+        <item>ເອົາ, ຈັບ</item>
+        <item>ແມ່ຕູ້ (ແມ່ຂອງພໍ່)</item>
+        <item>ພາກໃຕ້</item>
+        <item>ຍາກ</item>
+        <item>ເສຍໃຈ</item>
+        <item>ຊັ້ນຮຽນ</item>
+        <item>ອາຍຸໜ້ອຍ, ໝຸ່ມ, ສາວ</item>
+        <item>ນົກ</item>
+        <item>ດູໜັ່ນ</item>
+        <item>ປິ້ນພູ</item>
+        <item>ຈານ</item>
+        <item>ຕຸ້ຍ</item>
+        <item>ເຫຼົ້າເບຍ</item>
+        <item>ໜາກອາງຸນ</item>
+        <item>ພາສາຈີນກາງ</item>
+        <item>ທີ່ຈິງແລ້ວ, ຄວາມເປັນຈິງແລ້ວ</item>
+        <item>ຄົນອື່ນ</item>
+        <item>ນັ່ງ, ຊີ່</item>
+        <item>ແປກ, ປະລາດ</item>
+        <item>ສໍດຳ</item>
+        <item>ຊັດເຈນ, ແຈ້ງ</item>
+        <item>ລະດູໃບໄມ້ລົ້ນ</item>
+        <item>ກະໂປງ</item>
+        <item>ຫຼັງຈາກນັ້ນ</item>
+        <item>ອົບອຸ່ນ</item>
+        <item>ຄິດວ່າ</item>
+        <item>ຕັ້ງໃຈ</item>
+        <item>ງ່າຍດາຍ</item>
+        <item>ຖ້າວ່າ</item>
+        <item>ຄັນຮັ່ມ</item>
+        <item>ອອນໄລ, ເຂົ້າອິນເຕີເນັດ</item>
+        <item>ໃຈຮ້າຍ</item>
+        <item>ສຽງ</item>
+        <item>ເຮັດໃຫ້</item>
+        <item>ໃນໂລກ</item>
+        <item>ຈ່ອຍ</item>
+        <item>ສະບາຍ</item>
+        <item>ອາວ (ນ້ອງຊາຍພໍ່)</item>
+        <item>ຕົ້ນໄມ້</item>
+        <item>ຄະນິດສາດ, ເລກ</item>
+        <item>ຖູແຂ້ວ</item>
+        <item>ຄູ່</item>
+        <item>ລະດັບ</item>
+        <item>ຄົນຂັບລົດ, ເຊີເຝິລົດ</item>
+        <item>ເຖິ່ງແມ່ນວ່າ</item>
+        <item>ຕະເວັນ</item>
+        <item>ພິເສດ</item>
+        <item>ເຈັບ</item>
+        <item>ຍົກລະດັບ</item>
+        <item>ກິລາ</item>
+        <item>ຫວານ</item>
+        <item>ເສັ້ນ, ລັກສະນະນາມໃຫ້ປາ(ໂຕ)</item>
+        <item>ເພື່ອນຮ່ວມງານ</item>
+        <item>ເຫັນດີ</item>
+        <item>ຜົມ</item>
+        <item>ກະທັນຫັນ, ທັນໃດນັ້ນ</item>
+        <item>ຫໍສະໝຸດ</item>
+        <item>ຂາ, ຕົ້ນຂາ</item>
+        <item>ສົມບຸນແບບ, ສຳເລັດ</item>
+        <item>ຖ້ວຍ</item>
+        <item>1ໜື່ນ, 10 ພັນ</item>
+        <item>ລືມ</item>
+        <item>ເພື່ອ, ສຳລັບ</item>
+        <item>ລັກສະນະນາມໃຫ້ຄົນ</item>
+        <item>ວັດທະນະທຳ</item>
+        <item>ທິດຕາເວັນຕົກ</item>
+        <item>ລື້ງເຄິຍ, ເຮັດຈົນເປັນນິດໃສ</item>
+        <item>ຫ້ອງນ້ຳ</item>
+        <item>ອາບນ້ຳ</item>
+        <item>ລະດູຮ້ອນ</item>
+        <item>ກ່ອນ</item>
+        <item>ໜາກກ້ວຍ</item>
+        <item>ຄືກັນ</item>
+        <item>ເຊື່ອໜັ້ນ</item>
+        <item>ຄ້າຍຄື</item>
+        <item>ລະມັດລະວັງ</item>
+        <item>ຜູ້ອຳນວຍການໂຮງຮຽນ</item>
+        <item>ເກີບ</item>
+        <item>ຂ່າວສານ</item>
+        <item>ສົດໃໝ່</item>
+        <item>ຈົດໝາຍ, ເຊື່ອ</item>
+        <item>ກະເປົາເດິນທາງ</item>
+        <item>ສົນໃຈ</item>
+        <item>ໝີແພນດ້າ</item>
+        <item>ຕ້ອງການ</item>
+        <item>ເລືອກ</item>
+        <item>ແວ່ນຕາ</item>
+        <item>ຮຽກຮ້ອງ, ຕັ້ງເງື່ອນໄຂ</item>
+        <item>ພໍ່ຕູ້ (ພໍ່ຂອງພໍ່, ປູ່)</item>
+        <item>ແນ່ນອນ</item>
+        <item>ລວມທັງໝົດ</item>
+        <item>ບືດໜື່ງ, ແປບໜື່ງ</item>
+        <item>ຄືກັນ</item>
+        <item>ເທື່ອຫນ້າ</item>
+        <item>ແຕ່ກ່ອນ</item>
+        <item>ຄິດວ່າ</item>
+        <item>ທຳມະດາ</item>
+        <item>ຂ້າງໜື່ງ</item>
+        <item>ຕະຫຼອດ, ເລື່ອຍໆ</item>
+        <item>ດົນຕີ</item>
+        <item>ທະນະຄານ</item>
+        <item>ຄວນຄະ</item>
+        <item>ຜົນກະທົບ, ລົບກວນ, ອິດທີພົນ</item>
+        <item>ໃຊ້</item>
+        <item>ເກມ</item>
+        <item>ມີຊື່ສຽງ, ດົກດັງ</item>
+        <item>ອິກ, ທັງ</item>
+        <item>ໄດ້ພົບແບບບາງເອິນ</item>
+        <item>ເຕັມໃຈ, ສະໜັກໃຈ</item>
+        <item>ເດືອນ, ດວງຈັນ</item>
+        <item>ນັບມື້...ນັບ</item>
+        <item>ກ້ອນເມກ</item>
+        <item>ຢືນຂື້ນ, ສະຖານີ</item>
+        <item>ຟ້າວ, ໃຈຮ້ອນ</item>
+        <item>ດູແລ</item>
+        <item>ຮູບພາບ</item>
+        <item>ກ້ອງຖ່າຍຮູບ</item>
+        <item>ພຽງແຕ່, ລັກສະນະນາມໃຫ້ສັດ(ໂຕ)</item>
+        <item>ເຄິ່ງກາງ</item>
+        <item>ສຸດທ້າຍ, ໃນທີ່ສຸດ</item>
+        <item>ຊະນິດ, ປະເພດ, ປຸກສາງ</item>
+        <item>ສຳຄັນ</item>
+        <item>ທ້າຍອາທິດ (ເສົາ,ທິດ)</item>
+        <item>ຕົ້ນຕໍ່, ຫຼັກໆ</item>
+        <item>ອອຍພອນ</item>
+        <item>ລະມັດລະວັງ, ສັງເກດ</item>
+        <item>ວັດຈະນະນຸກົມ (ຕົວໜັງສືດຽວ)</item>
+        <item>ຕົນເອງ</item>
+        <item>ຕະຫຼອດ</item>
+        <item>ຊ່ວງນີ້</item>
+        <item>ວຽກບ້ານ</item>
+        <item>ປະໂຫຍດ, ມີປະໂຫຍດ</item>
+    </string-array>
+
+    <string-array name="hsk3_juzi">
+        <item>你是哪儿国人？</item>
+        <item>祝你生日快乐。</item>
+        <item>她是我阿姨。</item>
+        <item>是啊，我是老挝人啊。</item>
+        <item>我是班上最矮的学生。</item>
+        <item>他的爱好是唱歌。</item>
+        <item>办公室里很安静。</item>
+        <item>阿姨把被子拿去洗。</item>
+        <item>我搬去北京住。</item>
+        <item>我吃半个包子就饱了。</item>
+        <item>没有办法、就要想办法。</item>
+        <item>姐姐帮忙妈妈做菜。</item>
+        <item>我很高兴可以帮组别人。</item>
+        <item>这是我的书包。</item>
+        <item>我吃饱了。</item>
+        <item>我们的老师是北方人。</item>
+        <item>弟弟被爸爸打。</item>
+        <item>你和小李、谁比较高？</item>
+        <item>我想参加唱歌比赛。</item>
+        <item>我必须回去办公室。</item>
+        <item>天气变化很大。</item>
+        <item>爸爸打弟弟、不表示爸爸不爱弟弟。</item>
+        <item>不要开别人的冰箱。</item>
+        <item>洗手后、才吃饭。</item>
+        <item>我学习比别人差。</item>
+        <item>在宾馆周围的早很长。</item>
+        <item>爸爸的办公室在第三层。</item>
+        <item>我打算穿衬衫去看电影。</item>
+        <item>我去超市买东西。</item>
+        <item>万象是大城市。</item>
+        <item>我的成绩很好。</item>
+        <item>对不起、我迟到了。</item>
+        <item>我等了三个小时、他都没出现。</item>
+        <item>春天的天气很好。</item>
+        <item>我家的厨房很大。</item>
+        <item>三级有三百个词语。</item>
+        <item>她的哥哥很聪明、她也不差。</item>
+        <item>坐地铁很快。</item>
+        <item>你打错了电话。</item>
+        <item>我打算明天打扫房间。</item>
+        <item>我很矮、但我很聪明。</item>
+        <item>天黑了、我把灯打开。</item>
+        <item>这个地方很低。</item>
+        <item>电梯在宾馆的东边。</item>
+        <item>我寄电子邮件给他。</item>
+        <item>聪明的人成绩很好。</item>
+        <item>冬天到了。</item>
+        <item>动物园有很多动物。</item>
+        <item>这件衬衫有点儿短。</item>
+        <item>这段时间我很忙。</item>
+        <item>弟弟每天早上都去锻炼圣体。</item>
+        <item>他对我笑、我很开心。</item>
+        <item>我发现走这条路非常方便。</item>
+        <item>小狗的耳朵很漂亮。</item>
+        <item>把你东西放在这里。</item>
+        <item>你发烧了、而且感冒要吃药。</item>
+        <item>我不敢晚上一个人出去。</item>
+        <item>考试成绩出了、我得了一百分。</item>
+        <item>根据服务员说、坐出租车十分钟就到机场了。</item>
+        <item>关于工作、我们要做好它。</item>
+        <item>我还是先回家吧。</item>
+        <item>刮风了、要下雨了。</item>
+        <item>果汁很好喝。</item>
+        <item>我喜欢画红花。</item>
+        <item>这里的环境很好、有花有河、真漂亮。</item>
+        <item>你几号回家。</item>
+        <item>我们学校还用黑板。</item>
+        <item>明天你必须参加会议。</item>
+        <item>妈妈骂我因为很关心我。</item>
+        <item>我们的关系一直很好。</item>
+        <item>过去十年、老挝有很大的变化。</item>
+        <item>老挝一年有两个季节。</item>
+        <item>我爷爷很健康。</item>
+        <item>我喜欢看关于动物的节目。</item>
+
+        <item>今天是什么节日、为什么有很多人？</item>
+        <item>爸爸经常去接妹妹回家。</item>
+        <item>妹妹很可爱。</item>
+        <item>这辆自行车很旧了。</item>
+        <item>我等他很久了。</item>
+        <item>我们是第一次见面。</item>
+        <item>哥哥想结婚了。</item>
+        <item>经理正在开会。</item>
+        <item>老师经过我家。</item>
+        <item>我觉得这句子很有意思。</item>
+        <item>还差一刻节目就结束了。</item>
+        <item>这次考试我觉得很简单。</item>
+        <item>我们要经常检查身体。</item>
+        <item>我渴了、要喝水。</item>
+        <item>这里的街道很大。</item>
+        <item>我不喜欢历史课。</item>
+        <item>客人很满意我们卖的帽子。</item>
+        <item>请把空调打开。</item>
+        <item>我离开万象十年了。</item>
+        <item>我每天练习写汉字。</item>
+        <item>我的护照是绿色的。</item>
+        <item>我和邻居关系很好。</item>
+        <item>中国人用筷子吃饭。</item>
+        <item>我累了、我去洗洗脸。</item>
+        <item>她很难过，她哭了。</item>
+        <item>你穿蓝色的衣服看起来很漂亮。</item>
+        <item>爸爸不了解我。</item>
+        <item>你等我一下我马上去。</item>
+        <item>米饭很贵。</item>
+        <item>面包很好吃。</item>
+        <item>我明天去爬山。</item>
+        <item>姐姐拿钱包走了。</item>
+        <item>在老挝葡萄很贵。</item>
+        <item>其实汉语不难、写汉字才难。</item>
+        <item>年轻人喜欢喝啤酒。</item>
+        <item>鸟的声音很好听。</item>
+        <item>他的普通话很不错。</item>
+        <item>铅笔很便宜。</item>
+        <item>弟弟很胖、但他很可爱。</item>
+        <item>我朋友是个很奇怪的人。</item>
+        <item>除了你、其他都在学校了。</item>
+        <item>我不清楚老师说什么。</item>
+        <item>秋天的天气很好。</item>
+        <item>我有点儿不舒服。</item>
+        <item>他买的裙子很漂亮。</item>
+        <item>阿姨很热情、大家都喜欢她。</item>
+        <item>我认为他是个很认真学习的人。</item>
+        <item>他吃很少、所以他很瘦。</item>
+        <item>数学很难。</item>
+        <item>叔叔的商店卖手机和手表。</item>
+        <item>世界上有几个人?</item>
+        <item>生病的人很容易生气。</item>
+        <item>姐姐习惯上网买东西。</item>
+        <item>我每天刷牙三次。</item>
+        <item>他的热情使我觉得很舒服。</item>
+        <item>先喝水、然后再吃饭。</item>
+        <item>树上有很多水果。</item>
+        <item>我们每个人都有一双、两条腿。</item>
+        <item>糖很甜、不可以吃多。</item>
+        <item>很多学生都喜欢体育课。</item>
+        <item>妈妈同意我学习跳舞了。</item>
+        <item>我突然想起明天有考试。</item>
+        <item>我每天吃一碗饭。</item>
+        <item>我觉得头很疼。</item>
+        <item>起床后别忘记喝水。</item>
+        <item>我想上洗手间。</item>
+        <item>老师常常说“有问题吗？“。</item>
+        <item>夏天天气很热。</item>
+        <item>熊猫很胖但是也很可爱。</item>
+        <item>我们很害怕校长。</item>
+        <item>我相信你的话。</item>
+        <item>爸爸喜欢看新闻。</item>
+        <item>开车要小心。</item>
+        <item>行李箱里有很多东西。</item>
+        <item>香蕉很新鲜。</item>
+        <item>我的兴趣是打篮球。</item>
+        <item>下雨了我需要雨伞。</item>
+        <item>这双鞋子很贵。</item>
+
+        <item>我有两个相同的行李箱。</item>
+        <item>新闻说这个星期下大雨。</item>
+        <item>熊猫向我校。</item>
+        <item>雪的颜色是白色的。</item>
+        <item>我的眼睛不好、需要带眼镜。</item>
+        <item>一般上羊肉比牛肉贵。</item>
+        <item>老师要求我们穿校服。</item>
+        <item>爷爷已经老了、我们要照顾他。</item>
+        <item>听音乐一直是我的兴趣。</item>
+        <item>以前我以为做医生很容易。</item>
+        <item>我一边听音乐一边玩游戏。</item>
+        <item>天上的月亮又大又圆。</item>
+        <item>我不懂这个字的意思。</item>
+        <item>我在银行工作。</item>
+        <item>小明愿意教我汉语。</item>
+        <item>你应该告诉他不想和他去看电影。</item>
+        <item>好的医生对他的病人影响很大。</item>
+        <item>树上的叶子很多。</item>
+        <item>爷爷是一个很有名的音乐家。</item>
+        <item>你一直往前走、就看到银行在你的右边。</item>
+        <item>这个菜只是一般、不是很好吃。</item>
+        <item>我愿意帮助你。</item>
+        <item>我喜欢的运动是跑步。</item>
+        <item>这个照相机怎么样？</item>
+        <item>我叫王芳、姓王，名芳。</item>
+        <item>我想这个周末骑自行车去玩儿。</item>
+        <item>在桌子中间是小王的书包。</item>
+        <item>你可以在字典找出这个字的意思。</item>
+        <item>你学汉语的主要原因是什么？</item>
+        <item>作业有什么作用？</item>
+        <item>他怕会迟到、所以他很着急。</item>
+        <item>我终于可以休息了</item>
+        <item>周末了好好休息吧。</item>
+    </string-array>
+    <string-array name="hsk3_jufan">
+        <item>ເຈົ້າແມ່ນຄົນປະເທດໃດ？</item>
+        <item>ສຸກສັນວັນເກີດຂອງເຈົ້າ.</item>
+        <item>ລາວແມ່ນນ້າສາວຂອງຂ້ອຍ.</item>
+        <item>ແມ່ນແລ້ວ, ຂ້ອຍແມ່ນຄົນລາວ.</item>
+        <item>ຂ້ອຍແມ່ນຄົນເຕ້ຍທີ່ສຸດໃນຫ້ອງ.</item>
+        <item>ສິ່ງທີ່ຂ້ອຍມັກແມ່ນຮ້ອງເພງ.</item>
+        <item>ຫ້ອງການງຽບຫຼາຍ.</item>
+        <item>ນ້າສາວເອົາຜ້າຮົ່ມໄປຊັກແລ້ວ.</item>
+        <item>ຂ້ອຍຍ້າຍໄປຢູ່ປັກກິ່ງ.</item>
+        <item>ຂ້ອຍກິນຊາລາເປົາເຄິ່ງໜື່ງກໍອິ່ມແລ້ວ.</item>
+        <item>ບໍ່ມີວິທີ, ກໍ່ຄິດຫາວິທີ.</item>
+        <item>ເອື້ອຍຊ່ວຍແມ່ແຕ່ງກິນ.</item>
+        <item>ຂ້ອຍດີໃຈຫຼາຍທີ່ໄດ້ຊ່ວຍເຫຼືອຄົນອື່ນ.</item>
+        <item>ນິ້ແມ່ນຖົງປື້ມຂອງຂ້ອຍ.</item>
+        <item>ຂ້ອຍກິນອິ່ມແລ້ວ.</item>
+        <item>ອາຈານຂອງພວກເຮົາແມ່ນຄົນປັກກິ່ງ.</item>
+        <item>ນ້ອງຊາຍຖືກພໍ່ຕີ.</item>
+        <item>ເຈົ້າແລະxiaoli、ຜູ້ໃດສູງກວ່າ？</item>
+        <item>ຂ້ອຍຢາກເຂົ້າຮ່ວມການແຂ່ງຂັນຮ້ອງເພງ.</item>
+        <item>ຂ້ອຍຈຳເປັນຕ້ອງກັບຫ້ອງການ.</item>
+        <item>ອາກາດປ່ຽນແປງຫຼາຍ.</item>
+        <item>ພໍ່ຕີນ້ອງຊາຍ、ບໍ່ໄດ້ສະແດງວ່າພໍ່ບໍ່ຮັກນ້ອງຊາຍ.</item>
+        <item>ບໍ່ຕ້ອງເປີດຕູ້ເຢັນຄົນອື່ນ.</item>
+        <item>ລ້າງມືແລ້ວ, ຈື່ງກິນເຂົ້າ.</item>
+        <item>ຂ້ອຍຮຽນອ່ອນກວ່າຄົນອື່ນ.</item>
+        <item>ຫຍ້າຢູ່ອ້ອມຂ້າງຂອງໂຮງແຮມຮົກຫຼາຍ.</item>
+        <item>ຫ້ອງການຂອງພໍ່ຢູ່ຊັ້ນ3.</item>
+        <item>ຂ້ອຍວາງແຜນຊີໃສ່ເສື້ອເຊີດໄປເບິ່ງໜັງ.</item>
+        <item>ຂ້ອຍໄປຊື້ເຄື່ອງຢູ່ຮ້ານຊັບພະສິນຄ້າ.</item>
+        <item>ວຽງຈັນແມ່ນຕົວເມືອງໃຫຍ່.</item>
+        <item>ຄະແນນຂ້ອຍງາມຫຼາຍ.</item>
+        <item>ຂໍໂທດ, ຂ້ອຍມາຊ້າແລ້ວ.</item>
+        <item>ຂ້ອຍຖ້າລາວ3ຊົ່ວໂມງແລ້ວ, ລາວກໍບໍ່ປະກົດຕົວເລີຍ.</item>
+        <item>ສະພາບອາກາດຕອນລະດູໃບໄມ້ປົ່ງດີຫຼາຍ.</item>
+        <item>ເຮືອນຄົວຂອງເຮືອນຂ້ອຍໃຫຍ່ຫຼາຍ.</item>
+        <item>ພາສາຈີນລະດັບ3ມີ300ຄຳສັບ.</item>
+        <item>ອ້າຍຂອງລາວສະຫຼາດຫຼາຍ, ລາວກໍ່ຄືກັນ.</item>
+        <item>ນັ່ງລົດໄຟໃດ້ດິນໄວຫຼາຍກ</item>
+        <item>ເຈົ້າໂທຜິດແລ້ວ.</item>
+        <item>ຂ້ອຍວາງແຜນມື້ອື່ນອານາໄມຫ້ອງນອນ.</item>
+        <item>ຂ້ອຍເຕ້ຍຫຼາຍ, ແຕ່ຂ້ອຍສະຫຼາດຫຼາຍ.</item>
+        <item>ຟ້າມືດແລ້ວ, ຂ້ອຍເປິດໄຟກ່ອນ.</item>
+        <item>ສະຖານທີ່ນີ້ຕ່ຳຫຼາຍ.</item>
+        <item>ລິບຢູ່ທາງທິດຕາເວັນອອກຂອງໂຮງແຮມ.</item>
+        <item>ຂ້ອຍສົ່ງອີເມວໃຫ້ລາວ.</item>
+        <item>ຄະແນນຂອງຄົນສະຫຼາດດີຫຼາຍ.</item>
+        <item>ຮອດລະດູໜາວແລ້ວ.</item>
+        <item>ໃນສວນສັດມີສັດຫຼາຍປະເພດ.</item>
+        <item>ເສື້ອເຊີດຜືນນີ້ສັ້ນນ້ອຍໜື່ງແລ້ວ.</item>
+        <item>ໃນຊ່ວງເວລານີ້ຂ້ອຍຄາວຽກຫຼາຍ.</item>
+        <item>ທຸກມື້ຕອນເຊົ້ານ້ອງຊາຍມັກໄປອອກກຳລັງກາຍ.</item>
+        <item>ລາວຍິ້ມໃຫ້ຂ້ອຍ, ຂ້ອຍດີໃຈຫຼາຍ.</item>
+        <item>ຂ້ອຍຄົ້ນພົບວ່າໄປທາງນີ້ສະດວກສະບາຍຫຼາຍ.</item>
+        <item>ຫູຂອງໝານ້ອຍງາມຫຼາຍ.</item>
+        <item>ເອົາເຄື່ອງຂອງເຈົ້າວາງໄວທີ່ນີ້.</item>
+        <item>ເຈົ້າເປັນໄຂ້ແລ້ວ, ແລະຍັງເປັນຫວັດອີກຕ້ອງໄດ້ກິນຢາ.</item>
+        <item>ຂ້ອຍບໍ່ກ້າອອກໄປນອກຕອນກາງຄືນຜູ້ດຽວ.</item>
+        <item>ຜົນສອບເສັງອອກແລ້ວ, ຂ້ອຍໄດ້100ຄະແນນ</item>
+        <item>ອິງຕາມພະນັກງານເວົ້າ,ນັ່ງລົດແທັກຊີ10ນາທີກໍ່ຮອດສະໜາມບິນແລ້ວ.</item>
+        <item>ກ່ຽວກັບວຽກງານ, ພວກເຮົາຕ້ອງໃຫ້ດີທີ່ສຸດ.</item>
+        <item>ຫຼືວ່າຂ້ອຍຕ້ອງກັບບ້ານກ່ອນ.</item>
+        <item>ລົມພັດແຮງແລ້ວ, ຝົນຊີຕົກແລ້ວ.</item>
+        <item>ນ້ຳໝາກໄມ້ແຊບຫຼາຍ.</item>
+        <item>ຂ້ອຍມັກແຕ້ມຮູບດອກໄມ້.</item>
+        <item>ສິ່ງແວດລ້ອມຢູ່ນີ້ງາມຫຼາຍ, ມີນ້ຳມີດອກໄມ້, ຫຼາຍແທ້.</item>
+        <item>ເຈົ້າຊີກັບວັນທີ່ໃດ?</item>
+        <item>ໂຮງຮຽນຂອງພວກເຮົາຍັງໃຊ້ກະດານດຳຢູ່.</item>
+        <item>ມື້ອື່ນເຈົ້າຈຳເປັນຕ້ອງເຂົ້າຮ່ວມການປະຊຸມ.</item>
+        <item>ແມ່ດ່າຂ້ອຍເພາະວ່າເປັນຫ່ວງຂ້ອຍ.</item>
+        <item>ຄວາມສຳພັນຂອງພວກເຮົາດີຕະຫຼອດ.</item>
+        <item>10ຜ່ານໄປ, ປະເທດລາວມີການປ່ຽນແປງຫຼາຍ.</item>
+        <item>ໃນ1ປີມີ2ລະດູການ.</item>
+        <item>ພໍ່ຕູ້ຂອງຂ້ອຍສຸຂະພາບດີຫຼາຍ.</item>
+        <item>ຂ້ອຍມັກເບິ່ງລາຍການກ່ຽວກັບສັດ.</item>
+        <item>ມື້ນີ້ແມ່ນງານບຸນຫຍັງ,ເປັນຫຍັງຄືມີຄົນຫຼາຍແທ້？</item>
+        <item>ພໍ່ໄປຮັບນ້ອງສາວຕະຫຼອດ.</item>
+        <item>ນ້ອງສາວນ່າຮັກຫຼາຍ.</item>
+        <item>ລົດຖີບຄົນນີ້ເກົ່າໂພດແລ້ວ.</item>
+        <item>ຂ້ອຍຖ້າລາວດົນແລ້ວ.</item>
+        <item>ພວກເຮົາພົບກັນເທື່ອທຳອິດ.</item>
+        <item>ອ້າຍຢາກແຕ່ງງານແລ້ວ.</item>
+        <item>ຜູ້ຈັດການກຳລັງປະຊຸມ.</item>
+        <item>ອາຈານກາຍຜ່ານເຮືອນຂ້ອຍ.</item>
+        <item>ຂ້ອຍຄິດວ່າປະໂຫຍກນີ້ມີຄວາມໝາຍຫຼາຍ.</item>
+        <item>ຍັງ15ນາທີລາຍການກໍຈົບແລ້ວ.</item>
+        <item>ການສອບເສັງເທື່ອງ່າຍຫຼາຍ.</item>
+        <item>ພວກເຮົາຕ້ອງກວດສຸຂະພາບຕະຫຼອດ.</item>
+        <item>ຂ້ອຍຢາກນ້ຳແລ້ວ, ຕ້ອງການກິນນ້ຳ.</item>
+        <item>ຖະໜົນຢູ່ນີ້ໃຫຍ່ຫຼາຍ.</item>
+        <item>ຂ້ອຍບໍ່ມັກວິຊາປະຫວັດສາດ.</item>
+        <item>ລູກຄ້າພໍ່ໃຈກັບມວກທີ່ພວກເຮົາຂາຍຫຼາຍ.</item>
+        <item>ຊ່ວຍເປິດເອເດ.</item>
+        <item>ຂ້ອຍອອກຈາກວຽງຈັນ10ປີແລ້ວ.</item>
+        <item>ຂ້ອຍເຝິກຂຽນຕົວໜັງສືຈີນທຸກມື້.</item>
+        <item>ພາສປອດຂອງຂ້ອຍແມ່ນສີຂຽວ.</item>
+        <item>ຄວາມສຳພັນຂອງຂ້ອຍແລະເພື່ອນບ້ານດີຫຼາຍ.</item>
+        <item>ຄົນຈີນໃຊ້ໄມ້ທູ່ກິນເຂົ້າ.</item>
+        <item>ຂ້ອຍເມື່ອຍແລ້ວ, ຂ້ອຍໄປລ້າງໜ້າກ່ອນ.</item>
+        <item>ລາວເສຍໃຈຫຼາຍ, ລາວໄຫ້ແລ້ວ.</item>
+        <item>ເຈົ້າໃສ່ເສື້ອຜ້າສີຟ້າງາມຫຼາຍ.</item>
+        <item>ພໍ່ບໍ່ເຂົ້າໃຈຂ້ອຍເລີຍ.</item>
+        <item>ເຈົ້າຖ້າຂ້ອຍແປບໜື່ງຂ້ອຍຊີໄປທັນທີ.</item>
+        <item>ເຂົ້າຈ້າວແພງຫຼາຍ.</item>
+        <item>ເຂົ້າຈີ່ແຊບຫຼາຍ.</item>
+        <item>ມື້ອື່ນຂ້ອຍໄປປິ້ນພູ.</item>
+        <item>ເອື້ອຍເອົາກະເປົາເງີນໄປແລ້ວ.</item>
+        <item>ໝາກອາງຸ່ນຢູ່ລາວແພງຫຼາຍ.</item>
+        <item>ຄວາມຈິງແລ້ວພາສາຈີນບໍ່ຍາກ, ຂຽນໜັງສືຈີນຈື່ງຍາກ.</item>
+        <item>ໄວໜຸ່ມສາວມັກດື່່ມເບຍຫຼາຍ.</item>
+        <item>ສຽງຮ້ອງຂອງນົກມ່ວນຫຼາຍ.</item>
+        <item>ພາສາຈີນກາງຂອງລາວດີຫຼາຍ.</item>
+        <item>ສໍດຳລາຄາຖືກຫຼາຍ.</item>
+        <item>ນ້ອງຊາຍຕຸ້ຍຫຼາຍ, ແຕ່ລາວນ່າຮັກຫຼາຍ.</item>
+        <item>ໝູ່ຂອງຂ້ອຍເປັນຄົນແປກຫຼາຍ.</item>
+        <item>ນອກຈາກເຈົ້າ, ຄົນອື່ນກໍ່ຢູ່ໂຮງຮຽນໝົດແລ້ວ.</item>
+        <item>ຂ້ອຍບໍ່ເຂົ້າໃຈອາຈານເວົ້າຫຍັງ.</item>
+        <item>ສະພາບອາກາດຍາມລະດູໃບໄມ້ລົ້ນດີຫຼາຍ.</item>
+        <item>ຂ້ອຍບໍ່ຂ້ອຍສະບາຍ.</item>
+        <item>ກະໂປງທີ່ລາວຊື້ງາມຫຼາຍ.</item>
+        <item>ນ້າສາວເປັນຄົນອົບອຸ່ນຫຼາຍ, ທຸກຄົນລ້ວນແຕ່ມັກລາວ.</item>
+        <item>ຂ້ອຍຄິດວ່າລາວເປັນຄົນຕັ້ງໃຈຮຽນຫຼາຍ.</item>
+        <item>ລາວກິນນ້ອຍແຮງ, ສະນັ້ນລາວຈ່ອຍແຮງ.</item>
+        <item>ຄະນິດສາດຍາກຫຼາຍ.</item>
+        <item>ຮ້ານຄ້າຂອງອ້າວຂາຍໂທລະສັບແລະໂມງແຂນ.</item>
+        <item>ໃນໂລກໃບນີ້ມີຄົນຈັກຄົນ?</item>
+        <item>ຄົນບໍ່ສະບາຍເຮັດໃຫ້ໃຈຮ້າຍໃຈ.</item>
+        <item>ເອື້ອຍລື້ງຊື້ເຄື່ອງອອນໄລ.</item>
+        <item>ທຸກມື້ຂ້ອຍຖູແຂ້ວ3ເທື່ອ.</item>
+        <item>ຄວາມອົບອຸ່ນຂອງລາວເຮັດໃຫ້ທຸກຄົນຮູ້ສືກສະບາຍ.</item>
+        <item>ດື່ມນ້ຳກ່ອນ, ຫຼັງຈາກນັ້ນຈື່ງກິນເຂົ້າ.</item>
+        <item>ຢູ່ເທິງຕົ້ນໄມ້ມີໝາກໄມ້ຫຼາຍ.</item>
+        <item>ພວກເຮົາທຸກຄົນລ້ວນແຕ່ມີມື້ຄູ່1ແລະມີ2ຂາ.</item>
+        <item>ນ້ຳຕານຫວານຫຼາຍ, ບໍ່ຄວນກິນຫຼາຍ.</item>
+        <item>ມີນັກຮຽນຫຼາຍຄົນມັກຮຽນວິຊາກິລາ.</item>
+        <item>ແມ່ນເຫັນດີໃຫ້ຂ້ອຍຮຽນຟ້ອນແລ້ວ.</item>
+        <item>ຂ້ອຍຄິດໄດ້ກະທັນຫັນວ່າມື້ອື່ນມີສອບເສັງ.</item>
+        <item>ທຸກມື້ຂ້ອຍກິນເຂົ້າ1ຖ້ວຍ.</item>
+        <item>ຂ້ອຍຮູ້ສືກວ່າເຈັບຫົວຫຼາຍ.</item>
+        <item>ຫຼັງຈາກຕື່ນນອນຢ່າລືມດື່ມນ້ຳ.</item>
+        <item>ຂ້ອຍຢາກເຂົ້າຫ້ອງນ້ຳ.</item>
+        <item>ອາຈານມັກເວົ້າວ່າ“ມີຄຳຖາມບໍ່？“.</item>
+        <item>ລະດູຮ້ອນອາກາດຮ້ອນຫຼາຍ.</item>
+        <item>ໝີແພນດ້າຕູ້ຍຫຼາຍແຕ່ກໍນ່າຮັກຫຼາຍ.</item>
+        <item>ພວກເຮົາຢ້ານຜູ້ອຳນວຍການຫຼາຍ.</item>
+        <item>ຂ້ອຍເຊື່ອຄຳເວົ້າເຈົ້າ.</item>
+        <item>ພໍ່ມັກເບິ່ງໜັງສືພິມ.</item>
+        <item>ຂັບລົດຕ້ອງລະມັດລະວັງ.</item>
+        <item>ໃນກະເປົາເດິນທາງມີເຄື່ອງຫຼາຍ.</item>
+        <item>ໝາກກ້ວຍສົດແຮງ.</item>
+        <item>ສິ່ງທີ່ຂ້ອຍມັກແມ່ນຫຼິ້ນບານບ່ວງ</item>
+        <item>ຝົນຕົກແລ້ວຂ້ອຍຕ້ອງການຄັນຮົ່ມ.</item>
+        <item>ເກີບຄູ່ນີ້ແພງຫຼາຍ.</item>
+        <item>ຂ້ອຍມີກະເປົາເດິນທາງແບບນີ້2ອັນ.</item>
+        <item>ໃນຂ່າວບອກວ່າອາທິດນີ້ຝົນຊີຕົກ.</item>
+        <item>ໝີແພນດ້າຍິ້ມໃຫ້ຂ້ອຍ.</item>
+        <item>ສີຂອງຫິມະແມ່ນສີຂາວ.</item>
+        <item>ຕາຂອງຂ້ອຍບໍ່ດີ, ຈຳເປັນຕ້ອງໃສ່ແວ່ນຕາ</item>
+        <item>ປົກກະຕິແລ້ວຊິ້ນແບ້ແພງກວ່າຊິ້ນງົວ.</item>
+        <item>ອາຈານຕັ້ງເງື່ອນໄຂໃຫ້ພວກເຮົາຕ້ອງໃສ່ຊຸດນັກຮຽນ.</item>
+        <item>ພໍ່ຕູ້ເຖົ້າແລ້ວ, ພວກເຮົາຕ້ອງດູແລລາວ.</item>
+        <item>ການຟັງເພງຍັງແມ່ນສິ່ງທີ່ຂ້ອຍມັກ.</item>
+        <item>ແຕ່ກ່ອນຂ້ອຍຄິດວ່າເປັນທ່ານໝໍງ່າຍແຮງ.</item>
+        <item>ຂ້ອຍທັງຟັງເພງທັງຫຼິ້ນເກມ.</item>
+        <item>ດວງຈັນທັງໃຫຍ່ທັງມົນ.</item>
+        <item>ຂ້ອຍບໍ່ເຂົ້າໃຈຄວາມໝາຍຂອງຕົວໜັງສືນີ້.</item>
+        <item>ຂ້ອຍເຮັດວຽກຢູ່ທະນາຄານ.</item>
+        <item>xiaomingເຕັມໃຈສອນພາສາຈີນໃຫ້ຂ້ອຍ.</item>
+        <item>ເຈົ້າຄວນບອກລາວວ່າເຈົ້າບໍ່ຢາກໄປເບິ່ງໜັງນຳລາວ.</item>
+        <item>ທ່ານໝໍທີ່ດີມີອິດທີພົນຕໍ່່ກັບຄົນເຈັບຂອງລາວຫຼາຍ.</item>
+        <item>ໃບໄມ້ຢູ່ເທິງຕົ້ນໄມ້ຫຼາຍແຮງ.</item>
+        <item>ພໍ່ຕູ້ແມ່ນນັກດົນທີ່ມີຊື່ສຽງຄົນໜື່ງ.</item>
+        <item>ເຈົ້າໄປໜ້າເລື່ອຍໆ, ກໍ່ເຫັນທະນາຄາຢູ່ເບື່ອງຂວາຂອງເຈົ້າ.</item>
+        <item>ອາຫານຈານນິ້ທຳມະດາ, ບໍ່ໄດ້ແຊບຫຼາຍ.</item>
+        <item>ຂ້ອຍເຕັມໃຈຊ່ວຍເຫຼືອເຈົ້າ.</item>
+        <item>ກິລາທີ່ຂ້ອຍມັກແມ່ນແລ່ນ.</item>
+        <item>ກ້ອງຖ່າຍຮູບອັນນີ້ເປັນແນວໃດ？</item>
+        <item>ຂ້ອຍຊື່ວ່າ wangfang、ນາມສະກຸນwang，ຊື່fang。</item>
+        <item>ທ້າຍອາທິດນີ້ຂ້ອຍຢາກຊີ່ລົດຖິບໄປຫຼິ້ນ.</item>
+        <item>ຢູ່ເຄິ່ງກາງຂອງໂຕະແມ່ນກະເປົາຂອງxiaowang.</item>
+        <item>ເຈົ້າສາມາດຫາຄວາມຂອງຕົວໜັງສືນິ້ໃນວັດຈະນະນຸກົມ.</item>
+        <item>ສາເຫດທີ່ເຈົ້າຮຽນພາສາຈີນແມ່ນຫຍັງ？</item>
+        <item>ວຽກບ້ານມີປະໂຫຍດຫຍັງ？</item>
+        <item>ລາວຢ້ານຊີໄປຊ້າ, ດັ່ງນັ້ນລາວຟ້າວຫຼາຍ.</item>
+        <item>ໃນທີ່ສຸດຂ້ອຍກໍໄດ້ພັກຜ່ອນແລ້ວ.</item>
+        <item>ທ້າຍອາທິດແລ້ວພັກຜ່ອນໃຫ້ເຕັມທີ.</item>
+    </string-array>
+    <!--    hsk4 -->
+    <string-array name="hsk4_cab">
+        <item>爱情</item>
+        <item>安排</item>
+        <item>安全</item>
+        <item>暗</item>
+        <item>按时</item>
+        <item>按照</item>
+        <item>保护</item>
+        <item>保证</item>
+        <item>抱</item>
+        <item>抱歉</item>
+        <item>报道</item>
+        <item>报名</item>
+        <item>倍</item>
+        <item>本来</item>
+        <item>笨</item>
+        <item>笔记本</item>
+        <item>毕业</item>
+        <item>遍</item>
+        <item>标准</item>
+        <item>表达</item>
+        <item>表格</item>
+        <item>表扬</item>
+        <item>饼干</item>
+        <item>并且</item>
+        <item>博士</item>
+        <item>不但</item>
+        <item>不过</item>
+        <item>不得不</item>
+        <item>不管</item>
+        <item>不仅</item>
+        <item>部分</item>
+        <item>擦</item>
+        <item>猜</item>
+        <item>材料</item>
+        <item>参观</item>
+        <item>差不多</item>
+        <item>尝</item>
+        <item>长城</item>
+        <item>长江</item>
+        <item>场</item>
+        <item>超过</item>
+        <item>吵</item>
+        <item>成功</item>
+        <item>成熟</item>
+        <item>成为</item>
+        <item>诚实</item>
+        <item>城市</item>
+        <item>乘坐</item>
+        <item>吃惊</item>
+        <item>重新</item>
+
+        <item>抽烟</item>
+        <item>出差</item>
+        <item>出发</item>
+        <item>出生</item>
+        <item>传真</item>
+        <item>窗户</item>
+        <item>词典</item>
+        <item>从来</item>
+        <item>粗心</item>
+        <item>答案</item>
+        <item>打扮</item>
+        <item>打扰</item>
+        <item>打印</item>
+        <item>打折</item>
+        <item>打针</item>
+        <item>大概</item>
+        <item>大使馆</item>
+        <item>大约</item>
+        <item>戴</item>
+        <item>代表</item>
+        <item>代替</item>
+        <item>大夫</item>
+        <item>当</item>
+        <item>当地</item>
+        <item>当时</item>
+        <item>刀</item>
+        <item>导游</item>
+        <item>到处</item>
+        <item>到底</item>
+        <item>道歉</item>
+        <item>得意</item>
+        <item>得</item>
+        <item>底</item>
+        <item>地球</item>
+        <item>地址</item>
+        <item>掉</item>
+        <item>调查</item>
+        <item>丢</item>
+        <item>动作</item>
+        <item>堵车</item>
+        <item>肚子</item>
+        <item>断</item>
+        <item>对话</item>
+        <item>对面</item>
+        <item>顿</item>
+        <item>朵</item>
+        <item>而</item>
+        <item>儿童</item>
+        <item>发</item>
+        <item>发生</item>
+
+        <item>发展</item>
+        <item>法律</item>
+        <item>翻译</item>
+        <item>烦恼</item>
+        <item>反对</item>
+        <item>反映</item>
+        <item>范围</item>
+        <item>方法</item>
+        <item>方面</item>
+        <item>方向</item>
+        <item>访问</item>
+        <item>放弃</item>
+        <item>放暑假</item>
+        <item>分之</item>
+        <item>份</item>
+        <item>丰富</item>
+        <item>风景</item>
+        <item>否则</item>
+        <item>符合</item>
+        <item>富</item>
+        <item>父亲</item>
+        <item>复印</item>
+        <item>复杂</item>
+        <item>负责</item>
+        <item>改变</item>
+        <item>干杯</item>
+        <item>干燥</item>
+        <item>感动</item>
+        <item>感觉</item>
+        <item>感情</item>
+        <item>感谢</item>
+        <item>干</item>
+        <item>刚刚</item>
+        <item>高级</item>
+        <item>各</item>
+        <item>个子</item>
+        <item>公里</item>
+        <item>工具</item>
+        <item>工资</item>
+        <item>共同</item>
+        <item>够</item>
+        <item>购物</item>
+        <item>孤单</item>
+        <item>估计</item>
+        <item>鼓励</item>
+        <item>鼓掌</item>
+        <item>顾客</item>
+        <item>故意</item>
+        <item>挂</item>
+        <item>关键</item>
+
+        <item>观众</item>
+        <item>管理</item>
+        <item>光</item>
+        <item>广播</item>
+        <item>广告</item>
+        <item>逛</item>
+        <item>规定</item>
+        <item>国际</item>
+        <item>果然</item>
+        <item>过程</item>
+        <item>海洋</item>
+        <item>害羞</item>
+        <item>寒假</item>
+        <item>汗</item>
+        <item>航班</item>
+        <item>好处</item>
+        <item>好像</item>
+        <item>号码</item>
+        <item>合格</item>
+        <item>合适</item>
+        <item>盒子</item>
+        <item>猴子</item>
+        <item>厚</item>
+        <item>后悔</item>
+        <item>后来</item>
+        <item>忽然</item>
+        <item>护士</item>
+        <item>互相</item>
+        <item>怀疑</item>
+        <item>回忆</item>
+        <item>活动</item>
+        <item>活泼</item>
+        <item>火</item>
+        <item>获得</item>
+        <item>基础</item>
+        <item>激动</item>
+        <item>积极</item>
+        <item>积累</item>
+        <item>极其</item>
+        <item>集合</item>
+        <item>及时</item>
+        <item>即使</item>
+        <item>寄</item>
+        <item>记者</item>
+        <item>计划</item>
+        <item>既然</item>
+        <item>技术</item>
+        <item>继续</item>
+        <item>家具</item>
+        <item>加班</item>
+
+        <item>加油站</item>
+        <item>假</item>
+        <item>价格</item>
+        <item>坚持</item>
+        <item>减肥</item>
+        <item>减少</item>
+        <item>将来</item>
+        <item>奖金</item>
+        <item>降低</item>
+        <item>交</item>
+        <item>交流</item>
+        <item>交通</item>
+        <item>骄傲</item>
+        <item>饺子</item>
+        <item>教授</item>
+        <item>教育</item>
+        <item>接受</item>
+        <item>结果</item>
+        <item>结婚</item>
+        <item>节约</item>
+        <item>解释</item>
+        <item>尽管</item>
+        <item>紧张</item>
+        <item>进行</item>
+        <item>禁止</item>
+        <item>精彩</item>
+        <item>精神</item>
+        <item>经济</item>
+        <item>经历</item>
+        <item>经验</item>
+        <item>京剧</item>
+        <item>警察</item>
+        <item>竟然</item>
+        <item>竞争</item>
+        <item>镜子</item>
+        <item>究竟</item>
+        <item>举办</item>
+        <item>拒绝</item>
+        <item>距离</item>
+        <item>开玩笑</item>
+        <item>看法</item>
+        <item>考虑</item>
+        <item>棵</item>
+        <item>科学</item>
+        <item>咳嗽</item>
+        <item>可怜</item>
+        <item>可是</item>
+        <item>可惜</item>
+        <item>肯定</item>
+        <item>空气</item>
+
+        <item>恐怕</item>
+        <item>苦</item>
+        <item>宽</item>
+        <item>困</item>
+        <item>困难</item>
+        <item>扩大</item>
+        <item>拉</item>
+        <item>垃圾桶</item>
+        <item>辣</item>
+        <item>来不及</item>
+        <item>懒</item>
+        <item>浪漫</item>
+        <item>老虎</item>
+        <item>冷静</item>
+        <item>理发</item>
+        <item>理解</item>
+        <item>理想</item>
+        <item>礼貌</item>
+        <item>厉害</item>
+        <item>力气</item>
+        <item>例如</item>
+        <item>俩</item>
+        <item>连</item>
+        <item>联系</item>
+        <item>凉快</item>
+        <item>亮</item>
+        <item>聊天</item>
+        <item>另外</item>
+        <item>留</item>
+        <item>留学</item>
+        <item>流泪</item>
+        <item>流利</item>
+        <item>流行</item>
+        <item>乱</item>
+        <item>律师</item>
+        <item>麻烦</item>
+        <item>马虎</item>
+        <item>满</item>
+        <item>毛巾</item>
+        <item>梦</item>
+        <item>密码</item>
+        <item>免费</item>
+        <item>面条</item>
+        <item>民族</item>
+        <item>母亲</item>
+        <item>目的</item>
+        <item>耐心</item>
+        <item>难道</item>
+
+        <item>难受</item>
+        <item>内</item>
+        <item>内容</item>
+        <item>能力</item>
+        <item>年龄</item>
+        <item>农村</item>
+        <item>弄</item>
+        <item>暖和</item>
+        <item>偶尔</item>
+        <item>排列</item>
+        <item>判断</item>
+        <item>陪</item>
+        <item>批评</item>
+        <item>皮肤</item>
+        <item>脾气</item>
+        <item>篇</item>
+        <item>骗</item>
+        <item>乒乓球</item>
+        <item>平时</item>
+        <item>瓶子</item>
+        <item>破</item>
+        <item>普遍</item>
+        <item>其次</item>
+        <item>其中</item>
+        <item>起飞</item>
+        <item>起来</item>
+        <item>气候</item>
+        <item>千万</item>
+        <item>签证</item>
+        <item>墙</item>
+        <item>敲</item>
+        <item>桥</item>
+        <item>巧克力</item>
+        <item>亲戚</item>
+        <item>轻</item>
+        <item>轻松</item>
+        <item>情况</item>
+        <item>请假</item>
+        <item>请客</item>
+        <item>穷</item>
+        <item>区别</item>
+        <item>取</item>
+        <item>全部</item>
+        <item>缺点</item>
+        <item>缺少</item>
+        <item>却</item>
+        <item>确实</item>
+        <item>群</item>
+        <item>然而</item>
+        <item>热闹</item>
+        <item>人民币</item>
+        <item>任何</item>
+        <item>任务</item>
+        <item>扔</item>
+        <item>仍然</item>
+        <item>日记</item>
+        <item>入口</item>
+        <item>软</item>
+        <item>散步</item>
+        <item>森林</item>
+        <item>沙发</item>
+        <item>商量</item>
+        <item>伤心</item>
+        <item>稍微</item>
+        <item>社会</item>
+        <item>深</item>
+        <item>申请</item>
+        <item>甚至</item>
+        <item>生活</item>
+        <item>生命</item>
+        <item>省</item>
+        <item>剩</item>
+        <item>失败</item>
+        <item>失望</item>
+        <item>师傅</item>
+        <item>湿润</item>
+        <item>狮子</item>
+        <item>十分</item>
+        <item>实际</item>
+        <item>实在</item>
+        <item>食品</item>
+        <item>使用</item>
+        <item>试</item>
+        <item>市场</item>
+        <item>适合</item>
+        <item>适应</item>
+        <item>世纪</item>
+        <item>收</item>
+        <item>收入</item>
+        <item>收拾</item>
+        <item>首都</item>
+        <item>首先</item>
+        <item>受不了</item>
+        <item>受到</item>
+        <item>售货员</item>
+        <item>输</item>
+        <item>熟悉</item>
+        <item>数量</item>
+        <item>数字</item>
+        <item>帅</item>
+
+        <item>顺便</item>
+        <item>顺利</item>
+        <item>顺序</item>
+        <item>说明</item>
+        <item>硕士</item>
+        <item>死</item>
+        <item>速度</item>
+        <item>塑料袋</item>
+        <item>酸</item>
+        <item>算</item>
+        <item>随便</item>
+        <item>随着</item>
+        <item>孙子</item>
+        <item>所有</item>
+        <item>台</item>
+        <item>抬</item>
+        <item>态度</item>
+        <item>谈</item>
+        <item>弹钢琴</item>
+        <item>汤</item>
+        <item>糖</item>
+        <item>躺</item>
+        <item>趟</item>
+        <item>讨论</item>
+        <item>讨厌</item>
+        <item>特点</item>
+        <item>提供</item>
+        <item>提前</item>
+        <item>提醒</item>
+        <item>填空</item>
+        <item>条件</item>
+        <item>停止</item>
+        <item>挺</item>
+        <item>通过</item>
+        <item>通知</item>
+        <item>同情</item>
+        <item>推</item>
+        <item>推迟</item>
+        <item>脱</item>
+        <item>袜子</item>
+        <item>完全</item>
+        <item>往</item>
+        <item>往往</item>
+        <item>网球</item>
+        <item>网站</item>
+        <item>危险</item>
+        <item>味道</item>
+        <item>温度</item>
+        <item>文章</item>
+        <item>握手</item>
+        <item>污染</item>
+        <item>无</item>
+        <item>无聊</item>
+        <item>无论</item>
+        <item>误会</item>
+        <item>西红柿</item>
+        <item>吸引</item>
+        <item>洗衣机</item>
+        <item>咸</item>
+        <item>现代</item>
+        <item>羡慕</item>
+        <item>限制</item>
+        <item>香</item>
+        <item>相反</item>
+        <item>详细</item>
+        <item>响</item>
+        <item>消息</item>
+        <item>小说</item>
+        <item>笑话</item>
+        <item>效果</item>
+        <item>辛苦</item>
+        <item>心情</item>
+        <item>信任</item>
+        <item>信心</item>
+        <item>信用卡</item>
+        <item>兴奋</item>
+        <item>行</item>
+        <item>醒</item>
+        <item>性别</item>
+        <item>性格</item>
+        <item>幸福</item>
+        <item>修</item>
+        <item>许多</item>
+        <item>血</item>
+        <item>压力</item>
+        <item>牙膏</item>
+        <item>亚洲</item>
+        <item>呀</item>
+        <item>盐</item>
+        <item>严格</item>
+        <item>严重</item>
+        <item>研究生</item>
+        <item>演出</item>
+        <item>演员</item>
+        <item>阳光</item>
+        <item>养成</item>
+        <item>样子</item>
+        <item>邀请</item>
+        <item>钥匙</item>
+        <item>也许</item>
+        <item>页</item>
+
+        <item>叶子</item>
+        <item>一切</item>
+        <item>以</item>
+        <item>亿</item>
+        <item>意见</item>
+        <item>意思</item>
+        <item>艺术</item>
+        <item>因此</item>
+        <item>饮料</item>
+        <item>引起</item>
+        <item>印象</item>
+        <item>赢</item>
+        <item>硬</item>
+        <item>勇敢</item>
+        <item>永远</item>
+        <item>优点</item>
+        <item>优秀</item>
+        <item>幽默</item>
+        <item>由</item>
+        <item>由于</item>
+        <item>尤其</item>
+        <item>有趣</item>
+        <item>友好</item>
+        <item>友谊</item>
+        <item>愉快</item>
+        <item>于是</item>
+        <item>与</item>
+        <item>语法</item>
+        <item>语言</item>
+        <item>羽毛球</item>
+        <item>预习</item>
+        <item>圆</item>
+        <item>原来</item>
+        <item>原谅</item>
+        <item>原因</item>
+        <item>约会</item>
+        <item>阅读</item>
+        <item>允许</item>
+        <item>杂志</item>
+        <item>咱们</item>
+        <item>暂时</item>
+        <item>脏</item>
+        <item>责任</item>
+        <item>增加</item>
+        <item>增长</item>
+        <item>窄</item>
+        <item>招聘</item>
+        <item>真正</item>
+        <item>整理</item>
+        <item>整齐</item>
+        <item>正常</item>
+        <item>正好</item>
+        <item>正确</item>
+        <item>正式</item>
+        <item>证明</item>
+        <item>之</item>
+        <item>只</item>
+        <item>支持</item>
+        <item>知识</item>
+        <item>值得</item>
+        <item>直接</item>
+        <item>植物</item>
+        <item>职业</item>
+        <item>指</item>
+        <item>只好</item>
+        <item>只要</item>
+        <item>质量</item>
+        <item>至少</item>
+        <item>制造</item>
+        <item>中文</item>
+        <item>重点</item>
+        <item>重视</item>
+        <item>周围</item>
+        <item>猪</item>
+        <item>逐渐</item>
+        <item>主动</item>
+        <item>主意</item>
+        <item>祝贺</item>
+        <item>著名</item>
+        <item>专门</item>
+        <item>专业</item>
+        <item>赚</item>
+        <item>撞</item>
+        <item>准确</item>
+        <item>准时</item>
+        <item>仔细</item>
+        <item>自然</item>
+        <item>总结</item>
+        <item>租</item>
+        <item>组成</item>
+        <item>组织</item>
+        <item>嘴</item>
+        <item>最好</item>
+        <item>最后</item>
+        <item>尊重</item>
+        <item>做生意</item>
+        <item>座</item>
+        <item>座位</item>
+        <item>作者</item>
+    </string-array>
+    <string-array name="hsk4_cabfanyi">
+        <item>ຄວາມຮັກ</item>
+        <item>ຈັດການ</item>
+        <item>ປອດໄພ</item>
+        <item>ມືດ, ມິດງຽບ</item>
+        <item>ຕາມເວລາ</item>
+        <item>ອີງຕາມ</item>
+        <item>ປົກປັກຮັກສາ, ປົກປ້ອງ</item>
+        <item>ຮັບປະການ</item>
+        <item>ກອດ, ອຸ້ມ</item>
+        <item>ຂໍໂທດ</item>
+        <item>ລາຍງານຂ່າວ</item>
+        <item>ລົງທະບຽນ</item>
+        <item>ເທົ່າ</item>
+        <item>ຈື່ງທີ່ແລ້ວ, ແຕ່ເດິມ</item>
+        <item>ໂງ່,ຈ້າ</item>
+        <item>ປື້ມບັນທືກ</item>
+        <item>ຈົບການສືກສາ</item>
+        <item>ເທື່ອ</item>
+        <item>ມາດຕະຖານ</item>
+        <item>ສະແດງວ່າ</item>
+        <item>ແບບຢອມ</item>
+        <item>ຊົມເຊີຍ, ຍ້ອງຍໍ</item>
+        <item>ຂະໜົມ(ປະເພດອົບແຫ້ງ)</item>
+        <item>ແລະ</item>
+        <item>ປະລິນຍາເອກ</item>
+        <item>ບໍ່ພຽງແຕ່</item>
+        <item>ບໍ່ຜ່ານ, ຖ້າວ່າ</item>
+        <item>ຈຳເປັນຕ້ອງ</item>
+        <item>ບໍ່ກ່ຽວ, ບໍ່ສົນ</item>
+        <item>ບໍ່ພຽງແຕ່</item>
+        <item>ພາກສ່ວນ</item>
+        <item>ລືບ, ເຊັດ, ຖູ</item>
+        <item>ເດົາ, ຄາດຄະແນ</item>
+        <item>ເອກະສານ, ເຄື່ອງປຸງອາຫານ, ເຄື່ອງມື</item>
+        <item>ໄປເບິ່ງ, ທັດສະນະ</item>
+        <item>ເກີອບ, ປະມານ</item>
+        <item>ລອງ, ຊິມ</item>
+        <item>ກຳແພງເມືອງຈິນ</item>
+        <item>ແມ່ນ້ຳຢາງຊີກຽງ</item>
+        <item>ຮອບ, ສະໜາມ</item>
+        <item>ຜ່ານ, ແຊງໜ້າ</item>
+        <item>ຟົດ, ວົນແຊວ, ສຽງດັງ</item>
+        <item>ປະສົບຜົນສຳເລັດ</item>
+        <item>ລື້ງເຄິຍ, ນິດໃສ່ເປັນຜູ້ໃຫຍ່</item>
+        <item>ກາຍເປັນ</item>
+        <item>ຊື່ສັດ</item>
+        <item>ຕົວເມືອງ</item>
+        <item>ນັ່ງ, ໂດຍສານ</item>
+        <item>ຕົກໃຈ</item>
+        <item>ເຮັດໃໝ່, ເຮັດອິກເທື່ອໜື່ງ</item>
+
+        <item>ສູບຢາ</item>
+        <item>ອອກໄປເຮັດວຽກຕ່າງຖິ່ນຊົ່ວຄາວ</item>
+        <item>ອອກເດິນທາງ</item>
+        <item>ເກິດ</item>
+        <item>ສົ່ງ, ແຟກ</item>
+        <item>ປ້ອງຢຽມ</item>
+        <item>ວັດຈະນານຸກົມ</item>
+        <item>ແຕ່ໃດມາ, ບໍ່ເຄິຍ</item>
+        <item>ປະມາດ, </item>
+        <item>ຄຳຕອບ</item>
+        <item>ແຕ່ງຕົວ</item>
+        <item>ລົບກວນ</item>
+        <item>ປິ້ນ, ພິມ</item>
+        <item>ຫຼຸດລາຄາ, ສ່ວນລຸດ</item>
+        <item>ສັກຢາ</item>
+        <item>ປະມານ</item>
+        <item>ສະຖານທູດ</item>
+        <item>ປະມານ</item>
+        <item>ໃສ່, ສວມ</item>
+        <item>ຕົວແທນ</item>
+        <item>ປ່ຽນ, ແທນ</item>
+        <item>ທ່ານໝໍ</item>
+        <item>ຕອນ, ເປັນ</item>
+        <item>ທ່ອງຖິ່ນ</item>
+        <item>ໃນເວລານັ້ນ</item>
+        <item>ມິດ</item>
+        <item>ຜູ້ນຳທ່ຽວ</item>
+        <item>ທຸກທີ່ທຸກບ່ອນ</item>
+        <item>ໃນທີ່ສຸດ, ທ້າຍທີ່ສຸດ</item>
+        <item>ຂໍໂທດ</item>
+        <item>ພູມໃຈ</item>
+        <item>ຕ້ອງ</item>
+        <item>ທ້າຍ</item>
+        <item>ໜ່ວຍໂລກ</item>
+        <item>ທີ່ຢູ່</item>
+        <item>ຖິ້ມ, ໂຍນຖິ້ມ</item>
+        <item>ສຳຫຼວດ</item>
+        <item>ຖິ້ມ, ເສຍ</item>
+        <item>ທ່າທາງ</item>
+        <item>ລົດຕິດ</item>
+        <item>ທ້ອງ</item>
+        <item>ຫັກ, ຂາດ</item>
+        <item>ສົນທະນາ</item>
+        <item>ຕໍ່ໜ້າ, ກົງກັນຂ້າມ</item>
+        <item>ລັກສະນະນາມໃຫ້ເຂົ້າ(ຄາບ)</item>
+        <item>ລັກສະນານາມດໃຫ້ດອກໄມ້</item>
+        <item>ແຕ່, ແລະ</item>
+        <item>ເດັກນ້ອຍ</item>
+        <item>ສົ່ງ</item>
+        <item>ເກິດຂື້ນ</item>
+
+        <item>ພັດທະນາ</item>
+        <item>ກົດໝາຍ</item>
+        <item>ແປ</item>
+        <item>ຫຍຸ້ງຍາກ</item>
+        <item>ຄັດຄ້ານ</item>
+        <item>ສ່ອງແສງ, ລາຍງານ</item>
+        <item>ເນື່ອທີ່, ຂອບເຂດ</item>
+        <item>ວິທີ</item>
+        <item>ໃນດ້ານ</item>
+        <item>ທິດທາງ</item>
+        <item>ສຳພັດ</item>
+        <item>ຍອມແພ້, ປ່ອຍຖິ້ມ</item>
+        <item>ພັກແລ້ງ</item>
+        <item>ສ່ວນ</item>
+        <item>ລັກສະນະນາມໃຫ້ວຽກງານ</item>
+        <item>ອຸດົມສົມບຸນ</item>
+        <item>ທິວທັດ, ວິວ</item>
+        <item>ຖ້າບໍ່ດັ່ງນັ້ນ</item>
+        <item>ຖືກກັບ, ເຂົ້າກັບ</item>
+        <item>ຮັ່ງມີ, ລວຍ</item>
+        <item>ພໍ່</item>
+        <item>ກອບປິ່</item>
+        <item>ຊັບຊ້ອນ, ຍາກ</item>
+        <item>ຮັບຜິດຊອບ</item>
+        <item>ປ່ຽນ</item>
+        <item>ໝົດຈອກ</item>
+        <item>ແຫ້ງແລງ</item>
+        <item>ຊາບຊື່ງ</item>
+        <item>ຄວາມຮູ້ສືກ</item>
+        <item>ຄວາມຮັກແພງ</item>
+        <item>ຂອບໃຈ</item>
+        <item>ເຮັດ</item>
+        <item>ຫາກໍ່</item>
+        <item>ລະດັບສູງ</item>
+        <item>ແຕ່ລະ, ທຸກໆ</item>
+        <item>ຮູບຮ່າງ, ຕົນໂຕ</item>
+        <item>ກິໂລແມັດ</item>
+        <item>ເຄື່ອງມື, ອຸປະກອນ</item>
+        <item>ເງີນເດືອນ</item>
+        <item>ຮ່ວມກັນ</item>
+        <item>ພຽງພໍ, ຄົບ</item>
+        <item>ຊື້ເຄື່ອງ, ຊອບປິ່ງ</item>
+        <item>ເຫງົາ, ໂດດດ່ຽວ</item>
+        <item>ຄາດຄະແນ, ຄາດວ່າ</item>
+        <item>ໃຫ້ກຳລັງໃຈ</item>
+        <item>ຕົບມື</item>
+        <item>ລຸກຄ້າ</item>
+        <item>ຕັ້ງໃຈ, ເຈຕະນາ</item>
+        <item>ຫ້ອຍ, ເກາະ</item>
+        <item>ປະເດັນ, ຈຸດສຳຄັນ</item>
+
+        <item>ຜູ້ຊົມ, ຜູ້ເບິ່ງ</item>
+        <item>ບໍລິຫານ</item>
+        <item>ແສງສະຫວ່າງ, ໜົດກ້ຽງ</item>
+        <item>ກະຈາຍສຽງ, ລາຍການວິທະຍຸ</item>
+        <item>ໂຄສະນາ</item>
+        <item>ເລາະເບິ່ງ</item>
+        <item>ຂໍ້ກຳນົດ</item>
+        <item>ສາກົນ, ນາໆຊາດ, ລະຫວ່າງປະເທດ</item>
+        <item>ແທ້ໆ</item>
+        <item>ຂັ້ນຕອນ, ຂະບວນການ</item>
+        <item>ມະຫາສະໝຸດ</item>
+        <item>ເຂິນອາຍ</item>
+        <item>ພັກລະດຸໜາວ</item>
+        <item>ເຫື່ອ</item>
+        <item>ຖ້ຽວບິນ, ສາຍການບິນ</item>
+        <item>ຜົນດີ, ຂໍ້ດີ</item>
+        <item>ຄ້າຍຄື, ຄືກັນ</item>
+        <item>ເບີ, ເລກ</item>
+        <item>ຖືກມາດຕະຖານ</item>
+        <item>ເໝາະສົມ</item>
+        <item>ເກັດ, ກັບ</item>
+        <item>ລິງ</item>
+        <item>ໜາ</item>
+        <item>ເສຍໃຈ, ກິນແໜງໃຈ</item>
+        <item>ຫຼັງຈາກນັ້ນ</item>
+        <item>ທັນໃດນັ້ນ</item>
+        <item>ນາງພະຍາບານ</item>
+        <item>ເຊິ່ງກັນ ແລະ ກັນ</item>
+        <item>ສົງໃສ</item>
+        <item>ຫວນຄືນ, ຄວາມຊົງຈຳ</item>
+        <item>ກິດຈະກຳ</item>
+        <item>ນ່າຮັກ, ເບິດບານ, ມ່ວນຊື່ນ</item>
+        <item>ໄຟ</item>
+        <item>ໄດ້ຮັບ</item>
+        <item>ພື້ນຖານ</item>
+        <item>ຕື່ນເຕັ້ນ</item>
+        <item>ຄິດໃນທາງບວກ, ຕັ້ງໜ້າ, ໃສ່ໃຈ</item>
+        <item>ການສະສົມ</item>
+        <item>ຫຼາຍ</item>
+        <item>ເຕົ້າໂຮມກັນ, ການເກັບກຳ</item>
+        <item>ທັນເວລາ</item>
+        <item>ທັ້ງໆທີ່</item>
+        <item>ສົ່ງ</item>
+        <item>ນັກຂ່າວ</item>
+        <item>ແຜນການ</item>
+        <item>ໃນເມື່ອ, ຖ້າວ່າ</item>
+        <item>ເຕັກນິກ</item>
+        <item>ສືບຕໍ່່, ຕໍ່່ໄປ</item>
+        <item>ເຟີນີເຈີ</item>
+        <item>ໂອທີ, ເຮັດວຽກກາຍໂມງ</item>
+
+        <item>ປ້ຳນ້ຳມັນ</item>
+        <item>ປອມ</item>
+        <item>ລາຄາ</item>
+        <item>ຍືດໜັ້ນ</item>
+        <item>ຫຼຸດນ້ຳໜັກ</item>
+        <item>ຫຼຸດຜ່ອນ, ຫຼຸດລົງ</item>
+        <item>ອານາຄົດ</item>
+        <item>ເງີນລາງວັນ</item>
+        <item>ຫຼຸດລົງ</item>
+        <item>ຈ່າຍ, ມອບ, ໄດ້ຮູ້ຈັກ</item>
+        <item>ການແລກປ່ຽນ, ໂອ້ລົມ</item>
+        <item>ຈາລະຈອນ</item>
+        <item>ພູມໃຈ, ອວດຕົວ</item>
+        <item>ເຂົ້າໜົມກ້ຽວ</item>
+        <item>ສາດສະດາອາຈານ</item>
+        <item>ສັ່ງສອນ, ສືກສາ</item>
+        <item>ຍອມຮັບ</item>
+        <item>ຜົນໄດ້ຮັບ, ໝາກຜົນ</item>
+        <item>ແຕ່ງງານ</item>
+        <item>ປະຢັດ</item>
+        <item>ອະທິບາຍ</item>
+        <item>ທັ້ງໆທີ່</item>
+        <item>ຕື່ນເຕັ້ນ</item>
+        <item>ດຳເນີນ</item>
+        <item>ຫ້າມ</item>
+        <item>ສຸດຍອດ, ດີເລີດ</item>
+        <item>ອາລົມຈິດໃຈ, ຊິວິດຊິວາ</item>
+        <item>ເສດຖະກິດ</item>
+        <item>ປະສົບການ, ຜ່ານປະສົບການ</item>
+        <item>ປະສົບການ</item>
+        <item>ລະຄອນງິ້ວ</item>
+        <item>ຕຳຫຼວດ</item>
+        <item>ບໍ່ນືກເລີຍວ່າ</item>
+        <item>ແຂ່ງຂັນ, ຕໍ່ສູ້</item>
+        <item>ແວ່ນແຍງ, ແວ່ນ</item>
+        <item>ໃນທີ່ສຸດ, ສິ່ງທີ່ແນ່ນອນ</item>
+        <item>ຈັດຂື້ນ</item>
+        <item>ປະຕິເສດ</item>
+        <item>ໄລຍະຫ່າງ, ໄລຍະທາງ</item>
+        <item>ເວົ້າຫຼິ້ນ, ເວົ້າຢອກ</item>
+        <item>ຄວາມຄິດເຫັນ</item>
+        <item>ພິຈາລະນາ</item>
+        <item>ລັກສະນະນາມໃຫ້ຕົ້ນໄມ້</item>
+        <item>ວິທະຍາສາດ</item>
+        <item>ເປັນໄອ</item>
+        <item>ສົງສານ</item>
+        <item>ແຕ່ວ່າ</item>
+        <item>ເສຍດາຍ</item>
+        <item>ຢືນຢັນ, ແນ່ນອນ</item>
+        <item>ອາກາດ</item>
+
+        <item>ຢ້ານວ່າ, ອາດຈະ</item>
+        <item>ລົດຊາດຂົມ, ຫຍຸ້ງຍາກ</item>
+        <item>ກວ້າງ, ໃຫຍ່</item>
+        <item>ເຫງົານອນ, ຄ້າງ, ຕິດ</item>
+        <item>ລຳບາກ, ຫຍຸ້ງຍາກ</item>
+        <item>ຂະຫຍາຍ</item>
+        <item>ຈັບ, ດືງ, ລາກ</item>
+        <item>ຖັງຂິ້ເຫຍື້ອຍ</item>
+        <item>ເຜັດ</item>
+        <item>ບໍ່ທັນ</item>
+        <item>ກຽດຄ້ານ</item>
+        <item>ໂລເມນຕິກ</item>
+        <item>ເສືອ</item>
+        <item>ໃຈເຢັນ</item>
+        <item>ຕັດຜົມ</item>
+        <item>ເຂົ້າໃຈ</item>
+        <item>ຄວາມຝັນ, ອຸດົມການ</item>
+        <item>ມີມາລະຍາດ, ສຸພາບ</item>
+        <item>ເກັ່ງ, ໜັກ, ໂຫດຮ້າຍ</item>
+        <item>ແຮງ</item>
+        <item>ຕົວຢ່າງ, ເຊັ່ນວ່າ</item>
+        <item>ທັງສອງ(ຄົນ)</item>
+        <item>ຕິດ, ກະທັ່ງ</item>
+        <item>ຕິດຕໍ່</item>
+        <item>ເຢັນສະບາຍ</item>
+        <item>ແຈ້ງ, ສະຫວ່າງ</item>
+        <item>ລົມກັນ</item>
+        <item>ນອກຈາກນິ້</item>
+        <item>ຍັງ, ຄ້າງ, ເຫຼືອ, ຈົງໄວ</item>
+        <item>ໄປຮຽນ(ຕ່າງປະເທດ)</item>
+        <item>ນ້ຳຕາໄຫຼ່</item>
+        <item>ລ່ຽນໄຫຼ</item>
+        <item>ທັນສະໄໝ, ນິຍົມ</item>
+        <item>ຊັບສົນ, ບໍ່ເປັນລະບຽບ</item>
+        <item>ນັກກົດໝາຍ, ທະນາຍຄວາມ</item>
+        <item>ລົບກວນ, ລຳບາກ</item>
+        <item>ປະມາດ, ຖືເບົາ</item>
+        <item>ເຕັມ</item>
+        <item>ຜ້າເຊັດຕົວ, ຜ້າອາບນ້ຳ</item>
+        <item>ຄວາມຝັນ</item>
+        <item>ລະຫັດ</item>
+        <item>ຟຣີ, ບໍ່ມີຄ່າໃຊ້ຈ່າຍ</item>
+        <item>ໜີ່</item>
+        <item>ຊົນເຜົ່າ</item>
+        <item>ແມ່</item>
+        <item>ຈຸດປະສົງ, ເປົ້າໝາຍ</item>
+        <item>ຄວາມອົດທົນ</item>
+        <item>ຊັນບໍ</item>
+        <item>ເສຍໃຈ, ບໍ່ສະບາຍໃຈ</item>
+        <item>ໃນ, ພາຍໃນ</item>
+        <item>ເນື້ອໃນ</item>
+        <item>ຄວາມສາມາດ</item>
+        <item>ອາຍຸ</item>
+        <item>ຊົນນະບົດ</item>
+        <item>ເຮັດ</item>
+        <item>ອົບອຸ່ນ</item>
+        <item>ດົນໆເທື່ອ</item>
+        <item>ຈັດແຖວ, ຈັດລຳດັບ</item>
+        <item>ຕັດສິນ, ພິຈາລະນາ</item>
+        <item>ຢູ່ນຳ, ພາ</item>
+        <item>ຕຳນິ, ວິຈານ</item>
+        <item>ຜິວໜັງ</item>
+        <item>ອາລົມ, ນິດໃສ</item>
+        <item>ລັກສະນະນາມໃຫ້ບົດເລື່ອງ</item>
+        <item>ຕົວະ</item>
+        <item>ປິ້ງປ໋ອງ</item>
+        <item>ປົກກະຕິ</item>
+        <item>ແກ້ວ, ຂວດ</item>
+        <item>ແຕກ, ຂາດ, ທຳລາຍ</item>
+        <item>ທົ່ວໄປ, ປົກກະຕິ, ທຳມະດາ</item>
+        <item>ທີ່2, ຖັດມາ</item>
+        <item>ໃນນັ້ນ</item>
+        <item>ຍົນ (ບິນຂື້ນ)</item>
+        <item>ລຸກຂື້ນ</item>
+        <item>ສະພາບອາກາດ</item>
+        <item>ຕ້ອງ, ຢ່າ, 10ລ້ານ</item>
+        <item>ວີຊ່າ (vasa)</item>
+        <item>ຝາ, ກຳແພງ</item>
+        <item>ເຄາະ</item>
+        <item>ຂົວ</item>
+        <item>ຊ້ອບໂກແລັດ</item>
+        <item>ພິ່ນ້ອງ</item>
+        <item>ເບົາໆ</item>
+        <item>ຜ່ອນຄາຍ, ສະບາຍ</item>
+        <item>ສະພາບ, ສະຖານະການ</item>
+        <item>ຂໍລາພັກ</item>
+        <item>ລ້ຽງກິນ</item>
+        <item>ທຸກຍາກ</item>
+        <item>ຄວາມແຕກຕ່າງ</item>
+        <item>ເອົາ, ຖອນ</item>
+        <item>ທັງໝົດ</item>
+        <item>ຈຸດອ່ອນ</item>
+        <item>ຂາດເຂິນ, ບໍ່ມີ</item>
+        <item>ແຕ່ວ່າ</item>
+        <item>ແທ້ຈິງ</item>
+        <item>ກຸ່ມ</item>
+        <item>ແຕ່, ແຕ່ວ່າ</item>
+        <item>ຟົດຟື້ນ, ຄືກຄື້ນ</item>
+        <item>ສະກຸນເງີນຕາຈິນ</item>
+        <item>ແນວໃດກະໄດ້</item>
+        <item>ໜ້າທີ່, ໜ້າທີ່ຕ້ອງເຮັດ</item>
+        <item>ຖິ່ມ, ໂຍນ, ແກ່ວງ</item>
+        <item>ຄືເກົ່າ, ຍັງຄົງ</item>
+        <item>ບັນທືກປະຈຳວັນ</item>
+        <item>ທາງເຂົ້າ</item>
+        <item>ອ່ອນນຸ່ມ</item>
+        <item>ຍ່າງຫຼິ້ນ</item>
+        <item>ປ່າໄມ້ (ປ່າດົງດິບ)</item>
+        <item>ໂຊຟາ</item>
+        <item>ປືກສາຫາລື</item>
+        <item>ເສຍໃຈ, ເຈັບໃຈ</item>
+        <item>ໜ້ອຍໜື່ງ</item>
+        <item>ສັງຄົມ</item>
+        <item>ເລິກ, ລືກເຊິ່ງ</item>
+        <item>ຮ້ອງຂໍ</item>
+        <item>ຂະໜາດ, ຈົນກະທັ່ງ</item>
+        <item>ດຳລົງຊີວິດ</item>
+        <item>ຊີວິດ</item>
+        <item>ແຂວງ, ປະຢັດ</item>
+        <item>ເຫຼືອ, ສ່ວນທີ່ເຫຼືອ</item>
+        <item>ລົ້ມເຫຼວ, ເສຍໄຊ</item>
+        <item>ຜິດຫວັງ</item>
+        <item>ຊ່າງ, ຜູ້ຊ່ຽວຊານ, ອາຈານ</item>
+        <item>ປຽກຊຸ່ມ</item>
+        <item>ສິງໂຕ</item>
+        <item>ເຕັມສ່ວນ, ສ່ວນຫຼາຍ</item>
+        <item>ຄວາມເປັນຈິງ</item>
+        <item>ແທ້ໆ, ຈິງໃຈ, ອິຫຼີ</item>
+        <item>ອາຫານ, ຂອງກິນ (ທີ່ສຳເລັດຮູບ)</item>
+        <item>ນຳໃຊ້</item>
+        <item>ລອງ, ທົດລອງ</item>
+        <item>ຕະຫຼາດ</item>
+        <item>ເໝາະສົມ</item>
+        <item>ປັບຕົວ, ຮູ້ດີ</item>
+        <item>ສະຕະວັດ</item>
+        <item>ຮັບ, ເອົາ, ເກັບ</item>
+        <item>ລາຍຮັບ</item>
+        <item>ມ້ຽນ, ເກັບມ້ຽນ</item>
+        <item>ນະຄອນຫຼວງ</item>
+        <item>ທຳອິດ, ທີ່ໜື່ງ, ກ່ອນ</item>
+        <item>ຮັບບໍ່ໄດ້, ທົນບໍໄຫວ</item>
+        <item>ໄດ້ຮັບ</item>
+        <item>ພະນັກງານຂາຍ</item>
+        <item>ແພ້, ເສຍ</item>
+        <item>ຄຸ້ນເຄິຍ, ລື້ງເຄິຍ</item>
+        <item>ຈຳນວນ</item>
+        <item>ຕົວເລກ</item>
+        <item>ຫລໍ່</item>
+
+        <item>ແວ່, ຖືໂອກາດ</item>
+        <item>ຫຼາບລື່ນ</item>
+        <item>ຕາມລຳດັບ</item>
+        <item>ອະທິບາຍ, ຄູ່ມື</item>
+        <item>ປະລິນຍາໂທ</item>
+        <item>ຕາຍ</item>
+        <item>ຄວາມໄວ</item>
+        <item>ຖົງຢາງປຣາສຕິກ</item>
+        <item>ສົ້ມ</item>
+        <item>ນັບ, ຄິດໄລ່</item>
+        <item>ຕາມໃຈ, ຕາມສະບາຍ, ຊະຊາຍ</item>
+        <item>ພ້ອມກັນ, ນຳກັນ, ຄຽງຄູ່ກັບ</item>
+        <item>ຫຼານຊາຍ</item>
+        <item>ທັງໝົດ</item>
+        <item>ເວທີ, ລັກສະນະນາມໃຫ້ເຄື່ອງໃຊ້ໄຟຟ້າ</item>
+        <item>ຍົກ</item>
+        <item>ທັກສະນະຄະຕິ, ທ່າທາງ</item>
+        <item>ລົມກັນ, ປືກສາ</item>
+        <item>ຫຼິ່ນເບຍໂນ</item>
+        <item>ນ້ຳແກງ</item>
+        <item>ນ້ຳຕານ</item>
+        <item>ນອນ</item>
+        <item>ເທື່ອ, ຄັ້ງ, ຖ້ຽວ</item>
+        <item>ປືກສາ</item>
+        <item>ບໍ່ມັກ, ກຽດຊັງ</item>
+        <item>ຈຸດພິເສດ</item>
+        <item>ຕອບສະໜອງ</item>
+        <item>ກ່ອນກຳນົດ</item>
+        <item>ຕັດເຕືອນ, ເຕືອນສະຕີ</item>
+        <item>ຕື່ມໃຫ້ບ່ອນຫວ່າງ</item>
+        <item>ເງື່ອນໄຂ</item>
+        <item>ຢຸດ, ເຊົາ</item>
+        <item>ຂ້ອນຂ້າງ, ສະໜັບສະໜູນ</item>
+        <item>ໂດຍຜ່ານການ, ຜ່ານ</item>
+        <item>ປະກາດ, ບອກໃຫ້ຮູ້</item>
+        <item>ເຫັນໃຈ</item>
+        <item>ຍູ້, ເລື່ອນ</item>
+        <item>ເລື່ອນເວລາ</item>
+        <item>ປົດ, ແກ້, ຖອດ</item>
+        <item>ຖົງຕິນ</item>
+        <item>ສົມບຸນແບບ, ທັງໝົດ</item>
+        <item>ສູ່, ຕໍ່, ລ້ຽວ</item>
+        <item>ມັກຈະ, ເລື່ອຍໆ</item>
+        <item>ເທັນນິດ</item>
+        <item>ເວັບໄຊ</item>
+        <item>ອັນຕະລາຍ</item>
+        <item>ລົດຊາດ</item>
+        <item>ອຸນຫະພູມ</item>
+        <item>ບົດເລື່ອງ, ບົດຄວາມ</item>
+        <item>ຈັບມື</item>
+        <item>ມັນລະຜິດ, ເບີເປື່ອນ</item>
+        <item>ບໍ່ມີ</item>
+        <item>ນ່າເບື່ອ</item>
+        <item>ບໍ່ກ່ຽວວ່າ, ແນວໃດກະຕາມ</item>
+        <item>ເຂົ້າໃຈ</item>
+        <item>ໜາກເລັ່ນ</item>
+        <item>ດືງດູດ</item>
+        <item>ຈັກຊັກເຄື່ອງ</item>
+        <item>ເຄ້ມ</item>
+        <item>ສະໄໝປັດຈະບັນ, ສະໄໝໃໝ່</item>
+        <item>ອິດສາ</item>
+        <item>ຂໍ້ຈຳກັດ</item>
+        <item>ຫອມ</item>
+        <item>ກົງກັນຂ້າມ</item>
+        <item>ລະອຽດ</item>
+        <item>ດັງ</item>
+        <item>ຂ່່າວ, ຂໍ້ມູນ</item>
+        <item>ນະວະນິຍາຍ, ນິທານ</item>
+        <item>ເວົ້າຫຼິ້ນ, ເວົ້າຕະຫຼົກ</item>
+        <item>ຜົນ, ປະສິດທິຜົນ</item>
+        <item>ຍາກ, ລຳບາກ</item>
+        <item>ອາລົມດ, ຈິດໃຈ</item>
+        <item>ຄວາມເຊື່ອ</item>
+        <item>ຄວາມເຊື່ອໜັ້ນ</item>
+        <item>ນັດເຄຣດິດ</item>
+        <item>ຕື່ນເຕັ້ນ</item>
+        <item>ໄດ້, OK, ຍ່າງ</item>
+        <item>ຕື່ນ</item>
+        <item>ເພດ</item>
+        <item>ນິດໃສ</item>
+        <item>ມີຄວາມສຸກ</item>
+        <item>ສ້ອມແປງ</item>
+        <item>ຫຼາຍໆ</item>
+        <item>ເລຶອດ</item>
+        <item>ຄວາມກົດດັນ</item>
+        <item>ຢາຖູແຂ້ວ</item>
+        <item>ທະວິບອາຊີ</item>
+        <item>ຄຳເສີມຊ່ວຍ (ya)</item>
+        <item>ເກືອ</item>
+        <item>ເຄັ່ງຂັດ</item>
+        <item>ຮຸນແຮງ, ໜັກໜ່ວງ</item>
+        <item>ນັກສືກສາປະລິຍາໂທ, ນັກຄົ້ນຄວ້າ</item>
+        <item>ສະແດງອອກ</item>
+        <item>ນັກສະແດງ</item>
+        <item>ແສງຕາເວັນ</item>
+        <item>ສ້າງ, ປຸກ, ຄວາມເຄິຍຊິນ</item>
+        <item>ແບບຢ່າງ</item>
+        <item>ເຊີນ, ເຊື້ອເຊີນ</item>
+        <item>ລຸກກະແຈ</item>
+        <item>ອາດຈະ, ບາງທີ</item>
+        <item>ໜ້າເຈ້ຍ</item>
+
+        <item>ໃບໄມ້</item>
+        <item>ທັງໝົດ</item>
+        <item>ໂດຍໃຫ້, ອິງຕາມ, ດ້ວຍ</item>
+        <item>ຕື້, 100ລ້ານ</item>
+        <item>ຄວາມຄິດເຫັນ</item>
+        <item>ຄວາມໝາຍ</item>
+        <item>ສີລະປະ</item>
+        <item>ສະນັ້ນ</item>
+        <item>ເຄື່ອງດື່ມ</item>
+        <item>ພາໃຫ້ເກິດ</item>
+        <item>ຄວາມປະທັບໃຈ</item>
+        <item>ໄຊຊະນະ</item>
+        <item>ແຂງ</item>
+        <item>ກ້າຫານ</item>
+        <item>ຕະຫຼອດໄປ</item>
+        <item>ຈຸດດີ</item>
+        <item>ດີເດັ່ນ, ດີ, ສຸດຍອດ</item>
+        <item>ຕະຫຼົກ</item>
+        <item>ໃຫ້, ໂດຍ, ເນື່ອງຈາກ</item>
+        <item>ຍ້ອນວ່າ, ເພາະສະນັ້ນ</item>
+        <item>ໂດຍສະເພາະ</item>
+        <item>ມ່ວນ</item>
+        <item>ເປັນມິດ, ໄມຕີຈິດ</item>
+        <item>ມິດຕະພາບ</item>
+        <item>ມີຄວາມສຸກ, ມ່ວນຊື່ນ</item>
+        <item>ສະນັ້ນ, ດັ່ງນັ້ນ</item>
+        <item>ແລະ, ກັບ</item>
+        <item>ໄວຍະກອນ</item>
+        <item>ພາສາ</item>
+        <item>ກິລາດອກປິກໄກ່</item>
+        <item>ຮຽນລ່ວງໜ້າ, ຮຽນກ່ອນສອນ</item>
+        <item>ມົນ, ວົງມົນ</item>
+        <item>ທີ່ຈິງແລ້ວ, ແຕ່ກ່ອນ, ແຕ່ເດິ່ມ</item>
+        <item>ໃຫ້ອະໄພ, ຍົກໂທດ</item>
+        <item>ສາເຫດ, ເຫດຜົນ</item>
+        <item>ນັດພົບ, ນັດແດດ</item>
+        <item>ການອ່ານ</item>
+        <item>ອະນຸຍາດ</item>
+        <item>ວາລະສານ</item>
+        <item>ພວກເຮົາ</item>
+        <item>ຊົ່ວຄາວ</item>
+        <item>ເປື້ອນ</item>
+        <item>ໜ້າທີ່ຮັບຜິດຊອຍ</item>
+        <item>ເພິ່ມຂື້ນ</item>
+        <item>ເພິ່ມຂຶ້ນ, ເຕີບໂຕຂຶ້ນ, ການຂະຫບາຍ</item>
+        <item>ແຄບ</item>
+        <item>ຮັບສະໝັກ</item>
+        <item>ແທ້ໆ</item>
+        <item>ຈັດເປັນລະບຽບ</item>
+        <item>ເປັນລະບຽບ</item>
+        <item>ເລື່ອຍ, ປົກກະຕິ</item>
+        <item>ພໍດີ</item>
+        <item>ຖືກຕ້ອງ</item>
+        <item>ເປັນທາງການ</item>
+        <item>ຢັ້ງຢືນ, ຫຼັກຖານ, ພິສູດ</item>
+        <item>ຂອງສ່ວນ</item>
+        <item>ພຽງແຕ່, ລັກສະນະນາມໃຫ້ສັດ(ໂຕ)</item>
+        <item>ຊຸກຍູ້, ສະໜັບສະໜຸນ</item>
+        <item>ຄວາມຮູ້</item>
+        <item>ຄຸ້ມຄ່າ</item>
+        <item>ໂດຍກົງ, ຕົງໆ</item>
+        <item>ພືດ</item>
+        <item>ອາຊີບ</item>
+        <item>ຊິ້, ນິ້ວ</item>
+        <item>ກໍ່ເລີຍຕ້ອງ</item>
+        <item>ຂໍພຽງແຕ່</item>
+        <item>ຄຸນນະພາບ</item>
+        <item>ຢ່າງໜ້ອຍ</item>
+        <item>ຜະລິດ</item>
+        <item>ພາສາຈີນ</item>
+        <item>ຈຸດສຳຄັນ</item>
+        <item>ໃຫ້ຄວາມສຳຄັນ</item>
+        <item>ອ້ອມຂ້າງ</item>
+        <item>ໝູ</item>
+        <item>ຄ່ອຍໆ</item>
+        <item>ຄິດລີເລີ່ມ, ເຕັມໃຈ, ອາສາ</item>
+        <item>ຄວາມຄິດເຫັນ</item>
+        <item>ອອຍພອນ, ຊົມເຊີຍ</item>
+        <item>ມີຊື່ສຽງ</item>
+        <item>ໂດຍສະເພາະ</item>
+        <item>ວິຊາສະເພາະ</item>
+        <item>ເກັບເງີນ, ກຳໄລ, ລາຍໄດ້</item>
+        <item>ຕຳ</item>
+        <item>ຖືກຕ້ອງ</item>
+        <item>ຕົງເວລາ</item>
+        <item>ລະມັດລະວັງ, ລະອຽດ</item>
+        <item>ທຳມະຊາດ</item>
+        <item>ສະຫຼຸບ</item>
+        <item>ເຂົາ</item>
+        <item>ສ່ວນປະກອບ, ປະກອບດ້ວຍ</item>
+        <item>ຈັດຕັ້ງ, ອົງການຈັດຕັ້ງ</item>
+        <item>ປາກ</item>
+        <item>ດີທີ່ສຸດ</item>
+        <item>ໃນທີ່ສຸດ, ສຸດທ້າຍ</item>
+        <item>ເຄົາລົບນັບຖື</item>
+        <item>ເຮັດທຸລະກິດ</item>
+        <item>ລັກສະນາໃຫ້(ພູ, ຕືກອາຄານ, ຂົວ)</item>
+        <item>ບ່ອນນັ່ງ</item>
+        <item>ນັກຂຽນ</item>
+    </string-array>
+
+    <string-array name="hsk4_juzi">
+        <item>爱情是需要保护的。</item>
+        <item>这个城市很安全，每个人都得到保户。</item>
+        <item>明年我想报名读博士班。</item>
+        <item>只要按时把作业做完，我保证你可以毕业。</item>
+        <item>你的报名表格写错了，需要重新再写一遍。</item>
+        <item>爸爸把正在吃着饼干的孩子抱起来。</item>
+        <item>他不但不笨，并且聪明得让你吃惊。</item>
+        <item>因为他的城实，老师表扬了他。</item>
+        <item>抱歉，我猜不出你是谁。</item>
+        <item>天暗了，我们快快乘坐出租车回去吧。</item>
+        <item>今天来参观长城的游客比昨天多了一倍。</item>
+        <item>根据新闻报道，长江是中国最长的河。</item>
+        <item>我本来想去参观长城，不过因为工作很忙，就没去了。</item>
+        <item>他的汉语不仅发音标准，并且用词表达得很好。</item>
+        <item>我买了一个笔记本，花了差不多两千块钱。</item>
+        <item>这个月用钱超过了，我不得不小心用钱。</item>
+        <item>汉语水平考试有三个部分：听力、阅读和书写。</item>
+        <item>报名读博士班，需要什么材料？</item>
+        <item>老挝的人口超过了七百万。</item>
+        <item>今天有两场足球比赛在这个城市举行。</item>
+        <item>请你尝尝我做的蛋糕。</item>
+        <item>你必须要努力才能成为一个成功的人。</item>
+        <item>树上的水果都成熟了，可以吃了。</item>
+        <item>听到他明天就要结婚了，我非常吃惊。</item>
+        <item>我是乘坐飞机来到这个城市的。</item>
+        <item>抽烟对身体不好，也很花钱。</item>
+        <item>做导游的要常常出差。</item>
+        <item>你要调查我在哪儿出生吗？</item>
+        <item>我把我出生的材料传真到大使馆。</item>
+        <item>他从来没有把窗户打开过。</item>
+        <item>我在大使馆对面的书店买了一本词典。</item>
+        <item>我不知道这个题的答案是什么。</item>
+        <item>那个女导游打扮得很漂亮。</item>
+        <item>大夫打针时不可以被打扰到。</item>
+        <item>请问您要打印几份材料？</item>
+        <item>这个事情大概是几点发生的？</item>
+        <item>中国的代表大约什么时候会到？</item>
+        <item>把手表戴好，不要掉了。</item>
+        <item>我代替王大夫和您对话。</item>
+        <item>当我还是儿童的时候，我最怕打针了。</item>
+        <item>导游带我们去吃当地的食物。</item>
+        <item>我为当时的事情向您道歉。</item>
+        <item>请问，这把刀有打折吗？</item>
+        <item>在城市里到处都堵车。</item>
+        <item>警察到底想调查什么？</item>
+        <item>工作完成了，他们都很得意。</item>
+        <item>肚子饿了，我得去吃饭了。</item>
+        <item>很多商场在年底都有打折。</item>
+        <item>你有调查过地球上有多少人吗？</item>
+        <item>你有老挝大使馆的地址吗？</item>
+        <item>手表的带子断了，我把它丢了。</item>
+        <item>这个跳舞的动作不太难。</item>
+        <item>我每天吃三顿饭。</item>
+        <item>99朵花，表示爱你久久。</item>
+        <item>我已经向他道歉了，而你还要我向他再道歉一次？</item>
+        <item>这个国家越来越发展。</item>
+        <item>每个国家都有自己的法律。</item>
+        <item>没有拿到工资，每个工人都很烦恼。</item>
+        <item>顾客购物时如果有什么问题，可以反映给我们。</item>
+        <item>这个问题很复杂，你要多想想。</item>
+        <item>你有什么方法解决工人工资的问题吗？</item>
+        <item>他在运动方面很行，法律方面就不行了。</item>
+        <item>律师的工作是负责法律方面的事情。</item>
+        <item>为了照顾生病的父亲，我放弃去外国学习的机会。</item>
+        <item>学校放暑假了，在学校的范围内都没有学生了。</item>
+        <item>他刚刚改变去看风景的决定。</item>
+        <item>请帮我复印三份文件。</item>
+        <item>我父亲的知识非常丰富。</item>
+        <item>估计现在出发还来的及，否则就迟到了。</item>
+        <item>国家发展了，人们才会富起来。</item>
+        <item>天气太干燥，我鼓励大家要多喝水。</item>
+        <item>我很感谢您愿意接受我们的访问。</item>
+        <item>你想干这个工作，你符合要求吗？</item>
+        <item>她的爱情故事让我很感动。</item>
+        <item>这个房子是我和妻子共同买的。</item>
+        <item>让我们共同努力发展我们的国家。</item>
+        <item>为我们的感情干杯。</item>
+        <item>没有朋友会让我们觉得很孤单。</item>
+        <item>请大家把工具挂好。</item>
+        <item>我感觉工具不太够，可以多买一些吗？</item>
+        <item>他的个子大，干活也很快。</item>
+        <item>看见那么多的观众来看表演，他的心里非常激动。</item>
+        <item>我大学是读航班管理的，而现在是做广告。</item>
+        <item>我买了很多家具，把钱都花光了。</item>
+        <item>他是一个很有名的广播员。</item>
+        <item>我们先去商场逛逛，然后再去购物。</item>
+        <item>他们果然是互相认识的。</item>
+        <item>寒假的时候，我计划去参观海洋公园。</item>
+        <item>运动后出汗，对我们的身体很有好处。</item>
+        <item>他是一个害羞的人，很合适做护士这种工作。</item>
+        <item>即使号码不对，我也知道这个盒子就是我的。</item>
+        <item>我终于成为一名合格的护士了。</item>
+        <item>我寄了一本很厚的书给我的朋友。</item>
+        <item>看到他的开车技术，我很怀疑他是怎么考到驾照的。</item>
+        <item>他不想做广告，后来就去做记者了。</item>
+        <item>即使只是一句道歉的话，对我来说也是极其难说的。</item>
+        <item>做了三十年的护士，他积累了很多的工作经验。</item>
+        <item>我去加油站加油。</item>
+        <item>尽管穿着警察的衣服，但我知道她其实是一个假警察。</item>
+        <item>现在经济不好，但是菜的价格还是很高。</item>
+        <item>减肥不容易，你一定要坚持。</item>
+        <item>为了减少竞争，他故意降低价格。</item>
+        <item>将来我要成为一个交通警察，或者成为教授也可以。</item>
+        <item>这个月没有得到奖金，真是可惜。</item>
+        <item>你拒绝和别人交流，怎么会交到朋友呢？</item>
+        <item>很多人去看京剧，结果交通出现大问题。</item>
+        <item>你成为了一个科学教授后，千万别骄傲。</item>
+        <item>我没想到饺子竟然这么好吃。</item>
+        <item>结婚是一件大事，不可以拿来开玩笑的。</item>
+        <item>他的精神看起来很紧张。</item>
+        <item>他的经历和经验，都很符合当警察的要求。</item>
+        <item>京剧表演的练习，进行得怎么样了？</item>
+        <item>这次的京剧表演非常精彩。</item>
+        <item>加油站前面有一个很大的镜子。</item>
+        <item>你究竟是警察还是交通警察？</item>
+        <item>我还没考虑好要不要和你结婚。</item>
+        <item>你可以拒绝我的爱，但不可以禁止我爱你。</item>
+        <item>看他咳嗽的样子，真的很可怜。</item>
+        <item>你肯定这棵树的价格是一千美元？</item>
+        <item>明天就是他的结婚日子，可是他今天还坚持来上班。</item>
+        <item>这里的空气真好，我考虑考虑要不要搬来这里住。</item>
+        <item>他是一个经验丰富的警察。</item>
+        <item>我恐怕他们俩不能去外国留学了。</item>
+        <item>我可以吃辣，但不能吃苦。</item>
+        <item>老虎的力气是很大的，但它也是很懒的。</item>
+        <item>这个垃圾桶有多宽？</item>
+        <item>今天我又困又懒，连聊天都没有力气。</item>
+        <item>我母亲是一个又冷静又有耐心的人。</item>
+        <item>难道你不知道，垃圾桶满了就不可以再放垃圾了？</item>
+        <item>为了扩大和同学们的联系，我把我脸书的密码给了他们。</item>
+        <item>他做工又懒又马虎，还常常来不及做完。</item>
+        <item>我的梦中情人是一个又有礼貌又有理想的人。</item>
+        <item>天气已经很凉快了，不用浪费电再开空调了。</item>
+        <item>母亲很厉害，她非常理解我们的困难和需要。</item>
+        <item>我喜欢听流行歌，也喜欢买流行的衣服。</item>
+        <item>老挝一共有多少个民族？</item>
+        <item>你去外国留学的目的是什么？</item>
+        <item>昨晚我们一直聊天到天亮。</item>
+        <item>平时考试不过，我一点儿也不会觉得难受。</item>
+        <item>这篇短文的内容写得很好。</item>
+        <item>农村穷，城市富，这就是他们的区别。</item>
+        <item>我错了，愿意接受您的批评。</item>
+        <item>平时我喜欢打乒乓球，偶尔也会打篮球。</item>
+        <item>亲戚从农村来，我请假陪她。</item>
+        <item>墙内和墙外是两个世界。</item>
+        <item>我判断不出瓶子内放了什么东西。</item>
+        <item>这个沙发卖2800人民币。</item>
+        <item>我想申请去首都工作。</item>
+        <item>我们不但要适应社会，更要改变社会。</item>
+        <item>失败了会伤心失望，这都是很正常的。</item>
+        <item>生命只有一次，我们不可以让她失败。</item>
+        <item>我实在受不了你这个人怎么会那么省？</item>
+        <item>我把剩下的食品都收好了。</item>
+        <item>我的师博长得很帅。</item>
+        <item>实际上我不知道海洋到底有多深。</item>
+        <item>要在首都工作，首先必须适应这里的生活。</item>
+        <item>老挝一共有几个省？</item>
+        <item>你还没试过，怎么知道一定会失败呢？</item>
+        <item>在二十一世纪，有谁不会使用手机？</item>
+        <item>看着她湿润的眼睛，我不敢告诉她我输了。</item>
+        <item>森林中最大的动物不是狮子，而是大象。</item>
+        <item>我顺利地和老板谈好所有的工作条件了。</item>
+        <item>他的态度说明了他很讨厌你。</item>
+        <item>请你算算这里一共有多少双袜子？</item>
+        <item>因为他的态度令人讨厌，所以面试没有被通过。</item>
+        <item>通过父母的帮助，我终于买了一台新的钢琴。</item>
+        <item>请帮忙我把钢琴抬高一点儿。</item>
+        <item>你弹钢琴的速度挺快的。</item>
+        <item>老张的孙子死了，大家都很同情他。</item>
+        <item>请把你的条件顺序写下来。</item>
+        <item>打完网球后，球员都要互相握手后才可以离开。</item>
+        <item>所有的硕士生都顺利的毕业了。</item>
+        <item>我无钱无信用卡，也无子无孙。</item>
+        <item>无聊的人是无论如何也吸引不到别人的。</item>
+        <item>有了误会，就不容易互相信任了。</item>
+        <item>现代的人不喜欢受到别人的限制。</item>
+        <item>请你详细的告诉我，他的性格是怎么样的？</item>
+        <item>他的洗衣机很响，我觉得需要拿去修了。</item>
+        <item>他有许多关于发生在亚洲的事情的消息。</item>
+        <item>他喜欢说笑话，让听的人心情变得好起来。</item>
+        <item>性格不同的人在一起常常会引起很多误会。</item>
+        <item>这本杂志的名字叫“叶子”。</item>
+        <item>他是一个非常优秀的艺术家。</item>
+        <item>你们可以把一切的意见都说出来。</item>
+        <item>打羽毛球很有趣也很有意思。</item>
+        <item>通过羽毛球比赛，可以让两个国家的友谊得以增加。</item>
+        <item>请你把有关招聘的材料整理好。</item>
+        <item>他学习成绩很好的原因，就是因为他常常预习。</item>
+        <item>语法给人的印象是很难学的，但我却学得很有趣。</item>
+        <item>老挝和中国是两个友好的国家。</item>
+        <item>我做错了，请你原谅我。</item>
+        <item>我不允许学生在班上随便进出。</item>
+        <item>办杂志，就要办得有趣又吸引人。</item>
+        <item>我是校长，学校发生了什么事情都是我的责任。</item>
+        <item>这棵树的叶子又圆又大，很特别。</item>
+        <item>优秀的人都喜欢阅读，因为这样可以增加知识。</item>
+        <item>幽默与有趣是连在一起的，勇敢与责任也是不可以分开的。</item>
+        <item>父母支持我出来做生意，我也想证明给他们看我是行的。</item>
+        <item>什么职业不重要，最重要的是可以赚到钱，说对吗？</item>
+        <item>这本中文书的作者是谁，它的内容又好又仔细。</item>
+        <item>你给我最好的支持，就是尊重我的决定。</item>
+        <item>这祝贺语写的非常好，真的证明他的文学水平非常深。</item>
+        <item>中文是一门很有趣的语言。</item>
+        <item>我们要保护大自然，不要让大自然受到污染。</item>
+    </string-array>
+    <string-array name="hsk4_jufan">
+        <item>ຄວາມຮັກຕ້ອງການປົກປັກຮັກສາ.</item>
+        <item>ຕົວເມືອງນີ້ປອດໄພຫຼາຍ,ທຸກຄົນລ້ວນແຕ່ໄດ້ຮັບການປົກປ້ອງ.</item>
+        <item>ປີໜ້າຂ້ອຍຢາກລົງທະບຽນຮຽນປະລິນຍາຕີ.</item>
+        <item>ພຽງແຕ່ຕ້ອງເຮັດວຽກບ້ານໃຫ້ທັນເວລາ,ຂ້ອຍຮັບປະກັນເລີຍວ່າເຈົ້າສາມາດຣຽນຈົບ.</item>
+        <item>ຟອມລົງທະບຽນຂອງເຈົ້າຂຽນຜິດແລ້, ຕ້ອງການໃຫ້ຂຽນໃໝ່ອີກເທື່ອໜື່ງ.</item>
+        <item>ພໍ່ເອົາເດັກນ້ອຍທີ່ກຳລັງກິນຂະໜົມອຸ້ມຂື້ນມາ.</item>
+        <item>ລາວບໍ່ພຽງແຕ່ບໍ່ໂງ່, ແລະເຈົ້າຕ້ອງຕົກໃຈກັບຄວາມສະຫຼາດຂອງລາວ.</item>
+        <item>ເພາະວ່າຄວາມຊື່ສັດຂອງລາວ, ອາຈານຈື່ງຍ້ອງຍໍລາວ.</item>
+        <item>ຂໍອາໄພ, ຂ້ອຍຄິດບໍ່ອອກວ່າເຈົ້າແມ່ນໃຜ.</item>
+        <item>ຟ້າມືດແລ້ວ, ພວກເຮົາຟ້າວນັ່ງແທັກຊີກັບບ້ານເນາະ.</item>
+        <item>ນັກທ່ອງທ່ຽວທີ່ມາທ່ຽວກຳແພງເມືອງຈີນມື້ນີ້ຫຼາຍກວ່າມື້ວານ1ເທົ່າ.</item>
+        <item>ອິງຕາມການລາຍງານຂອງຂ່າວສານ, ແມ່ນ້ຳຍາງຊີກຽງແມ່ນແມ່ນ້ຳທີ່ໃຫຍ່ທີ່ສຸດຂອງປະເທດຈີນ.</item>
+        <item>ທີ່ຈິງແລ້ວຂ້ອຍຢາກໄປເບິ່ງກຳແພງເມືອງຈີນ, ແຕ່ຍ້ອນວ່າຄາວຽກຫຼາຍ, ຈື່ງບໍ່ໄດ້ໄປແລ້ວ.</item>
+        <item>ພາສາຈີນຂອງລາວບໍ່ພຽງແຕ່ອອກສຽງໄດ້ມາດຕະຖານ, ແລະຍັງໃຊ້ຄຳສັບໄດ້ດີຫຼາຍ.</item>
+        <item>ຂ້ອຍຊື່ຄອມພິວເຕີ(ໂນ໊ດບຸກ)1ໜ່ວຍ, ໃຊ້ເງີນໄປແລ້ວປະມານ2ພັນຢວນ.</item>
+        <item>ເດືອນນີ້ໃຊ້ເງີນເກີນກຳນົດແລ້ວ, ຂ້ອຍຈຳເປັນຕ້ອງລະລັງການໃຊ້ຈ່າຍ.</item>
+        <item>ການສອບເສັງລະດັບພາສາຈີນມີ3ພາກສ່ວນ: ພາກຟັງ, ພາກຂຽນ ແລະ ພາກອ່ານ.</item>
+        <item>ລົງທະບຽນຮຽນປະລິນຍາເອກ, ຕ້ອງໃຊ້ເອກະສານຫຍັງ？</item>
+        <item>ປະຊາກອນຂອງລາວຫຼາຍກວ່າ7ພັນລ້ານແລ້ວ.</item>
+        <item>ມື້ນີ້ມີການແຂ່ງຂັນເຕະບານຢູ່ໃນຕົວເມືອງນີ້ຂອງຮອບ.</item>
+        <item>ລອງຊິມເຄັກທີ່ຂ້ອຍເຮັດແນ່.</item>
+        <item>ເຈົ້າຕ້ອງດຸໝັ່ນຈື່ງສາມາດກາຍເປັນຄົນທີ່ປະສົບຜົນສຳເລັດ.</item>
+        <item>ໝາກໄມ້ຢູ່ເທິງຕົ້ນໄມ້ສຸກແລ້ວ, ສາມາດກິນໄດ້ແລ້ວ.</item>
+        <item>ໄດ້ຍິນວ່າມື້ອື່ນລາວຕ້ອງແຕ່ງງານແລ້ວ, ຂ້ອຍຕົກໃຈຫຼາຍ.</item>
+        <item>ຂ້ອຍແມ່ນນັ່ງຍົນມາໃນຕົວເມືອງນີ້.</item>
+        <item>ສູບຢາບໍ່ດີຕໍສຸຂະພາບ, ຍັງຟຸງເຟືອຍອີກ.</item>
+        <item>ເປັນຜູ້ນຳທ່ຽວຕ້ອງອອກໄປເຮັດວຽກນອກຕະຫຼອດ.</item>
+        <item>ເຈົ້າຢາກກວດວ່າຂ້ອຍເກີດຢູ່ໃສ່ບໍ່？</item>
+        <item>ຂ້ອຍເອົາເອກະສານໃບແຈ້ງເກີດສົ່ງໃຫ້ສະຖານທູດ.</item>
+        <item>ລາວບໍ່ເຄີຍເປີດປ້ອງຍຽມເລີຍ.</item>
+        <item>ຂ້ອຍຊື້ປື້ມວັດຈະນະນຸກົມ1ຫົວຢຸ່ຮ້ານທາງໜ້າຂອງສະຖານທູດ.</item>
+        <item>ຂ້ອຍບໍ່ຮູ້ຄຳຕອບຂອງຂໍ້ນີ້ແມ່ນຫຍັງ.</item>
+        <item>ໃກ້ນ້ຳທ່ຽວຜູ້ຍິງຜູ້ນັ້ນແຕ່ງຕົວນຳງາມຫຼາຍ.</item>
+        <item>ເວລາທີ່ທ່ານໝໍກຳລັງສັກຢາບໍ່ສາມາດລົບກວນໄດ້.</item>
+        <item>ຂໍຖາມແຕ່ວ່າເຈົ້າຕ້ອງການພິມເອກະສານຈັກໃບ？</item>
+        <item>ເລື່ອງນີ້ແມ່ນເກີດຂື້ນຕອນປະມານຈັກໂມງ?</item>
+        <item>ຜູ້ແທນຂອງປະເທດຈີນຈະມາຮອດປະມານຈັກໂມງ？</item>
+        <item>ໃສ່ໂມງດີໆ, ຢ່າເຮັດເສຍອີກແລ້ວ.</item>
+        <item>ຂ້ອນມາລົມນຳເຈົ້າແທນທ່ານໝໍຫວັງ.</item>
+        <item>ຕອນທີ່ຂ້ອຍຍັງເປັນເດັກນ້ອຍ, ຂ້ອຍຢ້ານສັກຢາທີ່ສຸດ.</item>
+        <item>ຜູ້ນຳທ່ຽວພາພວກເຮົາໄປກິນອາຫານທ່ອງຖິ່ນ.</item>
+        <item>ຂ້ອຍຂໍໂທດເຈົ້າເລື່ອງທີ່ເກີດຂື້ນໃນເວລານັ້ນ.</item>
+        <item>ຂໍຖາມແດ່, ມິດແຫຼມນີ້ຫຼຸດລາຄາບໍ？</item>
+        <item>ໃນຕົວເມືອງທຸກທີ່ທຸກບ່ອນລ້ວນແຕ່ລົດຕິດ.</item>
+        <item>ສຸດທ້າຍແລ້ວຕຳຫຼວດຕ້ອງການກວດສອບຫຍັງ?</item>
+        <item>ວຽກສຳເລັດແລ້ວ, ພວກເຮົາພູມໃຈຫຼາຍ.</item>
+        <item>ຢາກເຂົ້າແລ້ວ, ຂ້ອຍຕ້ອງໄປກິນເຂົ້າ.</item>
+        <item>ໃນທ້າຍປິຮ້ານຄ້າຫຼາຍຮ້ານມີສ່ວນຫຼຸດ.</item>
+        <item>ເຈົ້າເຄີຍສຳຫຼວດບໍ່ວ່າໃນໂລກນີ້ມີຄົນຈັກຄົນ？</item>
+        <item>ເຈົ້າມີທີ່ຢູ່ຂອງສະຖານທູດບໍ？</item>
+        <item>ສາຍໂມງຂາດແລ້ວ, ຂ້ອຍເອົາໄປຖິ້ມແລ້ວ.</item>
+        <item>ທ່າຟ້ອນຂອງບົດຟ້ອນນີ້ບໍ່ຍາກຫຼາຍ.</item>
+        <item>ຂ້ອຍກິນເຂົ້າ3ຄາບທຸກມື້.</item>
+        <item>ດອກໄມ້99ດອກ, ສະແດງວ່າຂອງຮັກເຈົ້າດົນໆ.</item>
+        <item>ຂ້ອຍຂໍໂທດລາວແລ້ວ, ເຈົ້າຍັງຢາກໃຫ້ຂ້ອຍຂໍໂທດລາວອີກເທື່ອໜື່ງບໍ?</item>
+        <item>ປະເພດນີ້ນັບມື້ນັບພັດທະນາຂື້ນ.</item>
+        <item>ແຕ່ລະປະເທດລ້ວນແຕ່ມີກົດໝາຍເປັນຂອງຕົວເອງ.</item>
+        <item>ຍັງບໍ່ໄດ້ຮັບເງີນເດືອນ, ພວກເຮົາທຸກຄົນລ້ວນແຕ່ລຳບາກຫຼາຍ.</item>
+        <item>ເວລາທີ່ລູກຄ້າກຳລັງຊື້ເຄື່ອງຖ້າຫາກມີບັນຫາ, ສາມາດລາຍງານພວກເຮົາໄດ້.</item>
+        <item>ບ້ນຫານິ້ຊັບຊ້ອນຫຼາຍ, ຂ້ອຍຕ້ອງຄິດຫຼາຍໆ.</item>
+        <item>ເຈົ້າມີວິທີແກ້ໄຂບັນຫາຂອງເງີນເດືອນກຳມະກອນບແນວໃດ?</item>
+        <item>ລາວເກັ່ງໃນດ້ານກິລາ, ບໍ່ເກັ່ງໃນດ້ານກົດໝາຍ.</item>
+        <item>ວຽກຂອງທະນາຍຄວາມແມ່ນຮັບຜິດຊອບກ່ຽວກັບດ້ານກົດໝາຍ.</item>
+        <item>ເພາະວ່າຕ້ອງດູແລພໍ່ແມ່ທີ່ເຈັບປ່ວຍ, ຂ້ອຍຍອມປ່ອຍໂອກາດໄປຮຽນຢູ່ຕ່າງປະເທດ.</item>
+        <item>ໂຮງຮຽນພັກແລງແລ້ວ, ຢູ່ໃນເກດຂອງໂຮງຮຽນບໍ່ມີນັກຮຽນແລ້ວ.</item>
+        <item>ລາວຫາກໍຕັດສິນໃຈປ່ຽນໄປເບິ່ງທິວທັດແລ້ວ.</item>
+        <item>ຂໍຊ່ວຍຂ້ອຍກ໊ອບປີເອກະສານ3ຊຸດ.</item>
+        <item>ພໍ່ແມ່ຂອງຂ້ອຍມີຄວາມຮູ້ຫຼາຍ.</item>
+        <item>ຄາດວ່າອອກເດີນທາງຕອນນີ້ຍັງທັນ, ຖ້າບໍ່ດັ່ງນ້ັນຈະສວຍເອົາ.</item>
+        <item>ປະເທດພັດທະນາແລ້ວ, ຄົນເຮົາຈື່ງສາມາດຮັ່ງມີຂື້ນ.</item>
+        <item>ອາກາດແຫ້ງແລ້ງໂພດ, ຂ້ອຍສະໜັບສະໜູນໃຫ້ທຸກຄົນດື່ມນ້ຳຫຼາຍໆ.</item>
+        <item>ຂ້ອຍຂໍຂໍໃຈທານຫຼາຍທີ່ໃຫ້ພວກເຮົາສຳພາດ.</item>
+        <item>ເຈົ້າຢາກເຮັດວຽກນີ້, ເຈົ້າເຂົ້າກັບເງືອນໄຂແລ້ວບໍ？</item>
+        <item>ນິທານຄວາມຮັກຂອງລາວເຮັດໃຫ້ທຸກຄົນຊາບຊື້ງຫຼາຍ.</item>
+        <item>ເຮືອນຫຼັງແມ່ນຂ້ອຍກັບເມຍຮ່ວມເງີນກັນຊື້.</item>
+        <item>ໃຫ້ພວກເຮົາຮ່ວມກັນດຸໜັ່ນພັດທະນາປະເທດຊາດຂອງພວກເຮົານຳກັນ.</item>
+        <item>ຍົກຈອກໃຫ້ກັບຄວາມຮັກແພງຂອງພວກເຮົາ.</item>
+        <item>ບໍ່ມີໝູ່ເພື່ອນເຮັດໃຫ້ພວກເຮົາເຫງົາຫຼາຍ.</item>
+        <item>ເອົາອຸປະກອນຂອງທຸກຄົນຫ້ອຍໃຫ້ດີໆ.</item>
+        <item>ຄວາມຮູ້ສືກວ່າອຸປະກອນບໍ່ຄ່ອຍພໍ, ສາມາດຊື້ອີກໄດ້ບໍ？</item>
+        <item>ຮູບຮ່າງລາວໃຫ້ຍ, ເຮັດວຽກໄດ້ໄວຫຼາຍ.</item>
+        <item>ມີຜູ້ຊົມມາເບິ່ງການສະແດງຫຼາຍ, ເຮັດໃຫ້ລາວຮູ້ສືກມີຄວາມສຸກຫຼາຍ.</item>
+        <item>ຂ້ອຍຮຽນຢູ່ມະຫາວິທະຍາໄລແມ່ນກ່ຽວກັບບໍລິຫານສາຍການບິນ, ແຕ່ຕອນນີ້ເຮັດວຽກໂຄສະນາ.</item>
+        <item>ຂ້ອຍຊື້ເຟີນີເຈີຫຼາຍແຮງ, ໃຊ້ເງີນຈົນໝົດແລ້ວ.</item>
+        <item>ລາວແມ່ນນັກກະຈາຍສຽງວິທະຍຸທີ່ມີຊື່ສຽງຜູ້ໜື່ງ.</item>
+        <item>ພວກເຮົາໄປຍ່າງເລາະຮ້ານຄ້າກ່ອນ, ຈື່ງໄປຊື້ເຄື່ອງ.</item>
+        <item>ຄວາມຈິງແລ້ວພວກເຂົາຮູ້ຈັກເຊິ່ງກັນແລະກັນ.</item>
+        <item>ເວລາພັກແລ້ງ, ຂ້ອຍວາງແຜນວ່າຈະໄປເບິ່ງສວນສະໜຸກທະແລ.</item>
+        <item>ຫຼັງອອກກຳລັງກາຍອອກເຫື່ອ, ແມ່ນມີຜົນດີຕໍ່ສຸຂະພາບຂອງພວກເຮົາຫຼາຍ.</item>
+        <item>ລາວແມ່ນຄົນຂີ້ອາຍ, ເໝາະສົມເຮັດວຽກກ່ຽວກັບເປັນພາຍາບານ.</item>
+        <item>ເຖິ່ງແມ່ນວ່າຕົວເລກບໍ່ຖືກ, ແຕ່ຂ້ອຍກໍຮູ້ວ່າເກັດເຄື່ອງນີ້ແມ່ນຂອງຂ້ອຍ.</item>
+        <item>ສຸດທ້າຍແລ້ວຂ້ອຍກໍກາຍເປັນພາຍາບານທີ່ບັນລຸມາດຕະຖານແລ້ວ.</item>
+        <item>ຂ້ອຍໃຫ້ໝູ່ຢືມປື້ມທີ່ໜາໆຫົວໜື່ງໃຫ້ໝູ່ຂ້ອຍ.</item>
+        <item>ຂ້ອຍເຫັນການທັກສະການຂັບລົດຂອງລາວແລ້ວ, ຂ້ອຍສົງສາຍວ່າລາວເສັງໃບຂັບຂິ່ໄດ້ແນວໃດ.</item>
+        <item>ລາວບໍ່ຢາກເຮັດວຽກໂຄສະນາ, ຕໍ່ມາກໍ່ເປັນນັກຂ່າວແລ້ວ.</item>
+        <item>ເຖິ່ງແມ່ນວ່າຈະເປັນພຽງຄຳຂໍໂທດຄຳໜື່ງ, ສຳລັບຂ້ອຍແລ້ວເປັນສິ່ງທີ່ເວົ້າຍາກຫຼາຍ.</item>
+        <item>ເປັນພາຍາບານໄດ້30ປີແລ້ວ, ລາວສະສົມປະສົບການໄດ້ຫຼາຍແລ້ວ.</item>
+        <item>ຂ້ອຍຕື່ມນ້ຳມັນຢູ່ປ້ຳນ້ຳມັນ.</item>
+        <item>ເຖິ່ງແມ່ນວ່າລາວກຳລັງໃສ່ຊຸດຕຳຫຼວດ, ແຕ່ຂ້ອຍຮູ້ວ່າລາວບໍ່ແມ່ນຕຳຫຼວດແທ້.</item>
+        <item>ເສດຖະກິດດຽວນີ້ບໍ່ດີ, ແຕ່ວ່າລາຄາຂອງພັກຍັງສູງຫຼາຍ.</item>
+        <item>ລຸດນ້ຳໜັກບໍ່ໄດ້ງ່າຍ, ເຈົ້າຕ້ອງຍືດໝັ່ນ.</item>
+        <item>ເພື່ອຫຼຸດຜ່ອນການແຂ່ງຂັນ, ລາວຕັ້ງໃຈຫຼຸດລາຄາເຄື່ອງ.</item>
+        <item>ຂ້ອຍຢາກເປັນຕຳຫຼວດຈາລະຈອນໃນອານາຄົດ, ຫຼືວ່າ ເປັນສາດສະດາຈານໄດ້ບໍ.</item>
+        <item>ເດືອນນິ້ບໍ່ໄດ້ຮັບເງີນລັງວັນ, ນ່າເສຍດາຍແຮງ.</item>
+        <item>ເຈົ້າປະຕິເສດລົມກັບຄົນອື່ນ, ແລ້ວເຈົ້າຊີມີໝູ່ເພື່ອນໄດ້ແນວໃດ?</item>
+        <item>ມີຄົນໄປເບິ່ງລະຄອນງິ້ວຫຼາຍ, ຜົນແມ່ນຖະໜົນໄດ້ຮັບບັນຫາໃຫຍ່.</item>
+        <item>ເຈົ້າໄດ້ເປັນສາດສະດາຈານດ້ານວິທະຍາສາດແລ້ວ, ຢ່າອວດຕົວເດີ.</item>
+        <item>ຂ້ອຍບໍ່ຄິດເລີຍວ່າຂະໜົມກ້ຽວຈະແຊບຂະໜາດນິ້.</item>
+        <item>ການແຕ່ງງານແມ່ນເລື່ອງໃຫຍ່, ບໍ່ສາມາດເອົາມາເລາະຫຼິ້ນໄດ້.</item>
+        <item>ອາລົມລາວຊົງຕື່ນເຕັ້ນຫຼາຍ.</item>
+        <item>ປະສົບການຂອງລາວ, ລ້ວນແຕ່ເໜາະສົມກັບເງື່ອນໄຂການເປັນຕຳຫຼວດ.</item>
+        <item>ການຝືກຊ້ອມຟ້ອນລະຄອນງິ້ວ, ດຳເນີນການຮອດໃສແລ້ວ？</item>
+        <item>ການສະແດງລະຄອນງິ້ວເທື່ອນີ້ໂດດເດັ່ນຫຼາຍ.</item>
+        <item>ຢູ່ຕໍ່ໜ້າຂອງປ້ຳນ້ຳມັນມີແວ່ນແຍງອັນໜື່ງ.</item>
+        <item>ທ້າຍທີ່ສຸດແລ້ວເຈົ້າແມ່ນຕຳຫຼວດທຳມະດາຫຼືວ່າຕຳຫຼວດຈາລະຈອນ？</item>
+        <item>ຂ້ອຍຍັງຕ້ອງພິຈາລະນາວ່າຕ້ອງແຕ່ງງານກັບເຈົ້າຫຼືບໍ.</item>
+        <item>ເຈົ້າສາມາດປະຕິເສດຄວາມຮັກຂອງຂ້ອຍ, ແຕ່ເຈົ້າບໍ່ສາມາດຫຼ້າມຂ້ອຍຮັກເຈົ້າໄດ້.</item>
+        <item>ເບິ່ງສະພາບທີ່ເຈົ້າໄອແລ້ວ, ໜ້າສົງສານແຮງ.</item>
+        <item>ເຈົ້າແນ່ໃຈແລ້ວບໍ່ວ່າຕົ້ນໄມ້ຕົ້ນນີ້ລາຄາ1ພັນໂດລາ？</item>
+        <item>ມື້ອື່ນແມ່ນວັນຄົບຮອບວັນແຕ່ງງານແຕ່ງງານ, ແຕ່ວ່າລາວຍັງມາເຮັດວຽກຢູ່.</item>
+        <item>ສະພາບອາກາດຢູ່ນີ້ດີຫຼາຍ, ຂ້ອຍຄິດກ່ອນວ່າຕ້ອງການຍ້າຍມາຢູ່ນີ້ບໍ.</item>
+        <item>ລາວແມ່ນຕຳຫຼວດຄົນໜື່ງທີ່ມີປະສົບການຫຼາຍ.</item>
+        <item>ຂ້ອຍຢ້ານວ່າພວກເຂົາທັງສອງຈະບໍ່ສາມາດໄປຮຽນຢູ່ຕ່າງປະເທດໄດ້ແລ້ວ.</item>
+        <item>ຂ້ອຍສາມາດກິນເຜັດໄດ້, ແຕ່ຂ້ອຍບໍ່ສາມາດກິນຂົມໄດ້.</item>
+        <item>ແຮງຂອງເສືອແຮງຫຼາຍ, ແຕ່ມັນຂີ້ຄ້ານຫຼາຍ.</item>
+        <item>ຖັງຂິ້ເຫຍື້ອນີ້ກວ້າງຊຳໃດ？</item>
+        <item>ມື້ນີ້ຂ້ອຍທັງເຫງົານອນທັງຄ້ານ, ກະທັ່ງແຮງຊີລົມກັນຍັງບໍ່ມີ.</item>
+        <item>ແມ່ຂອງຂ້ອຍເປັນຄົນທີ່ທັງໃຈເຢັນທັງມີຄວາມອົດທົນ.</item>
+        <item>ເຈົ້າບໍ່ຮູ້ຊຳບໍ, ຖັງຂີ້ເຫຍື້ອເຕັມແລ້ວບໍ່ສາມາດໃສ່ຂິ້ເຫຍື້ອໄດ້ແລ້ວ？</item>
+        <item>ເພື່ອຈະພັດທະນາຄວາມສຳພັນກັບໝູ່່ເພື່ອນ, ລາວເອົາລະຫັດເຟສບຸກຂອງລາວໃຫ້ທຸກຄົນແລ້ວ.</item>
+        <item>ລາວເຮັດວຽກທັງຄ້ານທັງປະມາດ, ແລະຍັງມັກເຮັດບໍ່ທັນຕະຫຼອດ.</item>
+        <item>ແຟນໃນອຸດົມຄະຕິຂອງຂ້ອຍແມ່ນເປັນຄົນທີີ່ທັງມີສຸພາບແລະມີຄວາມຄິດສ້າງສັນ.</item>
+        <item>ສະພາບອາກາດເປັນສະບາຍແລ້ວ, ບໍ່ຕ້ອງເປິດເອໃຫ້ເປືອງໄຟຟ້າແລ້ວ.</item>
+        <item>ແມ່ເປັນຄົນທີ່ມີຄວາມສາມາດຫຼາຍ, ລາວມັກຈະເຂົ້າໃຈຄວາມລຳບາກແລະຄວາມຕ້ອງການຂອງພວກເຮົາຕະຫຼອດ.</item>
+        <item>ຂ້ອຍມັກຟັງເພງທີ່ທັນສະໄໝ, ແລະຍັງມັກເສື້ອຜ້າທີ່ທັນສະໄໝອີກ.</item>
+        <item>ປະເທດລາວມີຈັກຊົນເຜົ່າ?</item>
+        <item>ຈຸດປະສົງທີ່ເຈົ້າໄປຮຽນຢູ່ຕ່າງປະເທດແມ່ນຫຍັງ？</item>
+        <item>ມື້ວານນິ້ພວກເຮົາລົມກັນຈົນຟ້າແຈ້ງ.</item>
+        <item>ປົກກະຕິແລ້ວຖ້າເສັງບໍ່ຜ່ານ, ຂ້ອຍກໍບໍ່ໄດ້ເສຍໃຈ.</item>
+        <item>ເນື້ອໃນຂອງລົດເລື່ອງນິ້ຂຽນໄດ້ດີຫຼາຍ.</item>
+        <item>ຊົນນະບົດຍາກຈົນ, ຕົວເມືອງຮັ່ງມີ, ແມ່ນຄວາມຄວາມແຕກຕ່າງຂອງທັງສອງ.</item>
+        <item>ຂ້ອຍຜິດໄປແລ້ວ, ຍິນດີຮັບຟັງຄຳຕຳນິຂອງເຈົ້າ.</item>
+        <item>ປົກກະຕິແລ້ວຂ້ຍຍມັກຫຼິ້ນກິລາປິງປອງ, ແລະດົນໆເທື່ອຫຼິ້ນບານບ່ວງ.</item>
+        <item>ພິ່ນ້ອງມາແຕ່ຊົນນາບົດ, ຂ້ອຍຕ້ອງລາພັກວຽກເພື່ອໄປຢູ່ນຳລາວ.</item>
+        <item>ຂ້າງໃນກຳແພງແລະນອກກຳແພງແມ່ນເປັນໂລກ2ໜ່ວຍ.</item>
+        <item>ຂ້ອຍເດົາບໍອອກວ່າພາຍໃນແກ້ວນີແມ່ນມີຫຍັງ.</item>
+        <item>ໂຊຟາໂຕນິ້ແມ່ນຂາຍ2800ຢວນ.</item>
+        <item>ຂ້ອຍຢາກຂໍໄປເຮັດວຽກຢູ່ນະຄອນຫຼວງ.</item>
+        <item>ພວກເຮົາບໍ່ພຽງແຕ່ຕ້ອງປັບຕົວໃຫ້ເຂົ້າກັບສັງຄົມ, ແຕ່ທີ່ສຳຄັນກວ່າແມ່ນຕ້ອງປ່ຽນແປງສັງຄົມ.</item>
+        <item>ລົ້ມເລວແລ້ວຈະຜິດຫວັງເສຍໃຈ, ນີ້ມັນເປັນເລື່ອງທຳມະດາ.</item>
+        <item>ຊີວິດມີແຕ່ເທື່ອດຽວ, ພວກເຮົາບໍ່ສາມາດເຮັດໃຫ້ມັນລົ້ມເລວ.</item>
+        <item>ຂ້ອຍຮັບບໍ່ໄດ້ແທ້ໆເປັນຫຍັງເຈົ້າຕ້ອງປະຢັດຂະໜາດນີ້?</item>
+        <item>ຂ້ອຍເອົາອາຫານທີ່ຍັງເຫຼືອເກັບໄວ້ແລ້ວ.</item>
+        <item>ອາຈານຂອງຂ້ອຍຫລໍ່ຫຼາຍ.</item>
+        <item>ຄວາມຈິງແລ້ວຂ້ອຍບໍ່ຮູ້ວ່າມະຫາສະມຸດລືກຊຳໃດ.</item>
+        <item>ຢາກເຮັດວຽກຢູ່ນະຄອນຫຼວງ, ກ່ອນອື່ນຈຳເປັນຕ້ອງປັບຕົວໃຫ້ເຂົ້າກັບການໃຊ້ຊິວິດໃນນີ້.</item>
+        <item>ປະເທດລາວມີທັງໝົດຈັກແຂວງ？</item>
+        <item>ເຈົ້າຍັງບໍ່ເຄີຍໄດ້ລອງເຮັດ, ຈະຮູ້ໄດ້ແນວໃດວ່າຈະລົ້ມເລວ？</item>
+        <item>ໃນສະຕາວັດທີ່21ນີ້, ມີຄົນທີ່ຫຼິ້ນໂທລະສັບບໍ່ເປັນບໍ？</item>
+        <item>ເບິ່ງດວງຕາທີ່ປຽບຊຸມຂອງລາວແລ້ວ, ຂ້ອຍບໍ່ກ້າບອກລາວວ່າຂ້ອຍແພ້ແລ້ວ.</item>
+        <item>ສັດທີ່ໃຫຍ່ທີ່ສຸດໃນປ້າບໍ່ແມ່ນສິງ, ແຕ່ແມ່ນຊ້າງ.</item>
+        <item>ຂ້ອຍໄດ້ລົມກັບຫົວກ່ຽວກັບເງື່ອນຂອງວຽກງານທັງໝົດໄດ້ຢ່າງລາບລື່ນແລ້ວ.</item>
+        <item>ທັດສະນະຄະຕິຂອງລາວໄດ້ແລ້ວວ່າລາວຊັງເຈົ້າ.</item>
+        <item>ເຈົ້ານັບໃຫ້ແດວ່າໃນນີ້ມີຖຸງຕີນຈັກຄູ່?</item>
+        <item>ເພາະວ່າທ່າທາງຂອງລາວເຮັດໃຫ້ຄົນຊັງລາວ, ສະນັ້ນການສຳພາບຈື່ງບໍ່ຜ່ານ.</item>
+        <item>ຜ່ານການຊ່ວຍເຫຼືອຂອງພໍ່ແມ່, ສຸດທ້າຍຂ້ອຍກໍຊື້ໄດ້ເປຍໂນອັນໃໝ່ແລ້ວ.</item>
+        <item>ຂໍຊ່ວຍຂ້ອຍຍົກເປຍໂນສູງອີກນ້ອຍໜື່ງແດ.</item>
+        <item>ເຈົ້າຫຼິ້ນເປຍໂນໄດ້ຄ້ອນຄ້າງໄວພໍສົມຄວນ.</item>
+        <item>ຫຼານຊາຍຂອງ laozhang ເສຍຊີວິດແລ້ວ, ທຸກຄົນລ້ວນແຕ່ເຫັນໃຈລາວໝົດ.</item>
+        <item>ກາລຸນາຂຽນເງື່ອນໄຂຂອງເຈົ້າຕາມລຳດັບ.</item>
+        <item>ນັກສືກສາປະລິນຍາໂທແຕ່ລະຄົນໄດ້ຈົບການສືກສາຢ່າງລາບລື່ນແລ້ວ.</item>
+        <item>ຂ້ອຍບໍ່ມີເງີນບ່ມີບົດເຄດິດ, ທັງຍັງບໍ່ມີລູກມີຫຼານ.</item>
+        <item>ຄົນທີ່ນ່າເບື່ອບໍ່ຊີເຮັດຫຍັງກໍບໍ່ດືງດູດຄົນ.</item>
+        <item>ເຂົ້າໃຈກັນຜິດແລ້ວ, ຈະບໍ່ສາມາດເຊື່ອໃຈເຊິ່ງກັນແລະກັນອິກແລ້ວ.</item>
+        <item>ຄົນສະໄໝປະຈຸບັນບໍ່ມັກຢູ່ໃຕ້ຂໍ້ຈຳກັດຂອງຄົນອື່ນ.</item>
+        <item>ເຈົ້າຊ່ວຍບອກນິດໄສຂອງລາວຢ່າງລະອຽດໃຫ້ຂ້ອຍຮູ້ແດ？</item>
+        <item>ຈັກຊັກເຄື່ອງຂອງລາວດັງຫຼາຍດ, ຂ້ອຍຄິດວ່າຕ້ອງໄດ້ເອົາໄປແປງແລ້ວ.</item>
+        <item>ລາວມີຂໍ້ມູນກ່ຽວກັບບັນຫາທີ່ເກິດຂື້ນໃນອາຊີຫຼາຍ.</item>
+        <item>ລາວມັກເວົ້າຕາລົກ, ເຮັດໃຫ້ອາລົມຂອງຄົນຟັງດີຂື້ນໄດ້.</item>
+        <item>ຄົນທີ່ນິດໄສແຕກຕ່າງກັນຢູ່ນຳກັນມັກຈະເຮັດໃຫ້ເກິດຄວາມເຂົ້າໃຈຜິດຕະຫຼອດ.</item>
+        <item>ຊື່ຂອງປື້ມວາລະສານນີ້ເອີ້ນວ່າ “ໃບໄມ້”.</item>
+        <item>ລາວແມ່ນນັກສິນລະປະທີ່ໂດດເດັ່ນຫຼາຍຄົນໜື່ງ.</item>
+        <item>ພວກເຈົ້າສາມາດເວົ້າຄວາມຄິດເຫັນທັງໝົດອອກມາໄດ້.</item>
+        <item>ຕີດອກປິກໄກ່ທັງມ່ວນທັງຄັກ.</item>
+        <item>ຜ່ານການແຂ່່ງຂັນຕີດອກປິກໄກ່, ສາມາດພັດທະນາມິດຕະພາບຂອງ2ປະເທດໃຫ້ດີຂື້ນ.</item>
+        <item>ຊ່ວຍເອົາເອກະສານກ່ຽວກັບການຮັບສະໝັກຈັດເປັນລະບຽບໃຫ້ດີ.</item>
+        <item>ສາເທດທີ່ລາວຮຽນໄດ້ຄະແນນດີແມ່ນເພາະວ່າລາວມັກຮຽນລ່ວງໜ້າຕະຫຼອດ.</item>
+        <item>ຫຼັກໄວຍະກອນແມ່ນເຮັດໃຫ້ຫຼາຍຄົນຄິດວ່າຮຽນຍາກຫຼາຍ, ແຕ່ສຳລັບຂ້ອຍແລ້ວແມ່ນມີຄວາມໝາຍຫຼາຍ.</item>
+        <item>ປະເທດລາວກັບປະເທດແມ່ນ2ປະເທດທີ່ມິດຕະພາບດີ.</item>
+        <item>ຂ້ອຍເຮັດຜິດແລ້ວ, ຂໍໃຫ້ເຈົ້າອາໄພຂ້ອຍ.</item>
+        <item>ຂ້ອຍບໍ່ອານຸຍາດໃຫ້ນັກຮຽນທີ່ຢູ່ໃນຫ້ອງເຂົ້າເຂົ້າອອກອອກຕາມສະບາຍ.</item>
+        <item>ເຮັດວາລະສານ, ຕ້ອງເຮັດໃຫ້ມີຄວາມໝາຍສາມາດດືງດູດຄົນໄດ້.</item>
+        <item>ຂ້ອຍແມ່ນຜູ້ອຳນວຍການ, ຖ້າໂຮງຮຽນເກິດບັນຫາຫຍັງຂ້ອຍຕ້ອງເປັນຄົນຮັບຜິດຊອບ.</item>
+        <item>ໃບໄມ້ຂອງຕົ້ນໄມ້ຕົ້ນນີ້ທັງໜາທັງຍາວ, ພິເສດຫຼາຍ.</item>
+        <item>ຄົນທີ່ເກັ່ງລ້ວນແຕ່ມັກການອ່ານ, ເພາະວ່າເຮັດແນວນີ້ສາມາດເພິ່ມຄວາມຮູ້.</item>
+        <item>ຕະລົກແລະມ່ວນແມ່ນຢູ່ນຳກັນ, ກ້າຫານແລະມີຄວາມຮັບຜິດຊອບກໍບໍ່ສາມາດຫ່າງຈາກກັນໄດ້.</item>
+        <item>ພໍ່ແມ່ນສະໜັບສະໜຸນຂອງຂ້ອຍເຮັດທຸລະກິດ, ຂ້ອຍກໍຢາກສະແດງໃຫ້ພວກເຂົາເຫັນວ່າຂ້ອຍກໍສາມາດເຮັດໄດ້.</item>
+        <item>ອາຊີບຫຍັງກໍບໍ່ສຳຄັນ, ສຳຄັນແມ່ນສາມາດຫາເງີນໄດ້, ຂ້ອຍເວົ້າຖືກບໍ？</item>
+        <item>ຜູ້ຂຽນປື້ມບົດເລື່ອງພາສາຈີນນີ້ແມ່ນໃຜ, ເນື້ອໃນຂອງມັນທັງດີທັງລະອຽດ.</item>
+        <item>ເຈົ້າໃຫ້ການສະໜັບສະໜູນທີ່ດີໃຫ້ຂ້ອຍ, ນັ້ນແມ່ນການເຄົາລົບການຕັດສິນໃຈຂອງຂ້ອຍ.</item>
+        <item>ຄຳອອຍພອນນີ້ຂຽນໄດ້ດີຫຼາຍ, ພິສູດໄດ້ວ່າວັນນະຄະດີຂອງລາວດີຫຼາຍ.</item>
+        <item>ພາສາຈີນເປັນພາສາໜື່ງທີ່ນ່າສົນໃຈຫຼາຍ.</item>
+        <item>ພວກເຮົາຄວານປົກປັກຮັກສາທຳມະຊາດ, ບໍ່ຕ້ອງໃຫ້ທຳມະຊາດໄດ້ຮັບມົນລະຜິດ.</item>
+    </string-array>
+
+    <string-array name="hsk_colors">
+        <item>颜色</item>
+        <item>白色</item>
+        <item>黑色</item>
+        <item>蓝色</item>
+        <item>绿色</item>
+        <item>黄色</item>
+        <item>红色</item>
+        <item>粉色</item>
+        <item>橙色</item>
+        <item>紫色</item>
+        <item>灰色</item>
+        <item>棕色</item>
+    </string-array>
+    <string-array name="hsk_colors_fanyi">
+        <item>ສີ</item>
+        <item>ສີຂາວ</item>
+        <item>ສີດຳ</item>
+        <item>ສີຟ້າ</item>
+        <item>ສີຂຽວ</item>
+        <item>ສີເຫຼືອງ</item>
+        <item>ສີແດງ</item>
+        <item>ສີບົວ</item>
+        <item>ສີສົ້ມ</item>
+        <item>ສີມ່ວງ</item>
+        <item>ສີເທົາ</item>
+        <item>ສີນ້ຳຕານ</item>
+    </string-array>
+
+    <string-array name="numbers">
+        <item>数字</item>
+        <item>一</item>
+        <item>二</item>
+        <item>两</item>
+        <item>三</item>
+        <item>四</item>
+        <item>五</item>
+        <item>六</item>
+        <item>七</item>
+        <item>八</item>
+        <item>九</item>
+        <item>十</item>
+        <item>十一</item>
+        <item>十二</item>
+        <item>十三</item>
+        <item>十四</item>
+        <item>十五</item>
+        <item>十六</item>
+        <item>十七</item>
+        <item>十八</item>
+        <item>十九</item>
+        <item>二十</item>
+        <item>三十</item>
+        <item>四十</item>
+        <item>五十</item>
+        <item>六十</item>
+        <item>七十</item>
+        <item>八十</item>
+        <item>九十</item>
+        <item>一百</item>
+        <item>两百</item>
+        <item>三百</item>
+        <item>四百</item>
+        <item>五百</item>
+        <item>一千</item>
+        <item>一万</item>
+        <item>十万</item>
+        <item>一百万</item>
+        <item>一千万</item>
+        <item>亿</item>
+    </string-array>
+    <string-array name="numbers_fanyi">
+        <item>ຕົວເລກ</item>
+        <item>ໜື່ງ (ເລກ1)</item>
+        <item>ສອງ (ເລກ2 ຕາມລຳດັບ)</item>
+        <item>ສອງ (ເລກ2 ນັບຈຳນວນ)</item>
+        <item>ສາມ (ເລກ3)</item>
+        <item>ສີ່ (ເລກ4)</item>
+        <item>ຫ້າ (ເລກ5)</item>
+        <item>ຫົກ (ເລກ6)</item>
+        <item>ເຈັດ (ເລກ7)</item>
+        <item>ແປດ (ເລກ8)</item>
+        <item>ເກົ້າ (ເລກ9)</item>
+        <item>ສີບ (ເລກ10)</item>
+        <item>ສີບເອັດ (11)</item>
+        <item>ສີບສອງ (12)</item>
+        <item>ສີບສາມ (13)</item>
+        <item>ສີບສີ່ (14)</item>
+        <item>ສີບຫ້າ (15)</item>
+        <item>ສີບຫົກ (16)</item>
+        <item>ສີບເຈັດ (17)</item>
+        <item>ສີບແປດ (18)</item>
+        <item>ສີບເກົ້າ (19)</item>
+        <item>ຊາວ (20)</item>
+        <item>ສາມສີບ (30)</item>
+        <item>ສີ່ສີບ (40)</item>
+        <item>ຫ້າສີບ (50)</item>
+        <item>ຫົກສີບ (60)</item>
+        <item>ເຈັດສີບ (70)</item>
+        <item>ແປດສີບ (80)</item>
+        <item>ເກົ້າສີບ (90)</item>
+        <item>1 ຮ້ອຍ (100)</item>
+        <item>2 ຮ້ອຍ (200)</item>
+        <item>3 ຮ້ອຍ (300)</item>
+        <item>4 ຮ້ອຍ (400)</item>
+        <item>5 ຮ້ອຍ (500)</item>
+        <item>1 ພັນ (1000)</item>
+        <item>1 ໝື່ນ (10ພັນ)</item>
+        <item>1 ແສນ</item>
+        <item>1 ລ້ານ</item>
+        <item>10 ລ້ານ</item>
+        <item>100 ລ້ານ</item>
+    </string-array>
+
+    <string-array name="fruits">
+        <item>水果</item>
+        <item>苹果</item>
+        <item>葡萄</item>
+        <item>芒果</item>
+        <item>香蕉</item>
+        <item>火龙果</item>
+        <item>橙子</item>
+        <item>桃子</item>
+        <item>木瓜</item>
+        <item>西瓜</item>
+        <item>榴莲</item>
+        <item>莲雾</item>
+        <item>草莓</item>
+        <item>椰子</item>
+        <item>芭樂</item>
+        <item>牛油果</item>
+        <item>南瓜</item>
+        <item>菠萝</item>
+        <item>石榴</item>
+        <item>柠檬</item>
+        <item>猕猴桃</item>
+        <item>李子</item>
+        <item>樱桃</item>
+        <item>蓝莓</item>
+        <item>菠萝蜜</item>
+        <item>人心果</item>
+        <item>龙眼</item>
+        <item>红毛丹</item>
+        <item>荔枝</item>
+        <item>柚子</item>
+    </string-array>
+    <string-array name="fruits_fanyi">
+        <item>ໝາກໄມ້</item>
+        <item>ໝາກແອັບເປີ້ນ</item>
+        <item>ໝາກອາງຸ່ນ</item>
+        <item>ໝາກມ່ວງ</item>
+        <item>ໝາກກ້ວຍ</item>
+        <item>ໝາກມັງກອນ</item>
+        <item>ໝາກກ້ຽງ</item>
+        <item>ໝາກຄາຍ</item>
+        <item>ໝາກຮຸ້ງ</item>
+        <item>ໝາກແຕງໂມ</item>
+        <item>ໝາກທຸລຽນ</item>
+        <item>ໝາກຈຽງ(ໝາກຊົມພູ່)</item>
+        <item>ໝາກສະຕໍເບີລີ້</item>
+        <item>ໝາກພ້າວ</item>
+        <item>ໝາກສີດາ</item>
+        <item>ໝາກອາໂດຄາໂດ້</item>
+        <item>ໝາກອື</item>
+        <item>ໝາກນັດ</item>
+        <item>ໝາກທັບທິມ</item>
+        <item>ໝາກນາວ</item>
+        <item>ໝາກກິວິ</item>
+        <item>ໝາກໝັ່ນ</item>
+        <item>ໝາກເຊີລີ້</item>
+        <item>ໝາກບູເບີລິ້</item>
+        <item>ໝາກມິ້</item>
+        <item>ໝາກລຳມຸດ</item>
+        <item>ໝາກລຳໄຍ</item>
+        <item>ໝາກເງາະ</item>
+        <item>ໝາກລິ້ນຈີ່</item>
+        <item>ໝາກພຸດ</item>
+    </string-array>
+
+    <string-array name="familys">
+        <item>家庭</item>
+        <item>我</item>
+        <item>你</item>
+        <item>爸爸</item>
+        <item>妈妈</item>
+        <item>丈夫</item>
+        <item>妻子</item>
+        <item>孩子</item>
+        <item>儿子</item>
+        <item>媳妇</item>
+        <item>女儿</item>
+        <item>女婿</item>
+        <item>哥哥</item>
+        <item>嫂子</item>
+        <item>弟弟</item>
+        <item>弟妹</item>
+        <item>姐姐</item>
+        <item>姐夫</item>
+        <item>妹妹</item>
+        <item>妹夫</item>
+        <item>爷爷</item>
+        <item>奶奶</item>
+        <item>外公</item>
+        <item>外婆</item>
+        <item>伯伯</item>
+        <item>叔叔</item>
+        <item>姑姑</item>
+        <item>舅舅</item>
+        <item>阿姨</item>
+        <item>亲戚</item>
+    </string-array>
+    <string-array name="familys_fanyi">
+        <item>ຄອບຄົວ</item>
+        <item>ຂ້ອຍ</item>
+        <item>ເຈົ້າ</item>
+        <item>ພໍ່</item>
+        <item>ແມ່</item>
+        <item>ຜົວ</item>
+        <item>ເມຍ</item>
+        <item>ລູກ</item>
+        <item>ລູກຊາຍ</item>
+        <item>ລູກໄພ້</item>
+        <item>ລູກສາວ</item>
+        <item>ລູກເຂີຍ</item>
+        <item>ອ້າຍ</item>
+        <item>ເອື້ອຍໄພ້</item>
+        <item>ນ້ອງຊາຍ</item>
+        <item>ນ້ອງໄພ້</item>
+        <item>ເອື້ອຍ</item>
+        <item>ອ້າຍເຂີຍ</item>
+        <item>ນ້ອງສາວ</item>
+        <item>ນ້ອງເຂີຍ</item>
+        <item>ປູ່</item>
+        <item>ຍ່າ</item>
+        <item>ຕາ</item>
+        <item>ຍາຍ</item>
+        <item>ລຸງ (ອ້າຍຂອງພໍ່)</item>
+        <item>ອາວ (ນ້ອງຊາຍຂອງພໍ່)</item>
+        <item>ປ້າ, ອາ (ເອື້ອຍ ຫຼື ນ້ອງສາວ ຂອງພໍ່)</item>
+        <item>ລຸງ (ອ້າຍ ຫຼື ນ້ອງຊາຍ ຂອງແມ່)</item>
+        <item>ນ້າສາວ, ປ້າ (ເອື້ອຍ ຫຼື ນ້ອງສາວ ຂອງແມ່)</item>
+        <item>ພິ່ນ້ອງ</item>
+    </string-array>
+
+    <string-array name="animals">
+        <item>动物</item>
+        <item>鸡</item>
+        <item>鸭</item>
+        <item>狗</item>
+        <item>猫</item>
+        <item>猪</item>
+        <item>牛</item>
+        <item>羊</item>
+        <item>水牛</item>
+        <item>鱼</item>
+        <item>大象</item>
+        <item>猴子</item>
+        <item>狮子</item>
+        <item>老虎</item>
+        <item>鸟</item>
+        <item>蛇</item>
+        <item>熊</item>
+        <item>熊猫</item>
+        <item>马</item>
+        <item>鳄鱼</item>
+        <item>青蛙</item>
+        <item>乌龟</item>
+        <item>兔子</item>
+    </string-array>
+    <string-array name="animals_fanyi">
+        <item>ສັດຕ່າງໆ</item>
+        <item>ໄກ່</item>
+        <item>ເປັດ</item>
+        <item>ໝາ</item>
+        <item>ແມວ</item>
+        <item>ໝູ</item>
+        <item>ງົວ</item>
+        <item>ແບ້</item>
+        <item>ຄວາຍ</item>
+        <item>ປາ</item>
+        <item>ຊ້າງ</item>
+        <item>ລີງ</item>
+        <item>ສິງ</item>
+        <item>ເສືອ</item>
+        <item>ນົກ</item>
+        <item>ງູ</item>
+        <item>ໝີ</item>
+        <item>ໝີແພນດ້າ</item>
+        <item>ມ້າ</item>
+        <item>ແຂ້</item>
+        <item>ກົບ</item>
+        <item>ເຕົ່າ</item>
+        <item>ກະຕ່າຍ</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

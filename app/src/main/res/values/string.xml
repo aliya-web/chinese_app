@@ -1,0 +1,1954 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hsk1_cabpinyin">
+        <item>(ài)</item>
+        <item>(bā)</item>
+        <item>(bàba)</item>
+        <item>(bēizi)</item>
+        <item>(běijīng)</item>
+        <item>(běn)</item>
+        <item>(bù kèqì)</item>
+        <item>(bù)</item>
+        <item>(cài)</item>
+        <item>(chá)</item>
+        <item>(chī)</item>
+        <item>(chūzū chē)</item>
+        <item>(dǎ diànhuà (gěi) )</item>
+        <item>(dà)</item>
+        <item>(de)</item>
+        <item>(diǎn)</item>
+        <item>(diànnǎo)</item>
+        <item>(diànshì)</item>
+        <item>(diànyǐng)</item>
+        <item>(dōngxī)</item>
+        <item>(dōu)</item>
+        <item>(dú)</item>
+        <item>(duìbùqǐ)</item>
+        <item>(duō)</item>
+        <item>(duōshǎo)</item>
+        <item>(érzi)</item>
+        <item>(èr)</item>
+        <item>(fànguǎn)</item>
+        <item>(fēijī)</item>
+        <item>(fēnzhōng)</item>
+        <item>(gāoxìng)</item>
+        <item>(gè)</item>
+        <item>(gōngzuò)</item>
+        <item>(gǒu)</item>
+        <item>(hànyǔ)</item>
+        <item>(hǎo)</item>
+        <item>(hē)</item>
+        <item>(hé)</item>
+        <item>(hěn)</item>
+        <item>(hòumiàn)</item>
+        <item>(huí)</item>
+        <item>(huì)</item>
+        <item>(huǒchē zhàn)</item>
+        <item>(jǐ)</item>
+        <item>(jiā)</item>
+        <item>(jiào)</item>
+        <item>(jīntiān)</item>
+        <item>(jiǔ)</item>
+        <item>(kāi)</item>
+        <item>(kàn)</item>
+        <item>(kànjiàn)</item>
+        <item>(kuài)</item>
+        <item>(lái)</item>
+        <item>(lǎoshī)</item>
+        <item>(le)</item>
+        <item>(lěng)</item>
+        <item>(lǐ)</item>
+        <item>(líng)</item>
+        <item>(liù)</item>
+        <item>(māmā)</item>
+        <item>(ma)</item>
+        <item>(mǎi)</item>
+        <item>(māo)</item>
+        <item>(méi)</item>
+        <item>(méiguānxì)</item>
+        <item>(mǐfàn)</item>
+        <item>(míngtiān)</item>
+        <item>(míngzì)</item>
+        <item>(nà，nà`er)</item>
+        <item>(nǎ, nǎ`er)</item>
+        <item>(ne)</item>
+        <item>(néng)</item>
+        <item>(nǐ)</item>
+        <item>(nián)</item>
+        <item>(nǚ`ér)</item>
+        <item>(péngyǒu)</item>
+        <item>(piàoliang)</item>
+        <item>(píngguǒ)</item>
+        <item>(qī)</item>
+        <item>(qián)</item>
+        <item>(qiánmiàn)</item>
+        <item>(qǐng)</item>
+        <item>(qù)</item>
+        <item>(rè)</item>
+        <item>(rén)</item>
+        <item>(rènshí)</item>
+        <item>(rì)</item>
+        <item>(sān)</item>
+        <item>(shāngdiàn)</item>
+        <item>(shàng)</item>
+        <item>(shàngwǔ)</item>
+        <item>(shǎo)</item>
+        <item>(shéi)</item>
+        <item>(shénme)</item>
+        <item>(shí)</item>
+        <item>(shíhòu)</item>
+        <item>(shì)</item>
+        <item>(shū)</item>
+        <item>(shuǐ)</item>
+        <item>(shuǐguǒ)</item>
+        <item>(shuìjiào)</item>
+        <item>(shuōhuà)</item>
+        <item>(sì)</item>
+        <item>(suì)</item>
+        <item>(tā)</item>
+        <item>(tā)</item>
+        <item>(tài)</item>
+        <item>(tiānqì)</item>
+        <item>(tīng)</item>
+        <item>(tóngxué)</item>
+        <item>(wèi)</item>
+        <item>(wǒ)</item>
+        <item>(wǒmen)</item>
+        <item>(wǔ)</item>
+        <item>(xǐhuān)</item>
+        <item>(xià)</item>
+        <item>(xiàwǔ)</item>
+        <item>(xià yǔ)</item>
+        <item>(xiānshēng)</item>
+        <item>(xiànzài)</item>
+        <item>(xiǎng)</item>
+        <item>(xiǎo)</item>
+        <item>(xiǎojiě)</item>
+        <item>(xiē)</item>
+        <item>(xiě)</item>
+        <item>(xièxiè)</item>
+        <item>(xīngqí)</item>
+        <item>(xuéshēng)</item>
+        <item>(xuéxiào)</item>
+        <item>(yī)</item>
+        <item>(yīfú)</item>
+        <item>(yīshēng)</item>
+        <item>(yīyuàn)</item>
+        <item>(yǐzi)</item>
+        <item>(yǒu)</item>
+        <item>(yuè)</item>
+        <item>(zài)</item>
+        <item>(zàijiàn)</item>
+        <item>(zěnme)</item>
+        <item>(zěnme yàng)</item>
+        <item>(zhè, zhè`er)</item>
+        <item>(zhōngguó)</item>
+        <item>(zhōngwǔ)</item>
+        <item>(zhù)</item>
+        <item>(zhuōzi)</item>
+        <item>(zì)</item>
+        <item>(zuótiān)</item>
+        <item>(zuò)</item>
+        <item>(zuò)</item>
+    </string-array>
+    <string-array name="hsk1_juzipinyin">
+        <item>(Nǐ hǎo.)</item>
+        <item>(Nǐ hǎo ma?)</item>
+        <item>(Wǒ hěn hǎo, nǐ ne?)</item>
+        <item>(Nǐ jiào shénme míngzì?)</item>
+        <item>(Wǒ jiào xiaomi.)</item>
+        <item>(Xièxiè.)</item>
+        <item>(Bù kèqì.)</item>
+        <item>(Duìbùqǐ.)</item>
+        <item>(Méiguānxì.)</item>
+        <item>(Nǐ jīnnián jǐ suìle?)</item>
+        <item>(Wǒ jīnnián shíbā suìle.)</item>
+        <item>(Chīfànle ma?)</item>
+        <item>(Māmā, wǒ ài nǐ.)</item>
+        <item>(Wǒ ài chī zhōngguó cài.)</item>
+        <item>(Wǒ yǒu bā běn shū.)</item>
+        <item>(Wǒ bàba shì yīshēng.)</item>
+        <item>(Zhège bēizi hěn piàoliang.)</item>
+        <item>(Běijīng de tiānqì hěn hǎo.)</item>
+        <item>(Tā bùxiǎng qù xuéxiào.)</item>
+        <item>(Wǒ hěn xǐhuān chī báicài.)</item>
+        <item>(Lǎowō cài hěn hào chī.)</item>
+        <item>(Bàba xǐhuān hē zhōngguó chá.)</item>
+        <item>(Gēgē zuò chūzū chē qù gōngzuò.)</item>
+        <item>(Māmā dǎ diànhuà gěi wǒ.)</item>
+        <item>(Píngguǒ hěn dà.)</item>
+        <item>(Xiànzài jǐ diǎnle?)</item>
+        <item>(Wǒ shàngwǔ qī diǎn chīfàn.)</item>
+        <item>(Tā de bēizi hěn dà.)</item>
+        <item>(Māmā mǎi diànnǎo.)</item>
+        <item>(Wǒ xǐhuān kàn diànshì.)</item>
+        <item>(Diànyǐng hěn hǎokàn.)</item>
+        <item>(Wǒ hé bàba māmā yīqǐ kàn diànyǐng.)</item>
+        <item>(Tā mǎi de dōngxī hěnduō.)</item>
+        <item>(Zhèxiē dōngxī dū shì tā de.)</item>
+        <item>(Wǒ māmā hěn xǐhuān dúshū.)</item>
+        <item>(Nǐ érzi de diànnǎo mǎi duōshǎo qián?)</item>
+        <item>(Zhège fànguǎn de cài hěn hào chī.)</item>
+        <item>(Zhège diànnǎo shì èrshǒu de.)</item>
+        <item>(Zuò fēijī qù běijīng yào sì gè xiǎoshí hé èrshí fēnzhōng.)</item>
+        <item>(Tā hěn gāoxìng.)</item>
+        <item>(Nǐ gōngzuò zěnme yàng?)</item>
+        <item>(Tā yǒuyī zhǐ gǒu yī zhǐ māo.)</item>
+        <item>(Gēgē de hànyǔ hěn hǎo.)</item>
+        <item>(Jiějiě zhèngzài hē shuǐ.)</item>
+        <item>(Tā zài nǐ hòumiàn ne.)</item>
+        <item>(Nǐ shénme shíhòu néng huí jiā.)</item>
+        <item>(Wǒ huì shuō hànyǔ.)</item>
+        <item>(Bàba zài huǒchē zhàn gōngzuò.)</item>
+        <item>(Māmā zuò chūzū chē huí jiā.)</item>
+        <item>(Bàba jīntiān hěn gāoxìng.)</item>
+        <item>(Tā yǒu jiǔshí kuài qián.)</item>
+        <item>(Tā kāichē lái zhèlǐ.)</item>
+        <item>(Wǒ hěn xǐhuān kànshū.)</item>
+        <item>(Nǐ kànjiàn lǎoshīle ma?)</item>
+        <item>(Wǒ yǒu jǐ kuài qián.)</item>
+        <item>(Lǎoshī láile ma?)</item>
+        <item>(Zhèlǐ tiānqì hěn lěng.)</item>
+        <item>(Nǐ yǒu língqián ma?)</item>
+        <item>(Nǐ dú líng dào shí gěi wǒ tīng.)</item>
+        <item>(Míngtiān wǒmen chī mǐfàn hǎo ma?)</item>
+        <item>(Nǐ néng bùnéng xiàwǔ gēn wǒ qù yīyuàn?)</item>
+        <item>(Nǚ`ér zài chī píngguǒ.)</item>
+        <item>(Qǐng gěi wǒ qī gè píngguǒ.)</item>
+        <item>(Qiánmiàn yǒu chūzū chē.)</item>
+        <item>(Nǐ hé tā shénme shíhòu rènshí de?)</item>
+        <item>(Wǒmen dōu shì lǎowō rén.)</item>
+        <item>(Jīntiān shísì rì.)</item>
+        <item>(Wǒ sān diǎn qù shāngdiàn.)</item>
+        <item>(Shāngdiàn yǒu hěnduō dōngxī.)</item>
+        <item>(Shàngmiàn yǒu hěnduō rén.)</item>
+        <item>(Shàngwǔ tiānqì hěn hǎo.)</item>
+        <item>(Wǒ jiǔ diǎn shuìjiào.)</item>
+        <item>(Shuǐ tài shǎole.)</item>
+        <item>(Shéi de shuǐguǒ?)</item>
+        <item>(Lǐ xiǎojiě zài shuōhuà.)</item>
+        <item>(Xiàwǔ xià yǔ hěn dà.)</item>
+        <item>(Tā shì wǒ xiānshēng.)</item>
+        <item>(Wǒ xiànzài zài xiǎng nǐ.)</item>
+        <item>(Wèi! Nǐ shì shéi?)</item>
+        <item>(Xiǎo lì shì wǒ de tóngxué.)</item>
+        <item>(Wǒ yǒu shíwǔ gè tóngxué.)</item>
+        <item>(Nǐ xiě hànzì tài xiǎole.)</item>
+        <item>(Wǒ zhōngwǔ chī zhōngguó cài.)</item>
+        <item>(Yǐzi zài zhuōzi xiàmiàn.)</item>
+        <item>(Wǒ zhù zài zhè`er yīgè yuèle.)</item>
+        <item>(Nǐ zěnme zuò zài zhè`er?)</item>
+        <item>(Wǒ zuò de cài zěnme yàng?)</item>
+        <item>(Yīshēng zài yīyuàn gōngzuò.)</item>
+        <item>(Zuótiān nǐ qù yīyuàn zěnme yàng?)</item>
+    </string-array>
+
+    <string-array name="hsk2_cabpinyin">
+        <item>(ba)</item>
+        <item>(bái)</item>
+        <item>(bǎi)</item>
+        <item>(bāngzhù)</item>
+        <item>(bàozhǐ)</item>
+        <item>(bǐ)</item>
+        <item>(bié)</item>
+        <item>(zhǎng)</item>
+        <item>(chànggē)</item>
+        <item>(chū)</item>
+        <item>(chuān)</item>
+        <item>(chuán)</item>
+        <item>(cì)</item>
+        <item>(cóng)</item>
+        <item>(cuò)</item>
+        <item>(dǎ lánqiú)</item>
+        <item>(dàjiā)</item>
+        <item>(dànshì)</item>
+        <item>(dào)</item>
+        <item>(dé)</item>
+        <item>(děng)</item>
+        <item>(dìdì)</item>
+        <item>(dì yī)</item>
+        <item>(dǒng)</item>
+        <item>(duì)</item>
+        <item>(fángjiān)</item>
+        <item>(fēicháng)</item>
+        <item>(fúwùyuán)</item>
+        <item>(gāo)</item>
+        <item>(gàosù)</item>
+        <item>(gēgē)</item>
+        <item>(gěi)</item>
+        <item>(gōnggòng qìchē)</item>
+        <item>(gōngjīn)</item>
+        <item>(gōngsī)</item>
+        <item>(guì)</item>
+        <item>(hái)</item>
+        <item>(háizi)</item>
+        <item>(hào chī)</item>
+        <item>(hào)</item>
+        <item>(hēi)</item>
+        <item>(hóng)</item>
+        <item>(huānyíng)</item>
+        <item>(huídá)</item>
+        <item>(jīchǎng)</item>
+        <item>(jīdàn)</item>
+        <item>(jiàn)</item>
+        <item>(jiàoshì)</item>
+        <item>(jiějiě)</item>
+        <item>(jièshào)</item>
+        <item>(jìn)</item>
+        <item>(jìn)</item>
+        <item>(jiù)</item>
+        <item>(juédé)</item>
+        <item>(kāfēi)</item>
+        <item>(kāishǐ)</item>
+        <item>(kǎoshì)</item>
+        <item>(kěnéng)</item>
+        <item>(kěyǐ)</item>
+        <item>(kè)</item>
+        <item>(kuài)</item>
+        <item>(kuàilè)</item>
+        <item>(lèi)</item>
+        <item>(lí)</item>
+        <item>(liǎng)</item>
+        <item>(lù)</item>
+        <item>(lǚyóu)</item>
+        <item>(mài)</item>
+        <item>(màn)</item>
+        <item>(máng)</item>
+        <item>(měi)</item>
+        <item>(mèimei)</item>
+        <item>(mén)</item>
+        <item>(nánrén)</item>
+        <item>(nín)</item>
+        <item>(niúnǎi)</item>
+        <item>(nǚrén)</item>
+        <item>(pángbiān)</item>
+        <item>(pǎobù)</item>
+        <item>(piányí)</item>
+        <item>(piào)</item>
+        <item>(qīzi)</item>
+        <item>(qǐchuáng)</item>
+        <item>(qiān)</item>
+        <item>(qíng)</item>
+        <item>(qùnián)</item>
+        <item>(ràng)</item>
+        <item>(shàngbān)</item>
+        <item>(shēntǐ)</item>
+        <item>(shēngbìng)</item>
+        <item>(shēngrì)</item>
+        <item>(shíjiān)</item>
+        <item>(shìqíng)</item>
+        <item>(shǒubiǎo)</item>
+        <item>(shǒujī)</item>
+        <item>(sòng)</item>
+        <item>(suǒyǐ)</item>
+        <item>(tā)</item>
+        <item>(tī zúqiú)</item>
+        <item>(tí)</item>
+        <item>(tiàowǔ)</item>
+        <item>(wài)</item>
+        <item>(wán)</item>
+        <item>(wán er)</item>
+        <item>(wǎnshàng)</item>
+        <item>(wèishéme)</item>
+        <item>(wèn)</item>
+        <item>(wèntí)</item>
+        <item>(xīguā)</item>
+        <item>(xīwàng)</item>
+        <item>(xǐ)</item>
+        <item>(xiàng)</item>
+        <item>(xiǎoshí)</item>
+        <item>(xiào)</item>
+        <item>(xīn)</item>
+        <item>(xìng)</item>
+        <item>(xiūxí)</item>
+        <item>(xuě)</item>
+        <item>(yánsè)</item>
+        <item>(yǎnjīng)</item>
+        <item>(yángròu)</item>
+        <item>(yào)</item>
+        <item>(yào)</item>
+        <item>(yě)</item>
+        <item>(yǐjīng)</item>
+        <item>(yīqǐ)</item>
+        <item>(yìsi)</item>
+        <item>(yīn)</item>
+        <item>(yīnwèi)</item>
+        <item>(yóuyǒng)</item>
+        <item>(yòubiān)</item>
+        <item>(yú)</item>
+        <item>(yuán)</item>
+        <item>(yuǎn)</item>
+        <item>(yùndòng)</item>
+        <item>(zài)</item>
+        <item>(zǎoshang)</item>
+        <item>(zhāng)</item>
+        <item>(zhàngfū)</item>
+        <item>(zhǎo)</item>
+        <item>(zhe)</item>
+        <item>(zhēn)</item>
+        <item>(zhèngzài)</item>
+        <item>(zhīdào)</item>
+        <item>(zhǔnbèi)</item>
+        <item>(zìxíngchē)</item>
+        <item>(zǒu)</item>
+        <item>(zuì)</item>
+        <item>(zuǒbiān)</item>
+    </string-array>
+    <string-array name="hsk2_juzipinyin">
+        <item>(Nǐ jīnnián duōdàle?)</item>
+        <item>(Wǒ jīnnián 20 suì.)</item>
+        <item>(Bàba xǐhuān kàn bàozhǐ.)</item>
+        <item>(Gēgē bǐ wǒ dà sān suì.)</item>
+        <item>(Jiějiě de tóufǎ hěn chǎng.)</item>
+        <item>(Bié yīgè rén chūmén.)</item>
+        <item>(Nǐ xǐhuān chànggē ma?)</item>
+        <item>(Zhè shì wǒ dì yī cì zuò chuán.)</item>
+        <item>(Mèimei xǐhuān chuān hóngsè de yīfú.)</item>
+        <item>(Fúwùyuán fúwù fēicháng hǎo.)</item>
+        <item>(Wǒ zuò gōnggòng qìchē qù huāyuán.)</item>
+        <item>(Míngtiān shì tā de shēngrì.)</item>
+        <item>(Dìdì xǐhuān dǎ lánqiú.)</item>
+        <item>(Cóng wǒjiā dào xuéxiào yào zuò gōnggòng qìchē èrshí fēnzhōng.)</item>
+        <item>(Wǒ gěi dàjiā jièshào yīxià zìjǐ.)</item>
+        <item>(Nánrén pǎobù bǐ nǚrén kuài.)</item>
+        <item>(Wǒ juédé hěn kuàilè.)</item>
+        <item>(Huānyíng dàjiā lái wǒjiā.)</item>
+        <item>(Wǒ jiā lǐ yīyuàn hěn jìn.)</item>
+        <item>(Lǎoshī shàngkèle.)</item>
+        <item>(Kǎoshì jiǔ diǎn kāishǐ.)</item>
+        <item>(Chē hěn guì.)</item>
+        <item>(Dàngāo hěn hào chī.)</item>
+        <item>(Jīntiān shì shí yuè qī hào.)</item>
+        <item>(Nín kěyǐ bāngzhù wǒ ma?)</item>
+        <item>(Māmā kāiménle, nǐ kěyǐ jìnqùle.)</item>
+        <item>(Tā qù jīchǎng mǎi jīpiào.)</item>
+        <item>(Wǒ děng péngyǒu sānshí fēnzhōngle.)</item>
+        <item>(Qíngtiān tiānqì hěn bùcuò.)</item>
+        <item>(Yīn wéi jīntiān shì wǒ shēngrì, suǒyǐ bàba sòng wǒ lǐwù.)</item>
+        <item>(Wǒ xǐhuān xià xuě bù xǐhuān xià yǔ.)</item>
+        <item>(Kǎoshì shíjiān hěn chǎng.)</item>
+        <item>(Qīzi hěn zǎo qǐchuáng.)</item>
+        <item>(Jiějiě shàngbān bā gè xiǎoshí.)</item>
+        <item>(Xiànzài wǎnshàng jiǔ diǎn.)</item>
+        <item>(Zhège shǒubiǎo hěn guì.)</item>
+        <item>(Hái zǐ shēngbìngle.)</item>
+        <item>(Māo de yǎnjīng hěn piàoliang.)</item>
+        <item>(Zhèxiē tí hěn nán.)</item>
+        <item>(Tāmen zhèngzài tī zúqiú.)</item>
+        <item>(Mèimei hěn huì tiàowǔ.)</item>
+        <item>(Wǒ bù kěyǐ huídá nǐ wèn de wèntí.)</item>
+        <item>(Zhè zhāng zhuōzi shì zhàngfū mǎi de.)</item>
+        <item>(Mén kāi zhene.)</item>
+        <item>(Wǒ zhēn de bù zhīdào zhè jiàn shìqíng.)</item>
+        <item>(Zuǒbiān nà jiā fànguǎn de yú hěn hào chī.)</item>
+        <item>(Ér zǐ chūqù wán`er le.)</item>
+        <item>(Yóuyǒng duì shēntǐ hěn hǎo.)</item>
+        <item>(Wǒ qùnián qù zhōngguó lǚyóu yīcì.)</item>
+        <item>(Nàgè diànyǐng hěn yǒuyìsi.)</item>
+        <item>(Tā zhǔnbèi qù kǎoshì.)</item>
+        <item>(Wǒ měitiān qí zìxíngchē qù xuéxiào.)</item>
+        <item>(Nǐ xiǎng hé shéi qù lǚyóu?)</item>
+        <item>(Jīchǎng lí zhè`er hěn yuǎn.)</item>
+        <item>(Yībǎi yuán kěyǐ mǎi shénme ne?)</item>
+        <item>(Bàba bù ràng wǒ qù wán er wǒ jiù bù qù.)</item>
+        <item>(Tā chángcháng duì wǒ xiào.)</item>
+        <item>(Wǒ yě xǐhuān zhège yánsè.)</item>
+        <item>(Nǐ xǐhuān shénme yùndòng?)</item>
+        <item>(Wǒ xǐhuān pǎobù.)</item>
+        <item>(Zuò zài wǒ pángbiān shì wǒ nán péngyǒu.)</item>
+        <item>(Tiān yīnle, yào xià yǔle.)</item>
+        <item>(Xīguā yī gōngjīn shí kuài.)</item>
+        <item>(Wǒ hěn lèile.)</item>
+        <item>(Wǒmen liǎng gèrén dōu shì xuéshēng.)</item>
+        <item>(Lùshàng yǒu hěnduō chē.)</item>
+        <item>(Gōngsī de gōngzuò hěn máng.)</item>
+        <item>(Nǚ`ér xǐhuān chī jīdàn hé hē niúnǎi.)</item>
+        <item>(Zhè cì kǎoshì tā kěnéng kǎo bùguò.)</item>
+        <item>(Ér zǐ wán dé hěn kuàile.)</item>
+        <item>(Kǎo wán shì wǒ hěn kuàilè.)</item>
+        <item>(Bàba yǒu bā gè bái bēizi.)</item>
+        <item>(Děng yīxià.)</item>
+        <item>(Nǐ bié qù yóuyǒngle.)</item>
+        <item>(Nàlǐ de tiānqì fēicháng rè.)</item>
+        <item>(Wǒ zuì xǐhuān hē kāfēi.)</item>
+        <item>(Tāmen yīqǐ qù jīchǎngle.)</item>
+        <item>(Wǒmen zhèngzài kàn diànshì.)</item>
+        <item>(Tā yǐjīng dào xuéxiàole.)</item>
+        <item>(Tā xià xīngqí jiù huíláile.)</item>
+        <item>( Wǒ yěyǒu yīkuài zhèyàng de shǒubiǎo.)</item>
+        <item>(Tā hái méi qǐchuáng.)</item>
+        <item>(Nǐ de zì xiě dé zhēn piàoliang.)</item>
+        <item>(Yīnwèi xià yǔ, suǒyǐ tā méi qù tī zúqiú.)</item>
+        <item>(Suīrán xià yǔ, dànshì tā qù tī zúqiú.)</item>
+        <item>(Tā 80 suìle, dànshì shēntǐ hěn hǎo.)</item>
+        <item>(Tā cóng zhōngguó huíláile.)</item>
+        <item>(Tā duì wǒ hěn hǎo.)</item>
+        <item>(Wǒ bǐ tā gāo.)</item>
+        <item>(Xiàng zuǒ zǒu.)</item>
+        <item>(Xuéxiào lí wǒjiā hěn jìn.)</item>
+        <item>(Xiànzài nǐ kěyǐ zǒule.)</item>
+        <item>(Wǒ yào xué yóuyǒng.)</item>
+        <item>(Míngtiān kěnéng xià yǔ.)</item>
+        <item>(Shū shì gēgē de.)</item>
+        <item>(Nàgè bēizi shì wǒ de.)</item>
+        <item>(Zhè jiàn yīfú shì zuì piányí de.)</item>
+        <item>(Wǒ mǎile yīxiē chī de.)</item>
+        <item>(Nà biān dǎ diànhuà de shì wǒ zhàngfū.)</item>
+        <item>(Nǐ zuò de duì.)</item>
+        <item>(Xiànzài kuài 10 diǎnle ba?)</item>
+        <item>(Wǒ mǎile yī běn shū.)</item>
+        <item>( Wǒ xuéguò hànyǔ.)</item>
+        <item>(Nǐ qù wènwèn tā.)</item>
+        <item>(Nǐ shì zhōngguó rén ba?)</item>
+        <item>(ā wèishéme méi lái?)</item>
+        <item>(Cóng zhè`er dào nà`er duō yuǎn?)</item>
+        <item>(Zhēn hào chī.)</item>
+        <item>(Jīntiān bǐ zuótiān lěng.)</item>
+        <item>(Tāmen zhèngzài dǎ lánqiú.)</item>
+        <item>(Tā mǎile yī jīn píngguǒ.)</item>
+        <item>(Wǒ kànguò zhège diànyǐng.)</item>
+        <item>(Huǒchē yào kāile.)</item>
+        <item>(Wàimiàn xiàzhe yǔ.)</item>
+    </string-array>
+
+    <string-array name="hsk3_cabpinyin">
+        <item>(āyí)</item>
+        <item>(a)</item>
+        <item>(ǎi)</item>
+        <item>(àihào)</item>
+        <item>(ānjìng)</item>
+        <item>(bǎ)</item>
+        <item>(bān)</item>
+        <item>(bān)</item>
+        <item>(bàn)</item>
+        <item>(bànfǎ)</item>
+        <item>(bàngōngshì)</item>
+        <item>(bāngmáng)</item>
+        <item>(bāo / bāozi)</item>
+        <item>(bǎo)</item>
+        <item>(běifāng)</item>
+        <item>(bèi / bèizi)</item>
+        <item>(bízi)</item>
+        <item>(bǐjiào)</item>
+        <item>(bǐsài)</item>
+        <item>(bìxū)</item>
+        <item>(biànhuà)</item>
+        <item>(biǎoshì)</item>
+        <item>(biǎoyǎn)</item>
+        <item>(biérén)</item>
+        <item>(bīnguǎn)</item>
+        <item>(bīngxiāng)</item>
+        <item>(cái)</item>
+        <item>(càidān)</item>
+        <item>(cānjiā)</item>
+        <item>(cǎo)</item>
+        <item>(céng)</item>
+        <item>(chà)</item>
+        <item>(chāoshì)</item>
+        <item>(chènshān)</item>
+        <item>(chéngjī)</item>
+        <item>(chéngshì)</item>
+        <item>(chídào)</item>
+        <item>(chūxiàn)</item>
+        <item>(chúfáng)</item>
+        <item>(chúle)</item>
+        <item>(chūn)</item>
+        <item>(cíyǔ)</item>
+        <item>(cōngmíng)</item>
+        <item>(dǎsǎo)</item>
+        <item>(dǎsuàn)</item>
+        <item>(dài)</item>
+        <item>(dānxīn)</item>
+        <item>(dàngāo)</item>
+        <item>(dāngrán)</item>
+        <item>(de)</item>
+        <item>(dēng)</item>
+        <item>(dī)</item>
+        <item>(dìfāng)</item>
+        <item>(dìtiě)</item>
+        <item>(dìtú)</item>
+        <item>(diàntī)</item>
+        <item>(diànzǐ yóujiàn)</item>
+        <item>(dōng)</item>
+        <item>(dōng)</item>
+        <item>(dòngwù)</item>
+        <item>(duǎn)</item>
+        <item>(duàn)</item>
+        <item>(duànliàn)</item>
+        <item>(duōme)</item>
+        <item>(è)</item>
+        <item>(érqiě)</item>
+        <item>(ěrduǒ)</item>
+        <item>(fāshāo)</item>
+        <item>(fāxiàn)</item>
+        <item>(fāngbiàn)</item>
+        <item>(fàng)</item>
+        <item>(fàngxīn)</item>
+        <item>(fēn)</item>
+        <item>(fùjìn)</item>
+        <item>(fùxí)</item>
+        <item>(gānjìng)</item>
+        <item>(gǎn)</item>
+        <item>(gǎnmào)</item>
+        <item>(gāngcái)</item>
+        <item>(gēn)</item>
+        <item>(gēnjù)</item>
+        <item>(gèng)</item>
+        <item>(gōngyuán)</item>
+        <item>(gùshì)</item>
+        <item>(guā fēng)</item>
+        <item>(guān)</item>
+        <item>(guānxì)</item>
+        <item>(guānxīn)</item>
+        <item>(guānyú)</item>
+        <item>(guójiā)</item>
+        <item>(guǒzhī)</item>
+        <item>(guòqù)</item>
+        <item>(háishì)</item>
+        <item>(hàipà)</item>
+        <item>(hé)</item>
+        <item>(hēibǎn)</item>
+        <item>(hùzhào)</item>
+        <item>(huā)</item>
+        <item>(huāyuán)</item>
+        <item>(huà)</item>
+        <item>(huài)</item>
+        <item>(huán)</item>
+        <item>(huánjìng)</item>
+        <item>(huàn)</item>
+        <item>(huáng)</item>
+        <item>(huánghé)</item>
+        <item>(huìyì)</item>
+        <item>(huòzhě)</item>
+        <item>(jīhū)</item>
+        <item>(jīhuì)</item>
+        <item>(jí)</item>
+        <item>(jìdé)</item>
+        <item>(jìjié)</item>
+        <item>(jiǎnchá)</item>
+        <item>(jiǎndān)</item>
+        <item>(jiànkāng)</item>
+        <item>(jiànmiàn)</item>
+        <item>(jiǎng)</item>
+        <item>(jiào)</item>
+        <item>(jiǎo)</item>
+        <item>(jiǎo)</item>
+        <item>(jiē)</item>
+        <item>(jiēdào)</item>
+        <item>(jiéhūn)</item>
+        <item>(jiéshù)</item>
+        <item>(jiémù)</item>
+        <item>(jiérì)</item>
+        <item>(jiějué)</item>
+        <item>(jiè)</item>
+        <item>(jǐngchá)</item>
+        <item>(jīngguò)</item>
+        <item>(jīnglì)</item>
+        <item>(jiǔ)</item>
+        <item>(jiù)</item>
+        <item>(jǔxíng)</item>
+        <item>(jùzi)</item>
+        <item>(juédìng)</item>
+        <item>(kě)</item>
+        <item>(kě`ài)</item>
+        <item>(kè)</item>
+        <item>(kèrén)</item>
+        <item>(kòngtiáo)</item>
+        <item>(kǒu)</item>
+        <item>(kū)</item>
+        <item>(kùzi)</item>
+        <item>(kuàizi)</item>
+        <item>(lǎo)</item>
+        <item>(líkāi)</item>
+        <item>(lǐwù)</item>
+        <item>(lìshǐ)</item>
+        <item>(liǎn)</item>
+        <item>(liànxí)</item>
+        <item>(liàng)</item>
+        <item>(liǎojiě)</item>
+        <item>(línjū)</item>
+        <item>(lóu)</item>
+        <item>(lǜ)</item>
+        <item>(mǎ)</item>
+        <item>(mǎshàng)</item>
+        <item>(mǎnyì)</item>
+        <item>(màozi)</item>
+        <item>(mǐ)</item>
+        <item>(miànbāo)</item>
+        <item>(miàntiáo)</item>
+        <item>(míngbái)</item>
+        <item>(ná)</item>
+        <item>(nǎinai)</item>
+        <item>(nánfāng)</item>
+        <item>(nán)</item>
+        <item>(nánguò)</item>
+        <item>(niánjí)</item>
+        <item>(niánqīng)</item>
+        <item>(niǎo)</item>
+        <item>(nǔlì)</item>
+        <item>(páshān)</item>
+        <item>(pánzi)</item>
+        <item>(pàng)</item>
+        <item>(píjiǔ)</item>
+        <item>(pútáo)</item>
+        <item>(pǔtōnghuà)</item>
+        <item>(qíshí)</item>
+        <item>(qítā)</item>
+        <item>(qí)</item>
+        <item>(qíguài)</item>
+        <item>(qiānbǐ)</item>
+        <item>(qīngchǔ)</item>
+        <item>(qiū)</item>
+        <item>(qúnzi)</item>
+        <item>(ránhòu)</item>
+        <item>(rèqíng)</item>
+        <item>(rènwéi)</item>
+        <item>(rènzhēn)</item>
+        <item>(róngyì)</item>
+        <item>(rúguǒ)</item>
+        <item>(sǎn)</item>
+        <item>(shàngwǎng)</item>
+        <item>(shēngqì)</item>
+        <item>(shēngyīn)</item>
+        <item>(shǐ)</item>
+        <item>(shìjiè)</item>
+        <item>(shòu)</item>
+        <item>(shūfú)</item>
+        <item>(shūshu)</item>
+        <item>(shù)</item>
+        <item>(shùxué)</item>
+        <item>(shuāyá)</item>
+        <item>(shuāng)</item>
+        <item>(shuǐpíng)</item>
+        <item>(sījī)</item>
+        <item>(suīrán)</item>
+        <item>(tàiyáng)</item>
+        <item>(tèbié)</item>
+        <item>(téng)</item>
+        <item>(tígāo)</item>
+        <item>(tǐyù)</item>
+        <item>(tián)</item>
+        <item>(tiáo)</item>
+        <item>(tóngshì)</item>
+        <item>(tóngyì)</item>
+        <item>(tóufǎ)</item>
+        <item>(túrán)</item>
+        <item>(túshū guǎn)</item>
+        <item>(tuǐ)</item>
+        <item>(wánchéng)</item>
+        <item>(wǎn)</item>
+        <item>(wàn)</item>
+        <item>(wàngjì)</item>
+        <item>(wèi， wèile)</item>
+        <item>(wèi)</item>
+        <item>(wénhuà)</item>
+        <item>(xī)</item>
+        <item>(xíguàn)</item>
+        <item>(xǐshǒujiān)</item>
+        <item>(xǐzǎo)</item>
+        <item>(xià)</item>
+        <item>(xiān)</item>
+        <item>(xiāngjiāo)</item>
+        <item>(xiāngtóng)</item>
+        <item>(xiāngxìn)</item>
+        <item>(xiàng)</item>
+        <item>(xiǎoxīn)</item>
+        <item>(xiàozhǎng)</item>
+        <item>(xié)</item>
+        <item>(xīnwén)</item>
+        <item>(xīnxiān)</item>
+        <item>(xìn)</item>
+        <item>(xínglǐ xiāng)</item>
+        <item>(xìngqù)</item>
+        <item>(xióngmāo)</item>
+        <item>(xūyào)</item>
+        <item>(xuǎnzé)</item>
+        <item>(yǎnjìng)</item>
+        <item>(yāoqiú)</item>
+        <item>(yéyé)</item>
+        <item>(yīdìng)</item>
+        <item>(yīgòng)</item>
+        <item>(yīhuǐ`er)</item>
+        <item>(yīyàng)</item>
+        <item>(yǐhòu)</item>
+        <item>(yǐqián)</item>
+        <item>(yǐwéi)</item>
+        <item>(yībān)</item>
+        <item>(yībiān)</item>
+        <item>(yīzhí)</item>
+        <item>(yīnyuè)</item>
+        <item>(yínháng)</item>
+        <item>(yīnggāi)</item>
+        <item>(yǐngxiǎng)</item>
+        <item>(yòng)</item>
+        <item>(yóuxì)</item>
+        <item>(yǒumíng)</item>
+        <item>(yòu)</item>
+        <item>(yù dào)</item>
+        <item>(yuànyì)</item>
+        <item>(yuèliàng)</item>
+        <item>(yuè)</item>
+        <item>(yún)</item>
+        <item>(zhàn)</item>
+        <item>(zhāojí)</item>
+        <item>(zhàogù)</item>
+        <item>(zhàopiàn)</item>
+        <item>(zhàoxiàngjī)</item>
+        <item>(zhǐ)</item>
+        <item>(zhōngjiān)</item>
+        <item>(zhōngyú)</item>
+        <item>(zhǒng)</item>
+        <item>(zhòngyào)</item>
+        <item>(zhōumò)</item>
+        <item>(zhǔyào)</item>
+        <item>(zhù)</item>
+        <item>(zhùyì)</item>
+        <item>(zìdiǎn)</item>
+        <item>(zìjǐ)</item>
+        <item>(zǒng shì)</item>
+        <item>(zuìjìn)</item>
+        <item>(zuòyè)</item>
+        <item>(zuòyòng)</item>
+    </string-array>
+    <string-array name="hsk3_juzipinyin">
+        <item>(Nǐ shì nǎ`er guórén?)</item>
+        <item>(Zhù nǐ shēngrì kuài.)</item>
+        <item>(Tā shì wǒ āyí.)</item>
+        <item>(Shì a, wǒ shì lǎowō rén a.)</item>
+        <item>(Wǒ shì bān shàng zuì ǎi de xuéshēng.)</item>
+        <item>( Tā de àihào shì chànggē.)</item>
+        <item>(Bàngōngshì lǐ hěn ānjìng.)</item>
+        <item>(Āyí bǎ bèizi ná qù xǐ.)</item>
+        <item>(Wǒ bān qù běijīng zhù.)</item>
+        <item>(Wǒ chī bàn gè bāozi jiù bǎole.)</item>
+        <item>(Méiyǒu bànfǎ, jiù yào xiǎng bànfǎ.)</item>
+        <item>(Jiějiě bāngmáng māmā zuò cài.)</item>
+        <item>(Wǒ hěn gāoxìng kěyǐ bāng zǔ biérén.)</item>
+        <item>(Zhè shì wǒ de shūbāo.)</item>
+        <item>(Wǒ chī bǎole.)</item>
+        <item>(Wǒmen de lǎoshī shì běifāng rén.)</item>
+        <item>(Dìdì bèi bàba dǎ.)</item>
+        <item>(Nǐ hé xiǎo lǐ, shéi bǐjiào gāo?)</item>
+        <item>(Wǒ xiǎng cānjiā chànggē bǐsài.)</item>
+        <item>(Wǒ bìxū huíqù bàngōngshì.)</item>
+        <item>(Tiānqì biànhuà hěn dà.)</item>
+        <item>(Bàba dǎ dìdì, bù biǎoshì bàba bù ài dìdì.)</item>
+        <item>(Bùyào kāi biérén de bīngxiāng.)</item>
+        <item>(Xǐshǒu hòu, cái chīfàn.)</item>
+        <item>(Wǒ xuéxí bǐ biérén chà.)</item>
+        <item>(Zài bīng guān zhōuwéi de zǎo hěn zhǎng.)</item>
+        <item>( Bàba de bàngōngshì zài dì sān céng.)</item>
+        <item>(Wǒ dǎsuàn chuān chènshān qù kàn diànyǐng.)</item>
+        <item>(Wǒ qù chāoshì mǎi dōngxī.)</item>
+        <item>(Wànxiàng shì dà chéngshì.)</item>
+        <item>(Wǒ de chéngjī hěn hǎo.)</item>
+        <item>(Duìbùqǐ, wǒ chídàole.)</item>
+        <item>(Wǒ děngle sān gè xiǎoshí, tā dōu méi chūxiàn.)</item>
+        <item>(Chūntiān de tiānqì hěn hǎo.)</item>
+        <item>(Wǒjiā de chúfáng hěn dà.)</item>
+        <item>(Sān jí yǒu sānbǎi gè cíyǔ.)</item>
+        <item>(Tā dí gēgē hěn cōngmíng, tā yě bù chā.)</item>
+        <item>(Zuò dìtiě hěn kuài.)</item>
+        <item>(Nǐ dǎ cuòle diànhuà.)</item>
+        <item>(Wǒ dǎsuàn míngtiān dǎsǎo fángjiān.)</item>
+        <item>(Wǒ hěn ǎi, dàn wǒ hěn cōngmíng.)</item>
+        <item>(Tiān hēile, wǒ bǎ dēng dǎkāi.)</item>
+        <item>(Zhège dìfāng hěn dī.)</item>
+        <item>(Diàntī zài bīng guān de dōngbian.)</item>
+        <item>(Wǒ jì diànzǐ yóujiàn gěi tā.)</item>
+        <item>(Cōngmíng de rén chéngjī hěn hǎo.)</item>
+        <item>(Dōngtiān dàole.)</item>
+        <item>(Dòngwùyuán yǒu hěnduō dòngwù.)</item>
+        <item>(Zhè jiàn chènshān yǒudiǎn er duǎn.)</item>
+        <item>(Zhè duàn shíjiān wǒ hěn máng.)</item>
+        <item>(Dìdì měitiān zǎoshang dōu qù duànliàn shèng tǐ.)</item>
+        <item>(Tā duì wǒ xiào, wǒ hěn kāixīn.)</item>
+        <item>(Wǒ fāxiàn zǒu zhè tiáo lù fēicháng fāngbiàn.)</item>
+        <item>(Xiǎo gǒu de ěrduǒ hěn piàoliang.)</item>
+        <item>(Bǎ nǐ dōngxī fàng zài zhèlǐ.)</item>
+        <item>(Nǐ fāshāole, érqiě gǎnmào yào chī yào.)</item>
+        <item>(Wǒ bù gǎn wǎnshàng yīgè rén chūqù.)</item>
+        <item>(Kǎoshì chéngjī chúle, wǒ déliǎo yībǎi fēn.)</item>
+        <item>(Gēnjù fúwùyuán shuō, zuò chūzū chē shí fēnzhōng jiù dào jīchǎngle.)</item>
+        <item>(Guānyú gōngzuò, wǒmen yào zuò hǎo tā.)</item>
+        <item>(Wǒ háishì xiān huí jiā ba.)</item>
+        <item>(Guā fēngle, yào xià yǔle.)</item>
+        <item>(Guǒzhī hěn hǎo hē.)</item>
+        <item>(Wǒ xǐhuān huà hóng huā.)</item>
+        <item>(Zhèlǐ de huánjìng hěn hǎo, yǒu huā yǒu hé, zhēn piàoliang.)</item>
+        <item>(Nǐ jǐ hào huí jiā.)</item>
+        <item>(Wǒmen xuéxiào hái yòng hēibǎn.)</item>
+        <item>(Míngtiān nǐ bìxū cānjiā huìyì.)</item>
+        <item>(Māmā mà wǒ yīnwèi hěn guānxīn wǒ.)</item>
+        <item>(Wǒmen de guānxì yīzhí hěn hǎo.)</item>
+        <item>(Guòqù shí nián, lǎowō yǒu hěn dà de biànhuà.)</item>
+        <item>(Lǎowō yī nián yǒu liǎng gè jìjié.)</item>
+        <item>(Wǒ yéyé hěn jiànkāng.)</item>
+        <item>(Wǒ xǐhuān kàn guānyú dòngwù de jiémù.)</item>
+        <item>(Jīntiān shì shénme jiérì, wèishéme yǒu hěnduō rén?)</item>
+        <item>(Bàba jīngcháng qù jiē mèimei huí jiā.)</item>
+        <item>(Mèimei hěn kě`ài.)</item>
+        <item>(Zhè liàng zìxíngchē hěn jiùle.)</item>
+        <item>(Wǒ děng tā hěnjiǔle.)</item>
+        <item>(Wǒmen shì dì yī cì jiànmiàn.)</item>
+        <item>(Gēgē xiǎng jiéhūnle.)</item>
+        <item>(Jīnglǐ zhèngzài kāihuì.)</item>
+        <item>(Lǎoshī jīngguò wǒjiā.)</item>
+        <item>(Wǒ juédé zhè jùzi hěn yǒuyìsi.)</item>
+        <item>(Hái chà yīkè jiémù jiù jiéshùle.)</item>
+        <item>(Zhè cì kǎoshì wǒ juédé hěn jiǎndān.)</item>
+        <item>(Wǒmen yào jīngcháng jiǎnchá shēntǐ.)</item>
+        <item>(Wǒ kěle, yào hē shuǐ.)</item>
+        <item>(Zhèlǐ de jiēdào hěn dà.)</item>
+        <item>(Wǒ bù xǐhuān lìshǐ kè.)</item>
+        <item>(Kèrén hěn mǎnyì wǒmen mài de màozi.)</item>
+        <item>(Qǐng bǎ kòngtiáo dǎkāi.)</item>
+        <item>(Wǒ líkāi wànxiàng shí niánle.)</item>
+        <item>(Wǒ měitiān liànxí xiě hànzì.)</item>
+        <item>(Wǒ de hùzhào shì lǜsè de.)</item>
+        <item>(Wǒ hé línjū guānxì hěn hǎo.)</item>
+        <item>(Zhōngguó rén yòng kuàizi chīfàn.)</item>
+        <item>(Wǒ lèile, wǒ qù xǐ xǐliǎn.)</item>
+        <item>(Tā hěn nánguò, tā kūle.)</item>
+        <item>(Nǐ chuān lán sè de yīfú kàn qǐlái hěn piàoliang.)</item>
+        <item>(Bàba bù liǎojiě wǒ.)</item>
+        <item>(Nǐ děng wǒ yīxià wǒ mǎshàng qù.)</item>
+        <item>(Mǐfàn hěn guì.)</item>
+        <item>(Miànbāo hěn hào chī.)</item>
+        <item>(Wǒ míngtiān qù páshān.)</item>
+        <item>(Jiějiě ná qiánbāo zǒule.)</item>
+        <item>(Zài lǎowō pútáo hěn guì.)</item>
+        <item>(Qíshí hànyǔ bù nán, xiě hànzì cái nán.)</item>
+        <item>(Niánqīng rén xǐhuān hē píjiǔ.)</item>
+        <item>(Niǎo de shēngyīn hěn hǎotīng.)</item>
+        <item>(Tā de pǔtōnghuà hěn bùcuò.)</item>
+        <item>(Qiānbǐ hěn piányí.)</item>
+        <item>(Dìdì hěn pàng, dàn tā hěn piàoliang.)</item>
+        <item>(Wǒ péngyǒu shìgè hěn qíguài de rén.)</item>
+        <item>(Chúle nǐ, qítā dōu zài xuéxiàole.)</item>
+        <item>(Wǒ bù qīngchǔ lǎoshī shuō shénme.)</item>
+        <item>(Qiūtiān de tiānqì hěn hǎo.)</item>
+        <item>(Wǒ yǒudiǎn er bú shūfú.)</item>
+        <item>(Tā mǎi de qúnzi hěn piàoliang.)</item>
+        <item>(Āyí hěn rèqíng, dàjiā dōu xǐhuān tā.)</item>
+        <item>(Wǒ rènwéi tā shìgè hěn rènzhēn xuéxí de rén.)</item>
+        <item>(Tā chī hěn shǎo, suǒyǐ tā hěn shòu.)</item>
+        <item>(Shùxué hěn nán.)</item>
+        <item>(Shūshu de shāngdiàn mài shǒujī hé shǒubiǎo.)</item>
+        <item>(Shìjiè shàng yǒu jǐ gèrén?)</item>
+        <item>(Shēngbìng de rén hěn róngyì shēngqì.)</item>
+        <item>(Jiějiě xíguàn shàngwǎng mǎi dōngxī.)</item>
+        <item>(Wǒ měitiān shuāyá sāncì.)</item>
+        <item>(Tā de rèqíng shǐ wǒ juédé hěn shūfú.)</item>
+        <item>(Xiān hē shuǐ, ránhòu zài chīfàn.)</item>
+        <item>(Shù shàng yǒu hěnduō shuǐguǒ.)</item>
+        <item>(Wǒmen měi gèrén dōu yǒu yīshuāng, liǎng tiáo tuǐ.)</item>
+        <item>(áng hěn tián, bù kěyǐ chī duō.)</item>
+        <item>(Hěnduō xuéshēng dōu xǐhuān tǐyù kè.)</item>
+        <item>(Māmā tóngyì wǒ xuéxí tiàowǔle.)</item>
+        <item>(Wǒ túrán xiǎngqǐ míngtiān yǒu kǎoshì.)</item>
+        <item>(Wǒ měitiān chī yī wǎn fàn.)</item>
+        <item>(Wǒ juédé tóu hěn téng.)</item>
+        <item>(Qǐchuáng hòu bié wàngjì hē shuǐ.)</item>
+        <item>(Wǒ xiǎng shàng xǐshǒujiān.)</item>
+        <item>(Lǎoshī chángcháng shuō “yǒu wèntí ma?“.)</item>
+        <item>(Xiàtiān tiānqì hěn rè.)</item>
+        <item>(Xióngmāo hěn pàng dànshì yě hěn kě`ài.)</item>
+        <item>(Wǒmen hěn hàipà xiàozhǎng.)</item>
+        <item>(Wǒ xiāngxìn nǐ dehuà.)</item>
+        <item>(Bàba xǐhuān kàn xīnwén.)</item>
+        <item>(Kāichē yào xiǎoxīn.)</item>
+        <item>(Xínglǐ xiāng li yǒu hěnduō dōngxī.)</item>
+        <item>(Xiāngjiāo hěn xīnxiān.)</item>
+        <item>(Wǒ de xìngqù shì dàn lánqiú.)</item>
+        <item>(Xià yǔle wǒ xūyào yǔsǎn.)</item>
+        <item>(Zhè shuāng xiézi hěn guì.)</item>
+        <item>(Wǒ yǒu liǎng gè xiāngtóng de xínglǐ xiāng.)</item>
+        <item>(Xīnwén shuō zhège xínghuì xià dàyǔ.)</item>
+        <item>(Xióngmāo xiàng wǒ xiào.)</item>
+        <item>(Xuě de yánsè shì báisè de.)</item>
+        <item>(Wǒ de yǎnjīng bù hǎo, xūyào dài yǎnjìng.)</item>
+        <item>(Yībān shàng yángròu bǐ niúròu guì.)</item>
+        <item>(Lǎoshī yāoqiú wǒmen chuān xiàofú.)</item>
+        <item>(Yéyé yǐjīng lǎole, wǒmen yào zhàogù tā.)</item>
+        <item>(Tīng yīnyuè yīzhí shì wǒ de xìngqù.)</item>
+        <item>(Yǐqián wǒ yǐwéi zuò yīshēng hěn róngyì.)</item>
+        <item>( Wǒ yībiān tīng yīnyuè yībiān wán yóuxì.)</item>
+        <item>(Tiānshàng de yuèliàng yòu dà yòu yuán.)</item>
+        <item>(Wǒ bù dǒng zhège zì de yìsi.)</item>
+        <item>(Wǒ zài yínháng gōngzuò.)</item>
+        <item>(Xiǎomíng yuànyì jiào wǒ hànyǔ.)</item>
+        <item>(Nǐ yīnggāi gàosù tā bùxiǎng hé tā qù kàn dìngyǐng.)</item>
+        <item>(Hǎo de yīshēng duì tā de bìngrén yǐngxiǎng hěn dà.)</item>
+        <item>(Shù shàng de yèzi hěnduō.)</item>
+        <item>(Yéyé shì yīgè hěn yǒumíng de yīnyuè jiā.)</item>
+        <item>(Nǐ yīzhí wǎng qián zǒu, jiù kàn dào yínháng zài nǐ de yòubiān.)</item>
+        <item>(Zhège cài zhǐshì yībān, bùshì hěn hào chī.)</item>
+        <item>(Wǒ yuànyì bāngzhù nǐ.)</item>
+        <item>(Wǒ xǐhuān de yùndòng shì pǎobù.)</item>
+        <item>(Zhège zhàoxiàngjī zěnme yàng?)</item>
+        <item>(Wǒ jiào wáng fāng, xìng wáng, míng fāng.)</item>
+        <item>(Wǒ xiǎng zhège zhōumò qí zìxíngchē qù wán er.)</item>
+        <item>(Zài zhuōzi zhōngjiān shì xiǎo wáng de shūbāo.)</item>
+        <item>(Nǐ kěyǐ zài zìdiǎn zhǎo chū zhège zì de yìsi.)</item>
+        <item>(Nǐ xué hànyǔ de zhǔyào yuányīn shì shénme?)</item>
+        <item>(Zuòyè yǒu shé me zuòyòng?)</item>
+        <item>(Tā pà huì chídào, suǒyǐ tā hěn zhāojí.)</item>
+        <item>(Wǒ zhōngyú kěyǐ xiūxíle.)</item>
+        <item>(Zhōumòliǎo hǎohǎo xiūxí ba.)</item>
+    </string-array>
+
+    <string-array name="hsk4_cabpinyin">
+        <item>(àiqíng)</item>
+        <item>(ānpái)</item>
+        <item>(ānquán)</item>
+        <item>(àn)</item>
+        <item>(ànshí)</item>
+        <item>(ànzhào)</item>
+        <item>(bǎohù)</item>
+        <item>(bǎozhèng)</item>
+        <item>(bào)</item>
+        <item>(bàoqiàn)</item>
+        <item>(bàodào)</item>
+        <item>(bàomíng)</item>
+        <item>(bèi)</item>
+        <item>(běnlái)</item>
+        <item>(bèn)</item>
+        <item>(bǐjìběn)</item>
+        <item>(bìyè)</item>
+        <item>(biàn)</item>
+        <item>(biāozhǔn)</item>
+        <item>(biǎodá)</item>
+        <item>(biǎogé)</item>
+        <item>(biǎoyáng)</item>
+        <item>(bǐnggān)</item>
+        <item>(bìngqiě)</item>
+        <item>(bóshì)</item>
+        <item>(bùdàn)</item>
+        <item>(bùguò)</item>
+        <item>(bùdé bù)</item>
+        <item>(bùguǎn)</item>
+        <item>(bùjǐn)</item>
+        <item>(bùfèn)</item>
+        <item>(cā)</item>
+        <item>(cāi)</item>
+        <item>(cáiliào)</item>
+        <item>(cānguān)</item>
+        <item>(chàbùduō)</item>
+        <item>(cháng)</item>
+        <item>(chángchéng)</item>
+        <item>(chángjiāng)</item>
+        <item>(chǎng)</item>
+        <item>(chāoguò)</item>
+        <item>(chǎo)</item>
+        <item>(chénggōng)</item>
+        <item>(chéngshú)</item>
+        <item>(chéngwéi)</item>
+        <item>(chéngshí)</item>
+        <item>(chéngshì)</item>
+        <item>(chéngzuò)</item>
+        <item>(chījīng)</item>
+        <item>(chóngxīn)</item>
+        <item>(chōuyān)</item>
+        <item>(chūchāi)</item>
+        <item>(chūfā)</item>
+        <item>(chūshēng)</item>
+        <item>(chuánzhēn)</item>
+        <item>(chuānghù)</item>
+        <item>(cídiǎn)</item>
+        <item>(cónglái)</item>
+        <item>(cūxīn)</item>
+        <item>(dá`àn)</item>
+        <item>(dǎbàn)</item>
+        <item>(dǎrǎo)</item>
+        <item>(dǎyìn)</item>
+        <item>(dǎzhé)</item>
+        <item>(dǎzhēn)</item>
+        <item>(dàgài)</item>
+        <item>(dàshǐ guǎn)</item>
+        <item>(dàyuē)</item>
+        <item>(dài)</item>
+        <item>(dàibiǎo)</item>
+        <item>(dàitì)</item>
+        <item>(dàfū)</item>
+        <item>(dāng)</item>
+        <item>(dāngdì)</item>
+        <item>(dāngshí)</item>
+        <item>(dāo)</item>
+        <item>(dǎoyóu)</item>
+        <item>(dàochù)</item>
+        <item>(dàodǐ)</item>
+        <item>(dàoqiàn)</item>
+        <item>(déyì)</item>
+        <item>(dé)</item>
+        <item>(dǐ)</item>
+        <item>(dìqiú)</item>
+        <item>(dìzhǐ)</item>
+        <item>(diào)</item>
+        <item>(diàochá)</item>
+        <item>(diū)</item>
+        <item>(dòngzuò)</item>
+        <item>(dǔchē)</item>
+        <item>(dùzi)</item>
+        <item>(duàn)</item>
+        <item>(duìhuà)</item>
+        <item>(duìmiàn)</item>
+        <item>(dùn)</item>
+        <item>(duǒ)</item>
+        <item>(ér)</item>
+        <item>(értóng)</item>
+        <item>(fā)</item>
+        <item>(fāshēng)</item>
+        <item>(fāzhǎn)</item>
+        <item>(fǎlǜ)</item>
+        <item>(fānyì)</item>
+        <item>(fánnǎo)</item>
+        <item>(fǎnduì)</item>
+        <item>(fǎnyìng)</item>
+        <item>(fànwéi)</item>
+        <item>(fāngfǎ)</item>
+        <item>(fāngmiàn)</item>
+        <item>(fāngxiàng)</item>
+        <item>(fǎngwèn)</item>
+        <item>(fàngqì)</item>
+        <item>(fàng shǔjià)</item>
+        <item>(fēn zhī)</item>
+        <item>(fèn)</item>
+        <item>(fēngfù)</item>
+        <item>(fēngjǐng)</item>
+        <item>(fǒuzé)</item>
+        <item>(fúhé)</item>
+        <item>(fù)</item>
+        <item>(fùqīn)</item>
+        <item>(fùyìn)</item>
+        <item>(fùzá)</item>
+        <item>(fùzé)</item>
+        <item>(gǎibiàn)</item>
+        <item>(gānbēi)</item>
+        <item>(gānzào)</item>
+        <item>(gǎndòng)</item>
+        <item>(gǎnjué)</item>
+        <item>(gǎnqíng)</item>
+        <item>(gǎnxiè)</item>
+        <item>(gàn)</item>
+        <item>(gānggāng)</item>
+        <item>(gāojí)</item>
+        <item>(gè)</item>
+        <item>(gèzi)</item>
+        <item>(gōnglǐ)</item>
+        <item>(gōngjù)</item>
+        <item>(gōngzī)</item>
+        <item>(gòngtóng)</item>
+        <item>(gòu)</item>
+        <item>(gòuwù)</item>
+        <item>(gūdān)</item>
+        <item>(gūjì)</item>
+        <item>(gǔlì)</item>
+        <item>(gǔzhǎng)</item>
+        <item>(gùkè)</item>
+        <item>(gùyì)</item>
+        <item>(guà)</item>
+        <item>(guānjiàn)</item>
+        <item>(guānzhòng)</item>
+        <item>(guǎnlǐ)</item>
+        <item>(guāng)</item>
+        <item>(guǎngbò)</item>
+        <item>(guǎnggào)</item>
+        <item>(guàng)</item>
+        <item>(guīdìng)</item>
+        <item>(guójì)</item>
+        <item>(guǒrán)</item>
+        <item>(guòchéng)</item>
+        <item>(hǎiyáng)</item>
+        <item>(hàixiū)</item>
+        <item>(hánjià)</item>
+        <item>(hàn)</item>
+        <item>(hángbān)</item>
+        <item>(hǎochù)</item>
+        <item>(hǎoxiàng)</item>
+        <item>(hàomǎ)</item>
+        <item>(hégé)</item>
+        <item>(héshì)</item>
+        <item>(hézi)</item>
+        <item>(hóuzi)</item>
+        <item>(hòu)</item>
+        <item>(hòuhuǐ)</item>
+        <item>(hòulái)</item>
+        <item>(hūrán)</item>
+        <item>(hùshì)</item>
+        <item>(hùxiāng)</item>
+        <item>(huáiyí)</item>
+        <item>(huíyì)</item>
+        <item>(huódòng)</item>
+        <item>(huópō)</item>
+        <item>(huǒ)</item>
+        <item>(huòdé)</item>
+        <item>(jīchǔ)</item>
+        <item>(jīdòng)</item>
+        <item>(jījí)</item>
+        <item>(jīlěi)</item>
+        <item>(jíqí)</item>
+        <item>(jíhé)</item>
+        <item>(jíshí)</item>
+        <item>(jíshǐ)</item>
+        <item>(jì)</item>
+        <item>(jìzhě)</item>
+        <item>(jìhuà)</item>
+        <item>(jìrán)</item>
+        <item>(jìshù)</item>
+        <item>(jìxù)</item>
+        <item>(jiājù)</item>
+        <item>(jiābān)</item>
+        <item>(jiāyóu zhàn)</item>
+        <item>(jiǎ)</item>
+        <item>(jiàgé)</item>
+        <item>(jiānchí)</item>
+        <item>(jiǎnféi)</item>
+        <item>(jiǎnshǎo)</item>
+        <item>(jiānglái)</item>
+        <item>(jiǎngjīn)</item>
+        <item>(jiàngdī)</item>
+        <item>(jiāo)</item>
+        <item>(jiāoliú)</item>
+        <item>(jiāotōng)</item>
+        <item>(jiāo`ào)</item>
+        <item>(jiǎozi)</item>
+        <item>(jiàoshòu)</item>
+        <item>(jiàoyù)</item>
+        <item>(jiēshòu)</item>
+        <item>(jiéguǒ)</item>
+        <item>(jiéhūn)</item>
+        <item>(jiéyuē)</item>
+        <item>(jiěshì)</item>
+        <item>(jǐnguǎn)</item>
+        <item>(jǐnzhāng)</item>
+        <item>(jìnxíng)</item>
+        <item>(jìnzhǐ)</item>
+        <item>(jīngcǎi)</item>
+        <item>(jīngshén)</item>
+        <item>(jīngjì)</item>
+        <item>(jīnglì)</item>
+        <item>(jīngyàn)</item>
+        <item>(jīngjù)</item>
+        <item>(jǐngchá)</item>
+        <item>(jìngrán)</item>
+        <item>(jìngzhēng)</item>
+        <item>(jìngzi)</item>
+        <item>(jiùjìng)</item>
+        <item>(jǔbàn)</item>
+        <item>(jùjué)</item>
+        <item>(jùlí)</item>
+        <item>(kāiwánxiào)</item>
+        <item>(kànfǎ)</item>
+        <item>(kǎolǜ)</item>
+        <item>(kē)</item>
+        <item>(kēxué)</item>
+        <item>(késòu)</item>
+        <item>(kělián)</item>
+        <item>(kěshì)</item>
+        <item>(kěxí)</item>
+        <item>(kěndìng)</item>
+        <item>(kōngqì)</item>
+        <item>(kǒngpà)</item>
+        <item>(kǔ)</item>
+        <item>(kuān)</item>
+        <item>(kùn)</item>
+        <item>(kùnnán)</item>
+        <item>(kuòdà)</item>
+        <item>(lā)</item>
+        <item>(lājītǒng)</item>
+        <item>(là)</item>
+        <item>(láibují)</item>
+        <item>(lǎn)</item>
+        <item>(làngmàn)</item>
+        <item>(lǎohǔ)</item>
+        <item>(lěngjìng)</item>
+        <item>(lǐfǎ)</item>
+        <item>(lǐjiě)</item>
+        <item>(lǐxiǎng)</item>
+        <item>(lǐmào)</item>
+        <item>(lìhài)</item>
+        <item>(lìqì)</item>
+        <item>(lìrú)</item>
+        <item>(liǎ)</item>
+        <item>(lián)</item>
+        <item>(liánxì)</item>
+        <item>(liángkuai)</item>
+        <item>(liàng)</item>
+        <item>(liáotiān)</item>
+        <item>(lìngwài)</item>
+        <item>(liú)</item>
+        <item>(liúxué)</item>
+        <item>(liúlèi)</item>
+        <item>(liúlì)</item>
+        <item>(liúxíng)</item>
+        <item>(luàn)</item>
+        <item>(lǜshī)</item>
+        <item>(máfan)</item>
+        <item>(mǎhǔ)</item>
+        <item>(mǎn)</item>
+        <item>(máojīn)</item>
+        <item>(mèng)</item>
+        <item>(mìmǎ)</item>
+        <item>(miǎnfèi)</item>
+        <item>(miàntiáo)</item>
+        <item>(mínzú)</item>
+        <item>(mǔqīn)</item>
+        <item>(mùdì)</item>
+        <item>(nàixīn)</item>
+        <item>(nándào)</item>
+        <item>(nánshòu)</item>
+        <item>(nèi)</item>
+        <item>(nèiróng)</item>
+        <item>(nénglì)</item>
+        <item>(niánlíng)</item>
+        <item>(nóngcūn)</item>
+        <item>(nòng)</item>
+        <item>(nuǎnhuo)</item>
+        <item>(ǒu`ěr)</item>
+        <item>(páiliè)</item>
+        <item>(pànduàn)</item>
+        <item>(péi)</item>
+        <item>(pīpíng)</item>
+        <item>(pífū)</item>
+        <item>(píqì)</item>
+        <item>(piān)</item>
+        <item>(piàn)</item>
+        <item>(pīngpāng qiú)</item>
+        <item>(píngshí)</item>
+        <item>(píngzi)</item>
+        <item>(pò)</item>
+        <item>(pǔbiàn)</item>
+        <item>(qícì)</item>
+        <item>(qízhōng)</item>
+        <item>(qǐfēi)</item>
+        <item>(qǐlái)</item>
+        <item>(qìhòu)</item>
+        <item>(qiān wàn)</item>
+        <item>(qiānzh)èng</item>
+        <item>(qiáng)</item>
+        <item>(qiāo)</item>
+        <item>(qiáo)</item>
+        <item>(qiǎokèlì)</item>
+        <item>(qīnqī)</item>
+        <item>(qīng)</item>
+        <item>(qīngsōng)</item>
+        <item>(qíngkuàng)</item>
+        <item>(qǐngjià)</item>
+        <item>(qǐngkè)</item>
+        <item>(qióng)</item>
+        <item>(qūbié)</item>
+        <item>(qǔ)</item>
+        <item>(quánbù)</item>
+        <item>(quēdiǎn)</item>
+        <item>(quēshǎo)</item>
+        <item>(què)</item>
+        <item>(quèshí)</item>
+        <item>(qún)</item>
+        <item>(rán`ér)</item>
+        <item>(rènào)</item>
+        <item>(rénmínbì)</item>
+        <item>(rènhé)</item>
+        <item>(rènwù)</item>
+        <item>(rēng)</item>
+        <item>(réngrán)</item>
+        <item>(rìjì)</item>
+        <item>(rùkǒu)</item>
+        <item>(ruǎn)</item>
+        <item>(sànbù)</item>
+        <item>(sēnlín)</item>
+        <item>(shāfā)</item>
+        <item>(shāngliáng)</item>
+        <item>(shāngxīn)</item>
+        <item>(shāowéi)</item>
+        <item>(shèhuì)</item>
+        <item>(shēn)</item>
+        <item>(shēnqǐng)</item>
+        <item>(shènzhì)</item>
+        <item>(shēnghuó)</item>
+        <item>(shēngmìng)</item>
+        <item>(shěng)</item>
+        <item>(shèng)</item>
+        <item>(shībài)</item>
+        <item>(shīwàng)</item>
+        <item>(shīfù)</item>
+        <item>(shīrùn)</item>
+        <item>(shīzi)</item>
+        <item>(shífēn)</item>
+        <item>(shíjì)</item>
+        <item>(shízài)</item>
+        <item>(shípǐn)</item>
+        <item>(shǐyòng)</item>
+        <item>(shì)</item>
+        <item>(shìchǎng)</item>
+        <item>(shìhé)</item>
+        <item>(shìyìng)</item>
+        <item>(shìjì)</item>
+        <item>(shōu)</item>
+        <item>(shōurù)</item>
+        <item>(shōushí)</item>
+        <item>(shǒudū)</item>
+        <item>(shǒuxiān)</item>
+        <item>(shòu bùliǎo)</item>
+        <item>(shòudào)</item>
+        <item>(shòuhuòyuán)</item>
+        <item>(shū)</item>
+        <item>(shúxī)</item>
+        <item>(shùliàng)</item>
+        <item>(shùzì)</item>
+        <item>(shuài)</item>
+        <item>(shùnbiàn)</item>
+        <item>(shùnlì)</item>
+        <item>(shùnxù)</item>
+        <item>(shuōmíng)</item>
+        <item>(shuòshì)</item>
+        <item>(sǐ)</item>
+        <item>(sùdù)</item>
+        <item>(sùliào dài)</item>
+        <item>(suān)</item>
+        <item>(suàn)</item>
+        <item>(suíbiàn)</item>
+        <item>(suízhe)</item>
+        <item>(sūnzi)</item>
+        <item>(suǒyǒu)</item>
+        <item>(tái)</item>
+        <item>(tái)</item>
+        <item>(tàidù)</item>
+        <item>(tán)</item>
+        <item>(tán gāngqín)</item>
+        <item>(tāng)</item>
+        <item>(táng)</item>
+        <item>(tǎng)</item>
+        <item>(tàng)</item>
+        <item>(tǎolùn)</item>
+        <item>(tǎoyàn)</item>
+        <item>(tèdiǎn)</item>
+        <item>(tígōng)</item>
+        <item>(tíqián)</item>
+        <item>(tíxǐng)</item>
+        <item>(tiánkòng)</item>
+        <item>(tiáojiàn)</item>
+        <item>(tíngzhǐ)</item>
+        <item>(tǐng)</item>
+        <item>(tōngguò)</item>
+        <item>(tōngzhī)</item>
+        <item>(tóngqíng)</item>
+        <item>(tuī)</item>
+        <item>(tuīchí)</item>
+        <item>(tuō)</item>
+        <item>(wàzi)</item>
+        <item>(wánquán)</item>
+        <item>(wǎng)</item>
+        <item>(wǎngwǎng)</item>
+        <item>(wǎngqiú)</item>
+        <item>(wǎngzhàn)</item>
+        <item>(wéixiǎn)</item>
+        <item>(wèidào)</item>
+        <item>(wēndù)</item>
+        <item>(wénzhāng)</item>
+        <item>(wòshǒu)</item>
+        <item>(wūrǎn)</item>
+        <item>(wú)</item>
+        <item>(wúliáo)</item>
+        <item>(wúlùn)</item>
+        <item>(wùhuì)</item>
+        <item>(xīhóngshì)</item>
+        <item>(xīyǐn)</item>
+        <item>(xǐyījī)</item>
+        <item>(xián)</item>
+        <item>(xiàndài)</item>
+        <item>(xiànmù)</item>
+        <item>(xiànzhì)</item>
+        <item>(xiāng)</item>
+        <item>(xiāngfǎn)</item>
+        <item>(xiángxì)</item>
+        <item>(xiǎng)</item>
+        <item>(xiāoxī)</item>
+        <item>(xiǎoshuō)</item>
+        <item>(xiàohuà)</item>
+        <item>(xiàoguǒ)</item>
+        <item>(xīnkǔ)</item>
+        <item>(xīnqíng)</item>
+        <item>(xìnrèn)</item>
+        <item>(xìnxīn)</item>
+        <item>(xìnyòngkǎ)</item>
+        <item>(xīngfèn)</item>
+        <item>(xíng)</item>
+        <item>(xǐng)</item>
+        <item>(xìngbié)</item>
+        <item>(xìnggé)</item>
+        <item>(xìngfú)</item>
+        <item>(xiū)</item>
+        <item>(xǔduō)</item>
+        <item>(xuè)</item>
+        <item>(yālì)</item>
+        <item>(yágāo)</item>
+        <item>(yàzhōu)</item>
+        <item>(ya)</item>
+        <item>(yán)</item>
+        <item>(yángé)</item>
+        <item>(yánzhòng)</item>
+        <item>(yánjiūshēng)</item>
+        <item>(yǎnchū)</item>
+        <item>(yǎnyuán)</item>
+        <item>(yángguāng)</item>
+        <item>(yǎng chéng)</item>
+        <item>(yàngzi)</item>
+        <item>(yāoqǐng)</item>
+        <item>(yàoshi)</item>
+        <item>(yěxǔ)</item>
+        <item>(yè)</item>
+        <item>(yèzi)</item>
+        <item>(yīqiè)</item>
+        <item>(yǐ)</item>
+        <item>(yì)</item>
+        <item>(yìjiàn)</item>
+        <item>(yìsi)</item>
+        <item>(yìshù)</item>
+        <item>(yīncǐ)</item>
+        <item>(yǐnliào)</item>
+        <item>(yǐnqǐ)</item>
+        <item>(yìnxiàng)</item>
+        <item>(yíng)</item>
+        <item>(yìng)</item>
+        <item>(yǒnggǎn)</item>
+        <item>(yǒngyuǎn)</item>
+        <item>(yōudiǎn)</item>
+        <item>(yōuxiù)</item>
+        <item>(yōumò)</item>
+        <item>(yóu)</item>
+        <item>(yóuyú)</item>
+        <item>(yóuqí)</item>
+        <item>(yǒuqù)</item>
+        <item>(yǒuhǎo)</item>
+        <item>(yǒuyì)</item>
+        <item>(yúkuài)</item>
+        <item>(yúshì)</item>
+        <item>(yǔ)</item>
+        <item>(yǔfǎ)</item>
+        <item>(yǔyán)</item>
+        <item>(yǔmáoqiú)</item>
+        <item>(yùxí)</item>
+        <item>(yuán)</item>
+        <item>(yuánlái)</item>
+        <item>(yuánliàng)</item>
+        <item>(yuányīn)</item>
+        <item>(yuēhuì)</item>
+        <item>(yuèdú)</item>
+        <item>(yǔnxǔ)</item>
+        <item>(zázhì)</item>
+        <item>(zánmen)</item>
+        <item>(zhànshí)</item>
+        <item>(zàng)</item>
+        <item>(zérèn)</item>
+        <item>(zēngjiā)</item>
+        <item>(zēngzhǎng)</item>
+        <item>(zhǎi)</item>
+        <item>(zhāopìn)</item>
+        <item>(zhēnzhèng)</item>
+        <item>(zhěnglǐ)</item>
+        <item>(zhěngqí)</item>
+        <item>(zhèngcháng)</item>
+        <item>(zhènghǎo)</item>
+        <item>(zhèngquè)</item>
+        <item>(zhèngshì)</item>
+        <item>(zhèngmíng)</item>
+        <item>(zhī)</item>
+        <item>(zhǐ)</item>
+        <item>(zhīchí)</item>
+        <item>(zhīshì)</item>
+        <item>(zhídé)</item>
+        <item>(zhíjiē)</item>
+        <item>(zhíwù)</item>
+        <item>(zhíyè)</item>
+        <item>(zhǐ)</item>
+        <item>(zhǐhǎo)</item>
+        <item>(zhǐyào)</item>
+        <item>(zhìliàng)</item>
+        <item>(zhìshǎo)</item>
+        <item>(zhìzào)</item>
+        <item>(zhōngwén)</item>
+        <item>(zhòngdiǎn)</item>
+        <item>(zhòngshì)</item>
+        <item>(zhōuwéi)</item>
+        <item>(zhū)</item>
+        <item>(zhújiàn)</item>
+        <item>(zhǔdòng)</item>
+        <item>(zhǔyì)</item>
+        <item>(zhùhè)</item>
+        <item>(zhùmíng)</item>
+        <item>(zhuānmén)</item>
+        <item>(zhuānyè)</item>
+        <item>(zhuàn)</item>
+        <item>(zhuàng)</item>
+        <item>(zhǔnquè)</item>
+        <item>(zhǔnshí)</item>
+        <item>(zǐxì)</item>
+        <item>(zìrán)</item>
+        <item>(zǒngjié)</item>
+        <item>(zū)</item>
+        <item>(zǔchéng)</item>
+        <item>(zǔzhī)</item>
+        <item>(zuǐ)</item>
+        <item>(zuì hǎo)</item>
+        <item>(zuìhòu)</item>
+        <item>(zūnzhòng)</item>
+        <item>(zuò shēngyì)</item>
+        <item>(zuò)</item>
+        <item>(zuòwèi)</item>
+        <item>(zuòzhě)</item>
+    </string-array>
+    <string-array name="hsk4_juzipinyin">
+        <item>(Àiqíng shì xūyào bǎohù de.)</item>
+        <item>(Zhège chéngshì hěn ānquán, měi gèrén dōu dédào bǎo hù.)</item>
+        <item>(Míngnián wǒ xiǎng bàomíng dú bóshì bān.)</item>
+        <item>(Zhǐyào ànshí bǎ zuòyè zuò wán, wǒ bǎozhèng nǐ kěyǐ bìyè.)</item>
+        <item>(Nǐ de bàomíng biǎogé xiě cuòle, xūyào chóngxīn zài xiě yībiàn.)</item>
+        <item>(Bàba bǎ zhèngzài chīzhe bǐnggān de háizi bào qǐlái.)</item>
+        <item>(Tā bùdàn bù bèn, bìngqiě cōngmíng dé ràng nǐ chījīng.)</item>
+        <item>(Yīnwèi tā de chéng shí, lǎoshī biǎoyángle tā.)</item>
+        <item>(Bàoqiàn, wǒ cāi bù chū nǐ shì shéi.)</item>
+        <item>( Tiān ànle, wǒmen kuàikuài chéngzuò chūzū chē huíqù ba.)</item>
+        <item>(Jīntiān lái cānguān chángchéng de yóukè bǐ zuótiān duōle yī bèi.)</item>
+        <item>(Gēnjù xīnwén bàodào, chángjiāng shì zhōngguó zuì zhǎng de hé.)</item>
+        <item>(Wǒ běnlái xiǎng qù cānguān chángchéng, bùguò yīnwèi gōngzuò hěn máng, jiù méi qùle.)</item>
+        <item>(Tā de hànyǔ bùjǐn fāyīn biāozhǔn, bìngqiě yòng cí biǎodá dé hěn hǎo.)</item>
+        <item>(Wǒ mǎile yīgè bǐjìběn, huāle chàbùduō liǎng qiān kuài qián.)</item>
+        <item>(Zhège yuè yòng qián chāoguòle, wǒ bùdé bù xiǎoxīn yòng qián.)</item>
+        <item>(Hànyǔ shuǐpíng kǎoshì yǒusān gè bùfèn: Tīnglì, yuèdú hé shūxiě.)</item>
+        <item>(Bàomíng dú bóshì bān, xūyào shénme cáiliào?)</item>
+        <item>(Lǎowō de rénkǒu chāoguòle qībǎi wàn.)</item>
+        <item>(Jīntiān yǒu liǎng chǎng zúqiú bǐsài zài zhège chéngshì jǔxíng.)</item>
+        <item>(Qǐng nǐ chángcháng wǒ zuò de dàngāo.)</item>
+        <item>(Nǐ bìxū yào nǔlì cáinéng chéngwéi yīgè chénggōng de rén.)</item>
+        <item>(Shù shàng de shuǐguǒ dōu chéngshúle, kěyǐ chīle.)</item>
+        <item>(Tīng dào tā míngtiān jiù yào jiéhūnle, wǒ fēicháng chījīng.)</item>
+        <item>(Wǒ shì chéngzuò fēijī lái dào zhège chéngshì de.)</item>
+        <item>(Chōuyān duì shēntǐ bù hǎo, yě hěn huā qián.)</item>
+        <item>(Zuò dǎoyóu de yāo chángcháng chūchāi.)</item>
+        <item>(Nǐ yào diàochá wǒ zài nǎ`er chūshēng ma?)</item>
+        <item>(Wǒ bǎ wǒ chūshēng de cáiliào chuánzhēn dào dàshǐ guǎn.)</item>
+        <item>(Tā cónglái méiyǒu bǎ chuānghù dǎkāiguò.)</item>
+        <item>(Wǒ zài dàshǐ guǎn duìmiàn de shūdiàn mǎile yī běn cídiǎn.)</item>
+        <item>(Wǒ bù zhīdào zhège tí de dá`àn shì shénme.)</item>
+        <item>(Nàgè nǚ dǎoyóu dǎbàn dé hěn piàoliang.)</item>
+        <item>(Dàfū dǎzhēn shí bù kěyǐ bèi dǎrǎo dào.)</item>
+        <item>(Qǐngwèn nín yào dǎyìn jǐ fèn cáiliào?)</item>
+        <item>(Zhège shìqíng dàgài shì jǐ diǎn fāshēng de?)</item>
+        <item>(Zhōngguó de dàibiǎo dàyuē shénme shíhòu huì dào?)</item>
+        <item>(Bǎ shǒubiǎo dài hǎo, bùyào diàole.)</item>
+        <item>(Wǒ dàitì wáng dàfū hé nín duìhuà.)</item>
+        <item>(Dāng wǒ háishì értóng de shíhòu, wǒ zuì pà dǎzhēnle.)</item>
+        <item>(Dǎoyóu dài wǒmen qù chī dāngdì de shíwù.)</item>
+        <item>(Wǒ wèi dāngshí de shìqíng xiàng nín dàoqiàn.)</item>
+        <item>(Qǐngwèn, zhè bǎ dāo yǒu dǎzhé ma?)</item>
+        <item>(Zài chéngshì lǐ dàochù dōu dǔchē.)</item>
+        <item>(Jǐngchá dàodǐ xiǎng diàochá shénme?)</item>
+        <item>(Gōngzuò wánchéngle, tāmen dōu hěn déyì.)</item>
+        <item>(Dùzi èle, wǒ dé qù chīfànle.)</item>
+        <item>(Hěnduō shāngchǎng zài niándǐ dōu yǒu dǎzhé.)</item>
+        <item>(Nǐ yǒu diàocháguò dìqiú shàng yǒu duōshǎo rén ma?)</item>
+        <item>(Nǐ yǒu lǎowō dàshǐ guǎn dì dìzhǐ ma?)</item>
+        <item>(Shǒubiǎo de dàizi duànle, wǒ bǎ tā diūle.)</item>
+        <item>(Zhège tiàowǔ de dòngzuò bù tài nán.)</item>
+        <item>(Wǒ měitiān chī sān dùn fàn.)</item>
+        <item>(99 Duǒ huā, biǎoshì ài nǐ jiǔjiǔ.)</item>
+        <item>(Wǒ yǐjīng xiàng tā dàoqiànle, ér nǐ hái yào wǒ xiàng tā zài dàoqiàn yīcì?)</item>
+        <item>(Zhège guójiā yuè lái yuè fāzhǎn.)</item>
+        <item>(Měi gè guójiā dōu yǒu zìjǐ de fǎlǜ.)</item>
+        <item>(Méiyǒu ná dào gōngzī, měi gè gōngrén dōu hěn fánnǎo.)</item>
+        <item>(Gùkè gòuwù shí rúguǒ yǒu shé me wèntí, kěyǐ fǎnyìng gěi wǒmen.)</item>
+        <item>(Zhège wèntí hěn fùzá, nǐ yào duō xiǎngxiǎng.)</item>
+        <item>(Nǐ yǒu shé me fāngfǎ jiějué gōngrén gōngzī de wèntí ma?)</item>
+        <item>(Tā zài yùndòng fāngmiàn hěn xíng, fǎlǜ fāngmiàn jiù bùxíngle.)</item>
+        <item>(Lǜshī de gōngzuò shì fùzé fǎlǜ fāngmiàn de shìqíng.)</item>
+        <item>(Wèile zhàogù shēngbìng de fùqīn, wǒ fàngqì qù wàiguó xuéxí de jīhuì.)</item>
+        <item>(Xuéxiào fàng shǔjiàle, zài xuéxiào de fànwéi nèi dōu méiyǒu xuéshēngle.)</item>
+        <item>(Tā gānggāng gǎibiàn qù kàn fēngjǐng de juédìng.)</item>
+        <item>(Qǐng bāng wǒ fùyìn sān fèn wénjiàn.)</item>
+        <item>(Wǒ fùqīn de zhīshì fēicháng fēngfù.)</item>
+        <item>(Gūjì xiànzài chūfā huán lái de jí, fǒuzé jiù chídàole.)</item>
+        <item>(Guójiā fāzhǎnle, rénmen cái huì fù qǐlái.)</item>
+        <item>(Tiānqì tài gānzào, wǒ gǔlì dàjiā yào duō hē shuǐ.)</item>
+        <item>(Wǒ hěn gǎnxiè nín yuànyì jiēshòu wǒmen de fǎngwèn.)</item>
+        <item>(Nǐ xiǎng gàn zhège gōngzuò, nǐ fúhé yāoqiú ma?)</item>
+        <item>(Tā de àiqíng gùshì ràng wǒ hěn gǎndòng.)</item>
+        <item>(Zhège fángzi shì wǒ hé qīzi gòngtóng mǎi de.)</item>
+        <item>(Ràng wǒmen gòngtóng nǔlì fāzhǎn wǒmen de guójiā.)</item>
+        <item>(Wèi wǒmen de gǎnqíng gānbēi.)</item>
+        <item>(Méiyǒu péngyǒu huì ràng wǒmen juédé hěn gūdān.)</item>
+        <item>(Qǐng dàjiā bǎ gōngjù guà hǎo.)</item>
+        <item>(Wǒ gǎnjué gōngjù bù tài gòu, kěyǐ duō mǎi yīxiē ma?)</item>
+        <item>(Tā de gèzi dà, gàn huó yě hěn kuài.)</item>
+        <item>(Kànjiàn nàme duō de guānzhòng lái kàn biǎoyǎn, tā de xīnlǐ fēicháng jīdòng.)</item>
+        <item>(Wǒ dàxué shì dú hángbān guǎnlǐ de, ér xiànzài shì zuò guǎnggào.)</item>
+        <item>(Wǒ mǎile hěnduō jiājù, bǎ qián dōu huā guāngle.)</item>
+        <item>(Tā shì yīgè hěn yǒumíng de guǎngbò yuán.)</item>
+        <item>(Wǒmen xiān qù shāngchǎng guàngguàng, ránhòu zài qù gòuwù.)</item>
+        <item>(Tāmen guǒrán shì hùxiāng rènshí de.)</item>
+        <item>(Hánjià de shíhòu, wǒ jìhuà qù cānguān hǎiyáng gōngyuán.)</item>
+        <item>(Yùndòng hòu chū hàn, duì wǒmen de shēntǐ hěn yǒu hǎochù.)</item>
+        <item>(Tā shì yīgè hàixiū de rén, hěn héshì zuò hùshì zhè zhǒng gōngzuò.)</item>
+        <item>(Jíshǐ hàomǎ bùduì, wǒ yě zhīdào zhège hézi jiùshì wǒ de.)</item>
+        <item>( Wǒ zhōngyú chéngwéi yī míng hégé de hùshìle.)</item>
+        <item>(Wǒ jìle yī běn hěn hòu de shū gěi wǒ de péngyǒu.)</item>
+        <item>(Kàn dào tā de kāichē jìshù, wǒ hěn huáiyí tā shì zěnme kǎo dào jiàzhào de.)</item>
+        <item>(Tā bùxiǎng zuò guǎnggào, hòulái jiù qù zuò jìzhěle.)</item>
+        <item>(Jíshǐ zhǐshì yījù dàoqiàn dehuà, duì wǒ lái shuō yěshì jíqí nánshuō de.)</item>
+        <item>(Zuòle sānshí nián de hùshì, tā jīlěile hěnduō de gōngzuò jīngyàn.)</item>
+        <item>(Wǒ qù jiāyóu zhàn jiāyóu.)</item>
+        <item>(Jǐnguǎn chuānzhuó jǐngchá de yīfú, dàn wǒ zhīdào tā qíshí shì yīgè jiǎ jǐngchá.)</item>
+        <item>(Xiànzài jīngjì bú hǎo, dànshì cài de jiàgé háishì hěn gāo.)</item>
+        <item>(Jiǎnféi bù róngyì, nǐ yīdìng yào jiānchí.)</item>
+        <item>(Wèile jiǎnshǎo jìngzhēng, tā gùyì jiàngdī jiàgé.)</item>
+        <item>(Jiānglái wǒ yào chéngwéi yīgè jiāotōng jǐngchá, huòzhě chéngwéi jiàoshòu yě kěyǐ.)</item>
+        <item>(Zhège yuè méiyǒu dédào jiǎngjīn, zhēnshi kěxí.)</item>
+        <item>(Nǐ jùjué hé biérén jiāoliú, zěnme huì jiāo dào péngyǒu ne?)</item>
+        <item>(Hěnduō rén qù kàn jīngjù, jiéguǒ jiāotōng chūxiàn dà wèntí.)</item>
+        <item>(Nǐ chéngwéile yīgè kēxué jiàoshòu hòu, qiān wàn bié jiāo`ào.)</item>
+        <item>(Wǒ méi xiǎngdào jiǎozi jìngrán zhème hào chī.)</item>
+        <item>(Jiéhūn shì yī jiàn dàshì, bù kěyǐ ná lái kāiwánxiào de.)</item>
+        <item>(Tā de jīngshén kàn qǐlái hěn jǐnzhāng.)</item>
+        <item>(Tā de jīnglì hé jīngyàn, dōu hěn fúhé dāng jǐngchá de yāoqiú.)</item>
+        <item>(Jīngjù biǎoyǎn de liànxí, jìnxíng dé zěnme yàngle?)</item>
+        <item>(Zhè cì de jīngjù biǎoyǎn fēicháng jīngcǎi.)</item>
+        <item>(Jiāyóu zhàn qiánmiàn yǒu yīgè hěn dà de jìngzi.)</item>
+        <item>(Nǐ jiùjìng shì jǐngchá háishì jiāotōng jǐngchá?)</item>
+        <item>(Wǒ hái méi kǎolǜ hǎo yào bùyào hé nǐ jiéhūn.)</item>
+        <item>(Nǐ kěyǐ jùjué wǒ de ài, dàn bù kěyǐ jìnzhǐ wǒ ài nǐ.)</item>
+        <item>(Kàn tā késòu de yàngzi, zhēn de hěn kělián.)</item>
+        <item>(Nǐ kěndìng zhè kē shù de jiàgé shì yīqiān měiyuán?)</item>
+        <item>(Míngtiān jiùshì tā de jiéhūn rìzi, kěshì tā jīntiān hái jiānchí lái shàngbān.)</item>
+        <item>(Zhèlǐ de kōngqì zhēn hǎo, wǒ kǎolǜkǎolǜ yào bùyào bān lái zhèlǐ zhù.)</item>
+        <item>(Tā shì yīgè jīngyàn fēngfù de jǐngchá.)</item>
+        <item>(Wǒ kǒngpà tāmen liǎ bùnéng qù wàiguó liúxuéle.)</item>
+        <item>(Wǒ kěyǐ chī là, dàn bùnéng chīkǔ.)</item>
+        <item>(Lǎohǔ de lìqì shì hěn dà de, dàn tā yěshì hěn lǎn de.)</item>
+        <item>(Zhège lèsè tǒng yǒu duō kuān?)</item>
+        <item>(Jīntiān wǒ yòu kùn yòu lǎn, lián liáotiān dū méiyǒu lìqì.)</item>
+        <item>(Wǒ mǔqīn shì yīgè yòu lěngjìng yòu yǒu nàixīn de rén.)</item>
+        <item>(Nándào nǐ bù zhīdào, lèsè tǒng mǎnle jiù bù kěyǐ zài fàng lèsèle?)</item>
+        <item>(Wèile kuòdà hé tóngxuémen de liánxì, wǒ bǎ wǒ liǎn shū de mìmǎ gěile tāmen.)</item>
+        <item>(Tā zuògōng yòu lǎn yòu mǎhǔ, hái chángcháng láibují zuò wán.)</item>
+        <item>(Wǒ de mèng zhōng qíngrén shì yīgè yòu yǒu lǐmào yòu yǒu lǐxiǎng de rén.)</item>
+        <item>(Tiānqì yǐjīng hěn liángkuaile, bùyòng làngfèi diàn zài kāi kòngtiáole.)</item>
+        <item>(Mǔqīn hěn lìhài, tā fēicháng lǐjiě wǒmen de kùnnán hé xūyào.)</item>
+        <item>(Wǒ xǐhuān tīng liúxíng gē, yě xǐhuān mǎi liúxíng de yīfú.)</item>
+        <item>(Lǎowō yīgòng yǒu duōshǎo gè mínzú?)</item>
+        <item>(Nǐ qù wàiguó liúxué de mùdì shì shénme?)</item>
+        <item>(Zuó wǎn wǒmen yīzhí liáotiān dào tiānliàng.)</item>
+        <item>(Píngshí kǎoshì bùguò, wǒ yīdiǎn er yě bù huì juédé nánshòu.)</item>
+        <item>(Zhè piān duǎnwén de nèiróng xiě dé hěn hǎo.)</item>
+        <item>(Nóngcūn qióng, chéngshì fù, zhè jiùshì tāmen de qūbié.)</item>
+        <item>(Wǒ cuòle, yuànyì jiēshòu nín de pīpíng.)</item>
+        <item>(Píngshí wǒ xǐhuān dǎ pīngpāng qiú, ǒu`ěr yě huì dǎ lánqiú.)</item>
+        <item>(Qīnqī cóng nóngcūn lái, wǒ qǐngjià péi tā.)</item>
+        <item>(Qiáng nèi hé qiáng wài shì liǎng gè shìjiè.)</item>
+        <item>(Wǒ pànduàn bù chū píngzi nèi fàngle shénme dōngxī.)</item>
+        <item>(Zhège shāfā mài 2800 rénmínbì.)</item>
+        <item>(Wǒ xiǎng shēnqǐng qù shǒudū gōngzuò.)</item>
+        <item>(Wǒmen bùdàn yào shìyìng shèhuì, gèng yào gǎibiàn shèhuì.)</item>
+        <item>(Shībàile huì shāngxīn shīwàng, zhè dōu shì hěn zhèngcháng de.)</item>
+        <item>(Shēngmìng zhǐyǒu yīcì, wǒmen bù kěyǐ ràng tā shībài.)</item>
+        <item>(Wǒ shízài shòu bùliǎo nǐ zhège rén zěnme huì nàme shěng?)</item>
+        <item>(Wǒ bǎ shèng xià de shípǐn dōu shōu hǎole.)</item>
+        <item>(Wǒ de shī bó zhǎng dé hěn shuài.)</item>
+        <item>(Shíjì shang wǒ bù zhīdào hǎiyáng dàodǐ yǒu duō shēn.)</item>
+        <item>(Yào zài shǒudū gōngzuò, shǒuxiān bìxū shìyìng zhèlǐ de shēnghuó.)</item>
+        <item>(Lǎowō yīgòng yǒu jǐ gè shěng?)</item>
+        <item>(Nǐ hái méi shìguò, zěnme zhīdào yīdìng huì shībài ne?)</item>
+        <item>(Zài èrshíyī shìjì, yǒu shéi bù huì shǐyòng shǒujī?)</item>
+        <item>(Kànzhe tā shīrùn de yǎnjīng, wǒ bù gǎn gàosù tā wǒ shūle.)</item>
+        <item>(Sēnlín zhōng zuìdà de dòngwù bùshì shīzi, ér shì dà xiàng.)</item>
+        <item>(Wǒ shùnlì dì hé lǎobǎn tán hǎo suǒyǒu de gōngzuò tiáojiànle.)</item>
+        <item>(Tā de tàidù shuōmíngliǎo tā hěn tǎoyàn nǐ.)</item>
+        <item>(Qǐng nǐ suànsuàn zhèlǐ yīgòng yǒu duōshǎo shuāng wàzi?)</item>
+        <item>(Yīnwèi tā de tàidù lìng rén tǎoyàn, suǒyǐ miànshì méiyǒu bèi tōngguò.)</item>
+        <item>(Tōngguò fùmǔ de bāngzhù, wǒ zhōngyú mǎile yī táixīn de gāngqín.)</item>
+        <item>(Qǐng bāngmáng wǒ bǎ gāngqín tái gāo yīdiǎn er.)</item>
+        <item>(Nǐ dàn gāngqín de sùdù tǐng kuài de.)</item>
+        <item>(Lǎo zhāng de sūnzi sǐle, dàjiā dōu hěn tóngqíng tā.)</item>
+        <item>(Qǐng bǎ nǐ de tiáojiàn shùnxù xiě xiàlái.)</item>
+        <item>(Dǎ wán wǎngqiú hòu, qiúyuán dōu yào hùxiāng wòshǒu hòu cái kěyǐ líkāi.)</item>
+        <item>(Suǒyǒu de shuòshì shēng dōu shùnlì de bìyèle.)</item>
+        <item>(Wǒ wú qián wú xìnyòngkǎ, yě wú zǐ wú sūn.)</item>
+        <item>(Wúliáo de rén shì wúlùn rúhé yě xīyǐn bù dào biérén de.)</item>
+        <item>(Yǒule wùhuì, jiù bù róngyì hùxiāng xìnrènle.)</item>
+        <item>(Xiàndài de rén bù xǐhuān shòudào biérén de xiànzhì.)</item>
+        <item>(Qǐng nǐ xiángxì de gàosù wǒ, tā dì xìnggé shì zěnme yàng de?)</item>
+        <item>(Tā de xǐyījī hěn xiǎng, wǒ juédé xūyào ná qù xiūle.)</item>
+        <item>(Tā yǒu xǔduō guānyú fāshēng zài yàzhōu de shìqíng de xiāoxī.)</item>
+        <item>(Tā xǐhuān shuō xiàohuà, ràng tīng de rén xīnqíng biàn dé hǎo qǐlái.)</item>
+        <item>(Xìnggé bùtóng de rén zài yīqǐ chángcháng huì yǐnqǐ hěnduō wùhuì.)</item>
+        <item>(Zhè běn zázhì de míngzì jiào “yèzi”.)</item>
+        <item>(Tā shì yīgè fēicháng yōuxiù de yìshùjiā.)</item>
+        <item>(Nǐmen kěyǐ bǎ yīqiè de yìjiàn dōu shuō chūlái.)</item>
+        <item>( Dǎ yǔmáoqiú hěn yǒuqù yě hěn yǒuyìsi.)</item>
+        <item>(Tōngguò yǔmáoqiú bǐsài, kěyǐ ràng liǎng gè guójiā de yǒuyì déyǐ zēngjiā.)</item>
+        <item>(Qǐng nǐ bǎ yǒuguān zhāopìn de cáiliào zhěnglǐ hǎo.)</item>
+        <item>(Tā xuéxí chéngjī hěn hǎo de yuányīn, jiùshì yīnwèi tā chángcháng yùxí.)</item>
+        <item>(Yǔfǎ jǐ rén de yìnxiàng shì hěn nán xué de, dàn wǒ què xué dé hěn yǒuqù.)</item>
+        <item>(Lǎowō hé zhōngguó shì liǎng gè yǒuhǎo de guójiā.)</item>
+        <item>(Wǒ zuò cuòle, qǐng nǐ yuánliàng wǒ.)</item>
+        <item>(Wǒ bù yǔnxǔ xuéshēng zài bān shàng suíbiàn jìnchū.)</item>
+        <item>(Bàn zázhì, jiù yào bàn dé yǒuqù yòu xīyǐn rén.)</item>
+        <item>(Wǒ shì xiàozhǎng, xuéxiào fāshēngle shénme shìqíng dōu shì wǒ de zérèn.)</item>
+        <item>(Zhè kē shù de yèzi yòu yuán yòu dà, hěn tèbié.)</item>
+        <item>(Yōuxiù de rén dōu xǐhuān yuèdú, yīnwèi zhèyàng kěyǐ zēngjiā zhīshì.)</item>
+        <item>(Yōumò yù yǒuqù shì lián zài yīqǐ de, yǒnggǎn yǔ zérèn yěshì bù kěyǐ fēnkāi de.)</item>
+        <item>(Fùmǔ zhīchí wǒ chūlái zuò shēngyì, wǒ yě xiǎng zhèngmíng gěi tāmen kàn wǒ shì xíng de.)</item>
+        <item>(Shénme zhíyè bù chóng yào, zuì zhòngyào de shì kěyǐ zhuàn dào qián, shuō duì ma?)</item>
+        <item>(Zhè běn zhōngwén shū de zuòzhě shì shéi, tā de nèiróng yòu hǎo yòu zǐxì.)</item>
+        <item>(Nǐ gěi wǒ zuì hǎo de zhīchí, jiùshì zūnzhòng wǒ de juédìng.)</item>
+        <item>( Zhè zhùhè yǔ xiě de fēicháng hǎo, zhēn de zhèngmíng tā de wénxué shuǐpíng fēicháng shēn.)</item>
+        <item>( Zhōngwén shì yī mén hěn yǒuqù de yǔyán.)</item>
+        <item>(Wǒmen yào bǎohù dà zìrán, bùyào ràng dà zìrán shòudào wūrǎn.)</item>
+    </string-array>
+
+    <string-array name="hsk_colorspinyin">
+        <item>(yánsè )</item>
+        <item>(báisè)</item>
+        <item>(hēisè)</item>
+        <item>(lán sè)</item>
+        <item>(lǜsè)</item>
+        <item>(huángsè)</item>
+        <item>(hóngsè)</item>
+        <item>(fěnsè)</item>
+        <item>(chéngsè)</item>
+        <item>(zǐsè)</item>
+        <item>(huīsè)</item>
+        <item>(zōngsè)</item>
+    </string-array>
+    <string-array name="numberspinyin">
+        <item>(shùzì)</item>
+        <item>(yī)</item>
+        <item>(èr)</item>
+        <item>(liǎng)</item>
+        <item>(sān)</item>
+        <item>(sì)</item>
+        <item>(wǔ)</item>
+        <item>(liù)</item>
+        <item>(qī)</item>
+        <item>(bā)</item>
+        <item>(jiǔ)</item>
+        <item>(shí)</item>
+        <item>(shíyī)</item>
+        <item>(shí`èr)</item>
+        <item>(shísān)</item>
+        <item>(shísì)</item>
+        <item>(shíwǔ)</item>
+        <item>(shíliù)</item>
+        <item>(shíqī)</item>
+        <item>(shíbā)</item>
+        <item>(shíjiǔ)</item>
+        <item>(èrshí)</item>
+        <item>(sānshí)</item>
+        <item>(sìshí)</item>
+        <item>(wǔshí)</item>
+        <item>(liùshí)</item>
+        <item>(qīshí)</item>
+        <item>(bāshí)</item>
+        <item>(jiǔshí)</item>
+        <item>(yībǎi)</item>
+        <item>(liǎng bǎi)</item>
+        <item>(sānbǎi)</item>
+        <item>(sìbǎi)</item>
+        <item>(wǔbǎi)</item>
+        <item>(yīqiān)</item>
+        <item>(yī wàn)</item>
+        <item>(hí wàn)</item>
+        <item>(yībǎi wàn)</item>
+        <item>(yīqiān wàn)</item>
+        <item>(yì)</item>
+    </string-array>
+    <string-array name="fruitspinyin">
+        <item>(shuǐguǒ)</item>
+        <item>(píngguǒ)</item>
+        <item>(pútáo)</item>
+        <item>(mángguǒ)</item>
+        <item>(xiāngjiāo)</item>
+        <item>(huǒlóng guǒ)</item>
+        <item>(chéngzi)</item>
+        <item>(táozi)</item>
+        <item>(mùguā)</item>
+        <item>(xīguā)</item>
+        <item>(liúlián)</item>
+        <item>(lián wù)</item>
+        <item>(cǎoméi)</item>
+        <item>(yēzi)</item>
+        <item>(bālè)</item>
+        <item>(niúyóuguǒ)</item>
+        <item>(nánguā)</item>
+        <item>(bōluó)</item>
+        <item>(shíliú)</item>
+        <item>(níngméng)</item>
+        <item>(míhóutáo)</item>
+        <item>(lǐzǐ)</item>
+        <item>(yīngtáo)</item>
+        <item>(lánméi)</item>
+        <item>(bōluómì)</item>
+        <item>(rénxīn guǒ)</item>
+        <item>(lóngyǎn)</item>
+        <item>(hóng máo dān)</item>
+        <item>(lìzhī)</item>
+        <item>(yòuzi)</item>
+    </string-array>
+    <string-array name="familyspinyin">
+        <item>(Jiātíng)</item>
+        <item>(wǒ)</item>
+        <item>(nǐ)</item>
+        <item>(bàba)</item>
+        <item>(māmā)</item>
+        <item>(zhàngfū)</item>
+        <item>(qīzi)</item>
+        <item>(háizi)</item>
+        <item>(érzi)</item>
+        <item>(xífù)</item>
+        <item>(nǚ`ér)</item>
+        <item>(nǚxù)</item>
+        <item>(gēgē)</item>
+        <item>(sǎozi)</item>
+        <item>(dìdì)</item>
+        <item>(dìmèi)</item>
+        <item>(jiějiě)</item>
+        <item>(jiěfū)</item>
+        <item>(mèimei)</item>
+        <item>(mèifū)</item>
+        <item>(yéyé)</item>
+        <item>(nǎinai)</item>
+        <item>(wàigōng)</item>
+        <item>(wàipó)</item>
+        <item>(bóbo)</item>
+        <item>(shūshu)</item>
+        <item>(gūgū)</item>
+        <item>(jiùjiu)</item>
+        <item>(āyí)</item>
+        <item>(qīnqī)</item>
+    </string-array>
+    <string-array name="animalspinyin">
+        <item>(dòngwù)</item>
+        <item>(jī)</item>
+        <item>(yā) </item>
+        <item>(gǒu) </item>
+        <item>(māo) </item>
+        <item>(zhū) </item>
+        <item>(niú) </item>
+        <item>(yáng) </item>
+        <item>(shuǐniú) </item>
+        <item>(yú) </item>
+        <item>(dà xiàng) </item>
+        <item>(hóuzi) </item>
+        <item>(shīzi) </item>
+        <item>(lǎohǔ) </item>
+        <item>(niǎo) </item>
+        <item>(shé) </item>
+        <item>(xióng) </item>
+        <item>(xióngmāo) </item>
+        <item>(mǎ) </item>
+        <item>(èyú) </item>
+        <item>(qīngwā) </item>
+        <item>(wūguī) </item>
+        <item>(tùzǐ) </item>
+    </string-array>
+
+</resources>
